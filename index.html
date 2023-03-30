@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+    <link rel="stylesheet" href="tutorial/css/normalize.css" />
+    <link rel="stylesheet" href="tutorial/css/skeleton.css" />
+    <link rel="stylesheet" href="tutorial/css/font-awesome.css" />
+    <link rel="stylesheet" href="tutorial/css/open-sans.css" />
+    <link rel="stylesheet" href="tutorial/css/index.css" />
+    <link rel="stylesheet" href="tutorial/css/tooltipster.bundle.min.css" />
+
+    <script src="js/cytoscape.min.js"></script>
+    <script src="js/jquery-3.1.1.min.js"></script>
+    <script src="js/FileSaver.js"></script>
+    <script src="js/cytoscape-svg.js"></script>
+
+    <title>Paths</title>
+</head>
+
+<body>
+    <h1>Paths</h1>
+    <div class="tools">
+        <h2>Data</h2>
+        <p>Select between one of the example data sets.</p>
+        <label for="dataset-select" class="tooltip u-pull-left" title="Switch to a new dataset">Active dataset</label>
+        <div class="u-cf"></div>
+        <select class id="dataset-select">
+            <option value="0" selected>Genetic to Phenotype</option>
+            <option value="1">Molecular to Phenotype</option>
+            <option value="2">PET to Phenotype</option>
+            <option value="3">MRI to Phenotype</option>
+            <option value="4">Risk Factors to Phenotype</option>
+        </select>
+
+        <h2>Export data as SVG</h2>
+        <button style="width: 110px; height: 30px; text-align: center;" id="save-button">Save SVG</button>
+        <button style="width: 110px; height: 30px; text-align: center;" id="view-button">View SVG</button>
+        <button style="width: 110px; height: 30px; text-align: center;" id="save-png-button">Save PNG</button>
+    </div>
+
+    <div id="cy" class="main"></div>
+
+    <div class="footer-link">
+        <a target="_blank" href="http://js.cytoscape.org">js.cytoscape.org</a>
+    </div>
+
+    <script src='app_paths.js'></script>
+</body>
+
+</html>
