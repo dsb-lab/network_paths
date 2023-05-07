@@ -4,3891 +4,149 @@ var datasets = [
     {
       "nodes" : [ {
         "data" : {
-          "id" : "3951",
-          "y_position" : -850,
+          "id" : "52822",
           "ignore_existing" : true,
-          "node_degree" : 12.0,
+          "node_degree" : 6.0,
           "layer" : "RISKFACTORS",
-          "shared_name" : "MH18SURG",
-          "x_position" : 0,
-          "y0" : 800,
-          "name" : "MH18SURG",
-          "SUID" : 3951,
-          "id_original" : "MH18SURG",
-          "value" : "MH18SURG",
+          "shared_name" : "PTDOBYY",
+          "name" : "PTDOBYY",
+          "SUID" : 52822,
+          "id_original" : "PTDOBYY",
+          "value" : "PTDOBYY",
           "selected" : false
         },
         "position" : {
-          "x" : -5.253478082549549,
-          "y" : -822.0910999443742
+          "x" : 23.779866737033622,
+          "y" : -761.4780466296437
         },
         "selected" : false
       }, {
         "data" : {
-          "id" : "3949",
-          "y_position" : -851,
+          "id" : "52549",
           "ignore_existing" : true,
           "node_degree" : 9.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "MH15DRUG",
-          "x_position" : 50,
-          "y0" : 800,
-          "name" : "MH15DRUG",
-          "SUID" : 3949,
-          "id_original" : "MH15DRUG",
-          "value" : "MH15DRUG",
+          "layer" : "GENETIC",
+          "shared_name" : "CIR",
+          "name" : "CIR",
+          "SUID" : 52549,
+          "id_original" : "CIR",
+          "value" : "CIR",
           "selected" : false
         },
         "position" : {
-          "x" : 7.015678833360212,
-          "y" : -715.3975718567578
+          "x" : -71.78618867545333,
+          "y" : -166.76156801578028
         },
         "selected" : false
       }, {
         "data" : {
-          "id" : "3947",
-          "y_position" : -801,
-          "ignore_existing" : true,
-          "node_degree" : 6.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "MH14ALCH",
-          "x_position" : -50,
-          "y0" : 800,
-          "name" : "MH14ALCH",
-          "SUID" : 3947,
-          "id_original" : "MH14ALCH",
-          "value" : "MH14ALCH",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 29.90465581614423,
-          "y" : -637.6591228277422
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3945",
-          "y_position" : -950,
-          "ignore_existing" : true,
-          "node_degree" : 37.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "MH12RENA",
-          "x_position" : -500,
-          "y0" : 800,
-          "name" : "MH12RENA",
-          "SUID" : 3945,
-          "id_original" : "MH12RENA",
-          "value" : "MH12RENA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -170.7553056246656,
-          "y" : -757.3097915735443
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3943",
-          "y_position" : -801,
-          "ignore_existing" : true,
-          "node_degree" : 6.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "MH9ENDO",
-          "x_position" : 50,
-          "y0" : 800,
-          "name" : "MH9ENDO",
-          "SUID" : 3943,
-          "id_original" : "MH9ENDO",
-          "value" : "MH9ENDO",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 154.22881078160822,
-          "y" : -743.6614728541396
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3941",
-          "y_position" : -854,
-          "ignore_existing" : true,
-          "node_degree" : 16.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "MH8MUSCL",
-          "x_position" : -100,
-          "y0" : 800,
-          "name" : "MH8MUSCL",
-          "SUID" : 3941,
-          "id_original" : "MH8MUSCL",
-          "value" : "MH8MUSCL",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 38.48017364750315,
-          "y" : -792.4036815969021
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3939",
-          "y_position" : -804,
-          "ignore_existing" : true,
-          "node_degree" : 11.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "MH6HEPAT",
-          "x_position" : 100,
-          "y0" : 800,
-          "name" : "MH6HEPAT",
-          "SUID" : 3939,
-          "id_original" : "MH6HEPAT",
-          "value" : "MH6HEPAT",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 69.98557617368111,
-          "y" : -683.2345801666047
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3937",
-          "y_position" : -859,
-          "ignore_existing" : true,
-          "node_degree" : 2.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "MHPSYCH",
-          "x_position" : 150,
-          "y0" : 800,
-          "name" : "MHPSYCH",
-          "SUID" : 3937,
-          "id_original" : "MHPSYCH",
-          "value" : "MHPSYCH",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -2.6384537911037818,
-          "y" : -676.4397255085935
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3935",
-          "y_position" : -751,
-          "ignore_existing" : true,
-          "node_degree" : 4.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "GDS",
-          "x_position" : -50,
-          "y0" : 800,
-          "name" : "GDS",
-          "SUID" : 3935,
-          "id_original" : "GDS",
-          "value" : "GDS",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 32.164075198050575,
-          "y" : -677.8188873120882
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3933",
-          "y_position" : -866,
-          "ignore_existing" : true,
-          "node_degree" : 3.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "PTMARRY",
-          "x_position" : 200,
-          "y0" : 800,
-          "name" : "PTMARRY",
-          "SUID" : 3933,
-          "id_original" : "PTMARRY",
-          "value" : "PTMARRY",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -48.878608891701546,
-          "y" : -661.2375466288557
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3931",
-          "y_position" : -866,
-          "ignore_existing" : true,
-          "node_degree" : 10.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "PTHAND",
-          "x_position" : -200,
-          "y0" : 800,
-          "name" : "PTHAND",
-          "SUID" : 3931,
-          "id_original" : "PTHAND",
-          "value" : "PTHAND",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -85.58127084350157,
-          "y" : -705.6017160329122
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3929",
-          "y_position" : -825,
-          "ignore_existing" : true,
-          "node_degree" : 11.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "PTGENDER",
-          "x_position" : -250,
-          "y0" : 800,
-          "name" : "PTGENDER",
-          "SUID" : 3929,
-          "id_original" : "PTGENDER",
-          "value" : "PTGENDER",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -111.40964055822512,
-          "y" : -736.5854792504264
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3927",
-          "y_position" : -914,
-          "ignore_existing" : true,
-          "node_degree" : 44.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "HMEMOTIO",
-          "x_position" : 400,
-          "y0" : 800,
-          "name" : "HMEMOTIO",
-          "SUID" : 3927,
-          "id_original" : "HMEMOTIO",
-          "value" : "HMEMOTIO",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -128.6829399559391,
-          "y" : -769.014224267903
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3925",
-          "y_position" : -931,
-          "ignore_existing" : true,
-          "node_degree" : 7.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "AXFALL",
-          "x_position" : -450,
-          "y0" : 800,
-          "name" : "AXFALL",
-          "SUID" : 3925,
-          "id_original" : "AXFALL",
-          "value" : "AXFALL",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -26.814100367820835,
-          "y" : -854.7222327189958
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3923",
-          "y_position" : -816,
-          "ignore_existing" : true,
-          "node_degree" : 9.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "AXELMOOD",
-          "x_position" : -200,
-          "y0" : 800,
-          "name" : "AXELMOOD",
-          "SUID" : 3923,
-          "id_original" : "AXELMOOD",
-          "value" : "AXELMOOD",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -96.61456527146042,
-          "y" : -853.1141595553166
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3921",
-          "y_position" : -754,
-          "ignore_existing" : true,
-          "node_degree" : 5.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "AXDPMOOD",
-          "x_position" : -100,
-          "y0" : 800,
-          "name" : "AXDPMOOD",
-          "SUID" : 3921,
-          "id_original" : "AXDPMOOD",
-          "value" : "AXDPMOOD",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 80.90628394081308,
-          "y" : -788.5941018014483
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3919",
-          "y_position" : -900,
-          "ignore_existing" : true,
-          "node_degree" : 8.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "AXINSOMN",
-          "x_position" : -500,
-          "y0" : 800,
-          "name" : "AXINSOMN",
-          "SUID" : 3919,
-          "id_original" : "AXINSOMN",
-          "value" : "AXINSOMN",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -56.10228022562019,
-          "y" : -741.6016461231602
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3917",
-          "y_position" : -766,
-          "ignore_existing" : true,
-          "node_degree" : 17.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "AXRASH",
-          "x_position" : -200,
-          "y0" : 800,
-          "name" : "AXRASH",
-          "SUID" : 3917,
-          "id_original" : "AXRASH",
-          "value" : "AXRASH",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 58.22485014890896,
-          "y" : -828.9869089618484
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3915",
-          "y_position" : -786,
-          "ignore_existing" : true,
-          "node_degree" : 13.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "AXMUSCLE",
-          "x_position" : -300,
-          "y0" : 800,
-          "name" : "AXMUSCLE",
-          "SUID" : 3915,
-          "id_original" : "AXMUSCLE",
-          "value" : "AXMUSCLE",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 115.10689225044841,
-          "y" : -871.0432630007498
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3913",
-          "y_position" : -799,
-          "ignore_existing" : true,
-          "node_degree" : 14.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "AXANKLE",
-          "x_position" : -350,
-          "y0" : 800,
-          "name" : "AXANKLE",
-          "SUID" : 3913,
-          "id_original" : "AXANKLE",
-          "value" : "AXANKLE",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 145.95383996063907,
-          "y" : -831.6043443760275
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3911",
-          "y_position" : -809,
-          "ignore_existing" : true,
-          "node_degree" : 14.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "AXURNFRQ",
-          "x_position" : -150,
-          "y0" : 800,
-          "name" : "AXURNFRQ",
-          "SUID" : 3911,
-          "id_original" : "AXURNFRQ",
-          "value" : "AXURNFRQ",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 120.2478349127491,
-          "y" : -750.3770972853749
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3909",
-          "y_position" : -800,
-          "ignore_existing" : true,
-          "node_degree" : 14.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "AXURNDIS",
-          "x_position" : 0,
-          "y0" : 800,
-          "name" : "AXURNDIS",
-          "SUID" : 3909,
-          "id_original" : "AXURNDIS",
-          "value" : "AXURNDIS",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 95.79862700152042,
-          "y" : -705.6017160329122
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3907",
-          "y_position" : -849,
-          "ignore_existing" : true,
-          "node_degree" : 5.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "AXCHEST",
-          "x_position" : 350,
-          "y0" : 800,
-          "name" : "AXCHEST",
-          "SUID" : 3907,
-          "id_original" : "AXCHEST",
-          "value" : "AXCHEST",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 31.512728979823194,
-          "y" : -756.3997110700008
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3905",
-          "y_position" : -799,
-          "ignore_existing" : true,
-          "node_degree" : 6.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "AXPALPIT",
-          "x_position" : 350,
-          "y0" : 800,
-          "name" : "AXPALPIT",
-          "SUID" : 3905,
-          "id_original" : "AXPALPIT",
-          "value" : "AXPALPIT",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -0.40796913497001874,
-          "y" : -784.172081010399
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3903",
-          "y_position" : -766,
-          "ignore_existing" : true,
-          "node_degree" : 4.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "AXCOUGH",
-          "x_position" : 200,
-          "y0" : 800,
-          "name" : "AXCOUGH",
-          "SUID" : 3903,
-          "id_original" : "AXCOUGH",
-          "value" : "AXCOUGH",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -17.665934314003305,
-          "y" : -746.2789082683188
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3901",
-          "y_position" : -809,
-          "ignore_existing" : true,
-          "node_degree" : 4.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "AXBREATH",
-          "x_position" : 150,
-          "y0" : 800,
-          "name" : "AXBREATH",
-          "SUID" : 3901,
-          "id_original" : "AXBREATH",
-          "value" : "AXBREATH",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -148.03457543933308,
-          "y" : -712.1969780399967
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3899",
-          "y_position" : -786,
-          "ignore_existing" : true,
-          "node_degree" : 18.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "AXHDACHE",
-          "x_position" : 300,
-          "y0" : 800,
-          "name" : "AXHDACHE",
-          "SUID" : 3899,
-          "id_original" : "AXHDACHE",
-          "value" : "AXHDACHE",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -44.812759131422666,
-          "y" : -784.128710775933
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3897",
-          "y_position" : -775,
-          "ignore_existing" : true,
-          "node_degree" : 3.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "AXVISION",
-          "x_position" : -250,
-          "y0" : 800,
-          "name" : "AXVISION",
-          "SUID" : 3897,
-          "id_original" : "AXVISION",
-          "value" : "AXVISION",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -149.52810183756878,
-          "y" : -834.6861518848003
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3895",
-          "y_position" : -825,
-          "ignore_existing" : true,
-          "node_degree" : 5.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "AXENERGY",
-          "x_position" : 250,
-          "y0" : 800,
-          "name" : "AXENERGY",
-          "SUID" : 3895,
-          "id_original" : "AXENERGY",
-          "value" : "AXENERGY",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -86.08665887680537,
-          "y" : -775.0587104327386
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3893",
-          "y_position" : -836,
-          "ignore_existing" : true,
-          "node_degree" : 17.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "AXDIZZY",
-          "x_position" : 300,
-          "y0" : 800,
-          "name" : "AXDIZZY",
-          "SUID" : 3893,
-          "id_original" : "AXDIZZY",
-          "value" : "AXDIZZY",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -162.04151242848548,
-          "y" : -795.2745918647187
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3891",
-          "y_position" : -804,
-          "ignore_existing" : true,
-          "node_degree" : 14.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "AXSWEATN",
-          "x_position" : -100,
-          "y0" : 800,
-          "name" : "AXSWEATN",
-          "SUID" : 3891,
-          "id_original" : "AXSWEATN",
-          "value" : "AXSWEATN",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -61.06215376297108,
-          "y" : -826.6042899065375
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3889",
-          "y_position" : -816,
-          "ignore_existing" : true,
-          "node_degree" : 8.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "AXABDOMN",
-          "x_position" : 200,
-          "y0" : 800,
-          "name" : "AXABDOMN",
-          "SUID" : 3889,
-          "id_original" : "AXABDOMN",
-          "value" : "AXABDOMN",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -35.086990856752976,
-          "y" : -704.3956764700933
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3887",
-          "y_position" : -759,
-          "ignore_existing" : true,
-          "node_degree" : 7.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "AXCONSTP",
-          "x_position" : 150,
-          "y0" : 800,
-          "name" : "AXCONSTP",
-          "SUID" : 3887,
-          "id_original" : "AXCONSTP",
-          "value" : "AXCONSTP",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 21.6586197209477,
-          "y" : -858.6726645910161
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3885",
-          "y_position" : -759,
-          "ignore_existing" : true,
-          "node_degree" : 15.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "AXDIARRH",
-          "x_position" : -150,
-          "y0" : 800,
-          "name" : "AXDIARRH",
-          "SUID" : 3885,
-          "id_original" : "AXDIARRH",
-          "value" : "AXDIARRH",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 78.40423029864833,
-          "y" : -749.9080159854235
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3883",
-          "y_position" : -751,
-          "ignore_existing" : true,
-          "node_degree" : 13.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "AXVOMIT",
-          "x_position" : 50,
-          "y0" : 800,
-          "name" : "AXVOMIT",
-          "SUID" : 3883,
-          "id_original" : "AXVOMIT",
-          "value" : "AXVOMIT",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 99.16329300127684,
-          "y" : -835.2702841660696
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3881",
-          "y_position" : -775,
-          "ignore_existing" : true,
-          "node_degree" : 7.0,
-          "layer" : "RISKFACTORS",
-          "shared_name" : "AXNAUSEA",
-          "x_position" : 250,
-          "y0" : 800,
-          "name" : "AXNAUSEA",
-          "SUID" : 3881,
-          "id_original" : "AXNAUSEA",
-          "value" : "AXNAUSEA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 116.83370725804026,
-          "y" : -797.976622141295
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3879",
-          "y_position" : -536,
-          "ignore_existing" : true,
-          "node_degree" : 2.0,
-          "layer" : "MRI",
-          "shared_name" : "ST99TS",
-          "x_position" : 700,
-          "y0" : 400,
-          "name" : "ST99TS",
-          "SUID" : 3879,
-          "id_original" : "ST99TS",
-          "value" : "ST99TS",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 482.46192575971617,
-          "y" : -352.72088163273037
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3877",
-          "y_position" : -551,
-          "ignore_existing" : true,
-          "node_degree" : 7.0,
-          "layer" : "MRI",
-          "shared_name" : "ST99TA",
-          "x_position" : 450,
-          "y0" : 400,
-          "name" : "ST99TA",
-          "SUID" : 3877,
-          "id_original" : "ST99TA",
-          "value" : "ST99TA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 518.1068208703019,
-          "y" : -418.2480281268815
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3875",
-          "y_position" : -351,
-          "ignore_existing" : true,
-          "node_degree" : 7.0,
-          "layer" : "MRI",
-          "shared_name" : "ST99SA",
-          "x_position" : 350,
-          "y0" : 400,
-          "name" : "ST99SA",
-          "SUID" : 3875,
-          "id_original" : "ST99SA",
-          "value" : "ST99SA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 552.9446898545186,
-          "y" : -350.9294365372455
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3873",
-          "y_position" : -250,
-          "ignore_existing" : true,
-          "node_degree" : 5.0,
-          "layer" : "MRI",
-          "shared_name" : "ST99CV",
-          "x_position" : 400,
-          "y0" : 400,
-          "name" : "ST99CV",
-          "SUID" : 3873,
-          "id_original" : "ST99CV",
-          "value" : "ST99CV",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 471.3770857159734,
-          "y" : -311.25455261692554
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3871",
-          "y_position" : -454,
-          "ignore_existing" : true,
-          "node_degree" : 5.0,
-          "layer" : "MRI",
-          "shared_name" : "ST91TA",
-          "x_position" : 500,
-          "y0" : 400,
-          "name" : "ST91TA",
-          "SUID" : 3871,
-          "id_original" : "ST91TA",
-          "value" : "ST91TA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 419.69448758940376,
-          "y" : -296.9819606520501
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3869",
-          "y_position" : -251,
-          "ignore_existing" : true,
-          "node_degree" : 6.0,
-          "layer" : "MRI",
-          "shared_name" : "ST91SA",
-          "x_position" : 450,
-          "y0" : 400,
-          "name" : "ST91SA",
-          "SUID" : 3869,
-          "id_original" : "ST91SA",
-          "value" : "ST91SA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 270.90987987270574,
-          "y" : -464.45562289226217
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3867",
-          "y_position" : -251,
-          "ignore_existing" : true,
-          "node_degree" : 9.0,
-          "layer" : "MRI",
-          "shared_name" : "ST91CV",
-          "x_position" : 350,
-          "y0" : 400,
-          "name" : "ST91CV",
-          "SUID" : 3867,
-          "id_original" : "ST91CV",
-          "value" : "ST91CV",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 238.66890819216636,
-          "y" : -333.8920617215884
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3865",
-          "y_position" : -604,
-          "ignore_existing" : true,
-          "node_degree" : 2.0,
-          "layer" : "MRI",
-          "shared_name" : "ST90TS",
-          "x_position" : 500,
-          "y0" : 400,
-          "name" : "ST90TS",
-          "SUID" : 3865,
-          "id_original" : "ST90TS",
-          "value" : "ST90TS",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 199.27360594823568,
-          "y" : -356.8846308585337
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3863",
-          "y_position" : -404,
-          "ignore_existing" : true,
-          "node_degree" : 4.0,
-          "layer" : "MRI",
-          "shared_name" : "ST90TA",
-          "x_position" : 300,
-          "y0" : 400,
-          "name" : "ST90TA",
-          "SUID" : 3863,
-          "id_original" : "ST90TA",
-          "value" : "ST90TA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 191.33601042577064,
-          "y" : -493.3382262967323
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3861",
-          "y_position" : -504,
-          "ignore_existing" : true,
-          "node_degree" : 7.0,
-          "layer" : "MRI",
-          "shared_name" : "ST90SA",
-          "x_position" : 300,
-          "y0" : 400,
-          "name" : "ST90SA",
-          "SUID" : 3861,
-          "id_original" : "ST90SA",
-          "value" : "ST90SA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 237.87365121915826,
-          "y" : -504.6841627691136
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3859",
-          "y_position" : -259,
-          "ignore_existing" : true,
-          "node_degree" : 6.0,
-          "layer" : "MRI",
-          "shared_name" : "ST90CV",
-          "x_position" : 550,
-          "y0" : 400,
-          "name" : "ST90CV",
-          "SUID" : 3859,
-          "id_original" : "ST90CV",
-          "value" : "ST90CV",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 252.38866584929355,
-          "y" : -550.0948420113689
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3857",
-          "y_position" : -554,
-          "ignore_existing" : true,
-          "node_degree" : 10.0,
-          "layer" : "MRI",
-          "shared_name" : "ST85TS",
-          "x_position" : 500,
-          "y0" : 400,
-          "name" : "ST85TS",
-          "SUID" : 3857,
-          "id_original" : "ST85TS",
-          "value" : "ST85TS",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 338.68937511681,
-          "y" : -606.1947446022346
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3855",
-          "y_position" : -409,
-          "ignore_existing" : true,
-          "node_degree" : 6.0,
-          "layer" : "MRI",
-          "shared_name" : "ST85TA",
-          "x_position" : 250,
-          "y0" : 400,
-          "name" : "ST85TA",
-          "SUID" : 3855,
-          "id_original" : "ST85TA",
-          "value" : "ST85TA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 386.56272299457873,
-          "y" : -618.7786852632065
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3853",
-          "y_position" : -266,
-          "ignore_existing" : true,
-          "node_degree" : 6.0,
-          "layer" : "MRI",
-          "shared_name" : "ST85SA",
-          "x_position" : 600,
-          "y0" : 400,
-          "name" : "ST85SA",
-          "SUID" : 3853,
-          "id_original" : "ST85SA",
-          "value" : "ST85SA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 481.5885608578869,
-          "y" : -587.8011594921334
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3851",
-          "y_position" : -616,
-          "ignore_existing" : true,
-          "node_degree" : 6.0,
-          "layer" : "MRI",
-          "shared_name" : "ST85CV",
-          "x_position" : 200,
-          "y0" : 400,
-          "name" : "ST85CV",
-          "SUID" : 3851,
-          "id_original" : "ST85CV",
-          "value" : "ST85CV",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 549.7260722005126,
-          "y" : -533.1038681061583
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3849",
-          "y_position" : -466,
-          "ignore_existing" : true,
-          "node_degree" : 12.0,
-          "layer" : "MRI",
-          "shared_name" : "ST83TS",
-          "x_position" : 200,
-          "y0" : 400,
-          "name" : "ST83TS",
-          "SUID" : 3849,
-          "id_original" : "ST83TS",
-          "value" : "ST83TS",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 520.4125325479949,
-          "y" : -499.45507551217014
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3847",
-          "y_position" : -625,
-          "ignore_existing" : true,
-          "node_degree" : 10.0,
-          "layer" : "MRI",
-          "shared_name" : "ST83SA",
-          "x_position" : 650,
-          "y0" : 400,
-          "name" : "ST83SA",
-          "SUID" : 3847,
-          "id_original" : "ST83SA",
-          "value" : "ST83SA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 598.3712585162737,
-          "y" : -466.5555973303596
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3845",
-          "y_position" : -625,
-          "ignore_existing" : true,
-          "node_degree" : 6.0,
-          "layer" : "MRI",
-          "shared_name" : "ST83CV",
-          "x_position" : 150,
-          "y0" : 400,
-          "name" : "ST83CV",
-          "SUID" : 3845,
-          "id_original" : "ST83CV",
-          "value" : "ST83CV",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 593.2084718277315,
-          "y" : -419.35145396711204
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3843",
-          "y_position" : -359,
-          "ignore_existing" : true,
-          "node_degree" : 8.0,
-          "layer" : "MRI",
-          "shared_name" : "ST74TA",
-          "x_position" : 550,
-          "y0" : 400,
-          "name" : "ST74TA",
-          "SUID" : 3843,
-          "id_original" : "ST74TA",
-          "value" : "ST74TA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 442.1564386516056,
-          "y" : -378.0782601353414
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3841",
-          "y_position" : -636,
-          "ignore_existing" : true,
-          "node_degree" : 12.0,
-          "layer" : "MRI",
-          "shared_name" : "ST74SA",
-          "x_position" : 700,
-          "y0" : 400,
-          "name" : "ST74SA",
-          "SUID" : 3841,
-          "id_original" : "ST74SA",
-          "value" : "ST74SA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 437.2262757902855,
-          "y" : -333.01165197243455
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3839",
-          "y_position" : -475,
-          "ignore_existing" : true,
-          "node_degree" : 6.0,
-          "layer" : "MRI",
-          "shared_name" : "ST74CV",
-          "x_position" : 650,
-          "y0" : 400,
-          "name" : "ST74CV",
-          "SUID" : 3839,
-          "id_original" : "ST74CV",
-          "value" : "ST74CV",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 403.9511423318634,
-          "y" : -403.77496763342236
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3837",
-          "y_position" : -636,
-          "ignore_existing" : true,
-          "node_degree" : 7.0,
-          "layer" : "MRI",
-          "shared_name" : "ST60TS",
-          "x_position" : 100,
-          "y0" : 400,
-          "name" : "ST60TS",
-          "SUID" : 3837,
-          "id_original" : "ST60TS",
-          "value" : "ST60TS",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 322.64215076686907,
-          "y" : -393.83329368916935
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3835",
-          "y_position" : -386,
-          "ignore_existing" : true,
-          "node_degree" : 3.0,
-          "layer" : "MRI",
-          "shared_name" : "ST60SA",
-          "x_position" : 100,
-          "y0" : 400,
-          "name" : "ST60SA",
-          "SUID" : 3835,
-          "id_original" : "ST60SA",
-          "value" : "ST60SA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 275.6440846678236,
-          "y" : -385.2274491331683
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3833",
-          "y_position" : -366,
-          "ignore_existing" : true,
-          "node_degree" : 2.0,
-          "layer" : "MRI",
-          "shared_name" : "ST59TA",
-          "x_position" : 200,
-          "y0" : 400,
-          "name" : "ST59TA",
-          "SUID" : 3833,
-          "id_original" : "ST59TA",
-          "value" : "ST59TA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 235.34196272725086,
-          "y" : -421.9381324130522
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3831",
-          "y_position" : -451,
-          "ignore_existing" : true,
-          "node_degree" : 13.0,
-          "layer" : "MRI",
-          "shared_name" : "ST59SA",
-          "x_position" : 450,
-          "y0" : 400,
-          "name" : "ST59SA",
-          "SUID" : 3831,
-          "id_original" : "ST59SA",
-          "value" : "ST59SA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 348.4332306138291,
-          "y" : -343.49387692126487
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3829",
-          "y_position" : -354,
-          "ignore_existing" : true,
-          "node_degree" : 7.0,
-          "layer" : "MRI",
-          "shared_name" : "ST59CV",
-          "x_position" : 500,
-          "y0" : 400,
-          "name" : "ST59CV",
-          "SUID" : 3829,
-          "id_original" : "ST59CV",
-          "value" : "ST59CV",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 322.53558598664864,
-          "y" : -436.75019414443784
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3827",
-          "y_position" : -286,
-          "ignore_existing" : true,
-          "node_degree" : 9.0,
-          "layer" : "MRI",
-          "shared_name" : "ST57TS",
-          "x_position" : 100,
-          "y0" : 400,
-          "name" : "ST57TS",
-          "SUID" : 3827,
-          "id_original" : "ST57TS",
-          "value" : "ST57TS",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 293.679752893477,
-          "y" : -546.7522646889946
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3825",
-          "y_position" : -436,
-          "ignore_existing" : true,
-          "node_degree" : 7.0,
-          "layer" : "MRI",
-          "shared_name" : "ST57TA",
-          "x_position" : 100,
-          "y0" : 400,
-          "name" : "ST57TA",
-          "SUID" : 3825,
-          "id_original" : "ST57TA",
-          "value" : "ST57TA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 333.2428814416047,
-          "y" : -559.7330400330655
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3823",
-          "y_position" : -475,
-          "ignore_existing" : true,
-          "node_degree" : 5.0,
-          "layer" : "MRI",
-          "shared_name" : "ST57SA",
-          "x_position" : 150,
-          "y0" : 400,
-          "name" : "ST57SA",
-          "SUID" : 3823,
-          "id_original" : "ST57SA",
-          "value" : "ST57SA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 443.6809223569649,
-          "y" : -614.0436517404536
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3821",
-          "y_position" : -325,
-          "ignore_existing" : true,
-          "node_degree" : 4.0,
-          "layer" : "MRI",
-          "shared_name" : "ST57CV",
-          "x_position" : 150,
-          "y0" : 400,
-          "name" : "ST57CV",
-          "SUID" : 3821,
-          "id_original" : "ST57CV",
-          "value" : "ST57CV",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 405.7061211827602,
-          "y" : -542.329702053655
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3819",
-          "y_position" : -566,
-          "ignore_existing" : true,
-          "node_degree" : 4.0,
-          "layer" : "MRI",
-          "shared_name" : "ST56TS",
-          "x_position" : 200,
-          "y0" : 400,
-          "name" : "ST56TS",
-          "SUID" : 3819,
-          "id_original" : "ST56TS",
-          "value" : "ST56TS",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 443.46374007727917,
-          "y" : -515.668817625915
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3817",
-          "y_position" : -586,
-          "ignore_existing" : true,
-          "node_degree" : 14.0,
-          "layer" : "MRI",
-          "shared_name" : "ST56SA",
-          "x_position" : 100,
-          "y0" : 400,
-          "name" : "ST56SA",
-          "SUID" : 3817,
-          "id_original" : "ST56SA",
-          "value" : "ST56SA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 482.8590423212098,
-          "y" : -485.7804394714955
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3815",
-          "y_position" : -275,
-          "ignore_existing" : true,
-          "node_degree" : 6.0,
-          "layer" : "MRI",
-          "shared_name" : "ST56CV",
-          "x_position" : 150,
-          "y0" : 400,
-          "name" : "ST56CV",
-          "SUID" : 3815,
-          "id_original" : "ST56CV",
-          "value" : "ST56CV",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 482.64889243306084,
-          "y" : -441.24639766198015
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3813",
-          "y_position" : -459,
-          "ignore_existing" : true,
-          "node_degree" : 4.0,
-          "layer" : "MRI",
-          "shared_name" : "ST55TS",
-          "x_position" : 250,
-          "y0" : 400,
-          "name" : "ST55TS",
-          "SUID" : 3813,
-          "id_original" : "ST55TS",
-          "value" : "ST55TS",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 520.9589932916948,
-          "y" : -456.9438629149009
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3811",
-          "y_position" : -536,
-          "ignore_existing" : true,
-          "node_degree" : 5.0,
-          "layer" : "MRI",
-          "shared_name" : "ST55TA",
-          "x_position" : 100,
-          "y0" : 400,
-          "name" : "ST55TA",
-          "SUID" : 3811,
-          "id_original" : "ST55TA",
-          "value" : "ST55TA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 588.4313568827225,
-          "y" : -377.2833520472311
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3809",
-          "y_position" : -525,
-          "ignore_existing" : true,
-          "node_degree" : 8.0,
-          "layer" : "MRI",
-          "shared_name" : "ST55SA",
-          "x_position" : 150,
-          "y0" : 400,
-          "name" : "ST55SA",
-          "SUID" : 3809,
-          "id_original" : "ST55SA",
-          "value" : "ST55SA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 453.7060638934498,
-          "y" : -270.51957406550974
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3807",
-          "y_position" : -501,
-          "ignore_existing" : true,
-          "node_degree" : 7.0,
-          "layer" : "MRI",
-          "shared_name" : "ST52TS",
-          "x_position" : 350,
-          "y0" : 400,
-          "name" : "ST52TS",
-          "SUID" : 3807,
-          "id_original" : "ST52TS",
-          "value" : "ST52TS",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 353.9303084940276,
-          "y" : -300.8611337423966
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3805",
-          "y_position" : -316,
-          "ignore_existing" : true,
-          "node_degree" : 7.0,
-          "layer" : "MRI",
-          "shared_name" : "ST52TA",
-          "x_position" : 200,
-          "y0" : 400,
-          "name" : "ST52TA",
-          "SUID" : 3805,
-          "id_original" : "ST52TA",
-          "value" : "ST52TA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 314.45094700656205,
-          "y" : -318.77430258506257
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3803",
-          "y_position" : -486,
-          "ignore_existing" : true,
-          "node_degree" : 2.0,
-          "layer" : "MRI",
-          "shared_name" : "ST40TS",
-          "x_position" : 100,
-          "y0" : 400,
-          "name" : "ST40TS",
-          "SUID" : 3803,
-          "id_original" : "ST40TS",
-          "value" : "ST40TS",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 232.35700400517894,
-          "y" : -380.734923469256
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3801",
-          "y_position" : -604,
-          "ignore_existing" : true,
-          "node_degree" : 5.0,
-          "layer" : "MRI",
-          "shared_name" : "ST40CV",
-          "x_position" : 300,
-          "y0" : 400,
-          "name" : "ST40CV",
-          "SUID" : 3801,
-          "id_original" : "ST40CV",
-          "value" : "ST40CV",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 194.09433403276034,
-          "y" : -422.42241961852415
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3799",
-          "y_position" : -366,
-          "ignore_existing" : true,
-          "node_degree" : 7.0,
-          "layer" : "MRI",
-          "shared_name" : "ST32TS",
-          "x_position" : 600,
-          "y0" : 400,
-          "name" : "ST32TS",
-          "SUID" : 3799,
-          "id_original" : "ST32TS",
-          "value" : "ST32TS",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 229.6151656251225,
-          "y" : -462.3346888120829
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3797",
-          "y_position" : -309,
-          "ignore_existing" : true,
-          "node_degree" : 6.0,
-          "layer" : "MRI",
-          "shared_name" : "ST32TA",
-          "x_position" : 250,
-          "y0" : 400,
-          "name" : "ST32TA",
-          "SUID" : 3797,
-          "id_original" : "ST32TA",
-          "value" : "ST32TA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 255.21884983410456,
-          "y" : -592.901878621627
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3795",
-          "y_position" : -416,
-          "ignore_existing" : true,
-          "node_degree" : 2.0,
-          "layer" : "MRI",
-          "shared_name" : "ST32SA",
-          "x_position" : 200,
-          "y0" : 400,
-          "name" : "ST32SA",
-          "SUID" : 3795,
-          "id_original" : "ST32SA",
-          "value" : "ST32SA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 299.8722777460977,
-          "y" : -587.8420415689851
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3793",
-          "y_position" : -275,
-          "ignore_existing" : true,
-          "node_degree" : 4.0,
-          "layer" : "MRI",
-          "shared_name" : "ST31TA",
-          "x_position" : 650,
-          "y0" : 400,
-          "name" : "ST31TA",
-          "SUID" : 3793,
-          "id_original" : "ST31TA",
-          "value" : "ST31TA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 550.142293502318,
-          "y" : -579.5646066530821
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3791",
-          "y_position" : -351,
-          "ignore_existing" : true,
-          "node_degree" : 7.0,
-          "layer" : "MRI",
-          "shared_name" : "ST31SA",
-          "x_position" : 450,
-          "y0" : 400,
-          "name" : "ST31SA",
-          "SUID" : 3791,
-          "id_original" : "ST31SA",
-          "value" : "ST31SA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 477.1518145528623,
-          "y" : -632.828615618293
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3789",
-          "y_position" : -259,
-          "ignore_existing" : true,
-          "node_degree" : 7.0,
-          "layer" : "MRI",
-          "shared_name" : "ST31CV",
-          "x_position" : 250,
-          "y0" : 400,
-          "name" : "ST31CV",
-          "SUID" : 3789,
-          "id_original" : "ST31CV",
-          "value" : "ST31CV",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 516.71494310099,
-          "y" : -559.1647209204485
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3787",
-          "y_position" : -550,
-          "ignore_existing" : true,
-          "node_degree" : 5.0,
-          "layer" : "MRI",
-          "shared_name" : "ST26TA",
-          "x_position" : 400,
-          "y0" : 400,
-          "name" : "ST26TA",
-          "SUID" : 3787,
-          "id_original" : "ST26TA",
-          "value" : "ST26TA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 446.4842559029726,
-          "y" : -563.6330800659649
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3785",
-          "y_position" : -466,
-          "ignore_existing" : true,
-          "node_degree" : 6.0,
-          "layer" : "MRI",
-          "shared_name" : "ST26SA",
-          "x_position" : 600,
-          "y0" : 400,
-          "name" : "ST26SA",
-          "SUID" : 3785,
-          "id_original" : "ST26SA",
-          "value" : "ST26SA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 555.7444680182883,
-          "y" : -489.68502809171986
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3783",
-          "y_position" : -301,
-          "ignore_existing" : true,
-          "node_degree" : 5.0,
-          "layer" : "MRI",
-          "shared_name" : "ST26CV",
-          "x_position" : 350,
-          "y0" : 400,
-          "name" : "ST26CV",
-          "SUID" : 3783,
-          "id_original" : "ST26CV",
-          "value" : "ST26CV",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 553.1962942994475,
-          "y" : -401.0178085703692
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3781",
-          "y_position" : -586,
-          "ignore_existing" : true,
-          "node_degree" : 9.0,
-          "layer" : "MRI",
-          "shared_name" : "ST24TS",
-          "x_position" : 700,
-          "y0" : 400,
-          "name" : "ST24TS",
-          "SUID" : 3781,
-          "id_original" : "ST24TS",
-          "value" : "ST24TS",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 482.0802705751351,
-          "y" : -395.95434287885695
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3779",
-          "y_position" : -559,
-          "ignore_existing" : true,
-          "node_degree" : 5.0,
-          "layer" : "MRI",
-          "shared_name" : "ST24TA",
-          "x_position" : 550,
-          "y0" : 400,
-          "name" : "ST24TA",
-          "SUID" : 3779,
-          "id_original" : "ST24TA",
-          "value" : "ST24TA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 364.3312670779147,
-          "y" : -476.86807912371603
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3777",
-          "y_position" : -286,
-          "ignore_existing" : true,
-          "node_degree" : 3.0,
-          "layer" : "MRI",
-          "shared_name" : "ST24SA",
-          "x_position" : 700,
-          "y0" : 400,
-          "name" : "ST24SA",
-          "SUID" : 3777,
-          "id_original" : "ST24SA",
-          "value" : "ST24SA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 363.68953775426326,
-          "y" : -429.97904189982467
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3775",
-          "y_position" : -386,
-          "ignore_existing" : true,
-          "node_degree" : 6.0,
-          "layer" : "MRI",
-          "shared_name" : "ST24CV",
-          "x_position" : 700,
-          "y0" : 400,
-          "name" : "ST24CV",
-          "SUID" : 3775,
-          "id_original" : "ST24CV",
-          "value" : "ST24CV",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 392.47668545310955,
-          "y" : -321.9783575444757
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3773",
-          "y_position" : -436,
-          "ignore_existing" : true,
-          "node_degree" : 9.0,
-          "layer" : "MRI",
-          "shared_name" : "ST119TS",
-          "x_position" : 700,
-          "y0" : 400,
-          "name" : "ST119TS",
-          "SUID" : 3773,
-          "id_original" : "ST119TS",
-          "value" : "ST119TS",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 395.3661864894339,
-          "y" : -360.5835691617095
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3771",
-          "y_position" : -516,
-          "ignore_existing" : true,
-          "node_degree" : 3.0,
-          "layer" : "MRI",
-          "shared_name" : "ST119TA",
-          "x_position" : 200,
-          "y0" : 400,
-          "name" : "ST119TA",
-          "SUID" : 3771,
-          "id_original" : "ST119TA",
-          "value" : "ST119TA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 304.70033135561886,
-          "y" : -354.806585166118
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3769",
-          "y_position" : -575,
-          "ignore_existing" : true,
-          "node_degree" : 14.0,
-          "layer" : "MRI",
-          "shared_name" : "ST119SA",
-          "x_position" : 650,
-          "y0" : 400,
-          "name" : "ST119SA",
-          "SUID" : 3769,
-          "id_original" : "ST119SA",
-          "value" : "ST119SA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 319.65779941378185,
-          "y" : -469.94963492979326
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3767",
-          "y_position" : -309,
-          "ignore_existing" : true,
-          "node_degree" : 4.0,
-          "layer" : "MRI",
-          "shared_name" : "ST119CV",
-          "x_position" : 550,
-          "y0" : 400,
-          "name" : "ST119CV",
-          "SUID" : 3767,
-          "id_original" : "ST119CV",
-          "value" : "ST119CV",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 278.94886901851334,
-          "y" : -509.1092081366341
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3765",
-          "y_position" : -501,
-          "ignore_existing" : true,
-          "node_degree" : 7.0,
-          "layer" : "MRI",
-          "shared_name" : "ST118TA",
-          "x_position" : 450,
-          "y0" : 400,
-          "name" : "ST118TA",
-          "SUID" : 3765,
-          "id_original" : "ST118TA",
-          "value" : "ST118TA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 324.1100667547179,
-          "y" : -513.7956028572303
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3763",
-          "y_position" : -575,
-          "ignore_existing" : true,
-          "node_degree" : 2.0,
-          "layer" : "MRI",
-          "shared_name" : "ST118SA",
-          "x_position" : 150,
-          "y0" : 400,
-          "name" : "ST118SA",
-          "SUID" : 3763,
-          "id_original" : "ST118SA",
-          "value" : "ST118SA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 401.90171072180755,
-          "y" : -445.747493732163
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3761",
-          "y_position" : -451,
-          "ignore_existing" : true,
-          "node_degree" : 5.0,
-          "layer" : "MRI",
-          "shared_name" : "ST118CV",
-          "x_position" : 350,
-          "y0" : 400,
-          "name" : "ST118CV",
-          "SUID" : 3761,
-          "id_original" : "ST118CV",
-          "value" : "ST118CV",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 401.76538414397055,
-          "y" : -493.2749611451746
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3759",
-          "y_position" : -254,
-          "ignore_existing" : true,
-          "node_degree" : 3.0,
-          "layer" : "MRI",
-          "shared_name" : "ST116TS",
-          "x_position" : 300,
-          "y0" : 400,
-          "name" : "ST116TS",
-          "SUID" : 3759,
-          "id_original" : "ST116TS",
-          "value" : "ST116TS",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 438.6054375937804,
-          "y" : -468.2785642527489
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3757",
-          "y_position" : -301,
-          "ignore_existing" : true,
-          "node_degree" : 4.0,
-          "layer" : "MRI",
-          "shared_name" : "ST116TA",
-          "x_position" : 450,
-          "y0" : 400,
-          "name" : "ST116TA",
-          "SUID" : 3757,
-          "id_original" : "ST116TA",
-          "value" : "ST116TA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 369.060863066378,
-          "y" : -523.8907677449666
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3755",
-          "y_position" : -316,
-          "ignore_existing" : true,
-          "node_degree" : 8.0,
-          "layer" : "MRI",
-          "shared_name" : "ST116SA",
-          "x_position" : 600,
-          "y0" : 400,
-          "name" : "ST116SA",
-          "SUID" : 3755,
-          "id_original" : "ST116SA",
-          "value" : "ST116SA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 442.87983524679214,
-          "y" : -421.9344545594224
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3753",
-          "y_position" : -566,
-          "ignore_existing" : true,
-          "node_degree" : 7.0,
-          "layer" : "MRI",
-          "shared_name" : "ST116CV",
-          "x_position" : 600,
-          "y0" : 400,
-          "name" : "ST116CV",
-          "SUID" : 3753,
-          "id_original" : "ST116CV",
-          "value" : "ST116CV",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 518.3798739135719,
-          "y" : -373.3511493926799
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3751",
-          "y_position" : -400,
-          "ignore_existing" : true,
-          "node_degree" : 4.0,
-          "layer" : "MRI",
-          "shared_name" : "ST115TS",
-          "x_position" : 400,
-          "y0" : 400,
-          "name" : "ST115TS",
-          "SUID" : 3751,
-          "id_original" : "ST115TS",
-          "value" : "ST115TS",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 372.8422195740452,
-          "y" : -573.5300160015003
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3749",
-          "y_position" : -359,
-          "ignore_existing" : true,
-          "node_degree" : 3.0,
-          "layer" : "MRI",
-          "shared_name" : "ST115CV",
-          "x_position" : 250,
-          "y0" : 400,
-          "name" : "ST115CV",
-          "SUID" : 3749,
-          "id_original" : "ST115CV",
-          "value" : "ST115CV",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 362.16006692521216,
-          "y" : -382.6567778090984
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3747",
-          "y_position" : -404,
-          "ignore_existing" : true,
-          "node_degree" : 8.0,
-          "layer" : "MRI",
-          "shared_name" : "ST111TS",
-          "x_position" : 500,
-          "y0" : 400,
-          "name" : "ST111TS",
-          "SUID" : 3747,
-          "id_original" : "ST111TS",
-          "value" : "ST111TS",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 511.9301205347738,
-          "y" : -327.95948642312334
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3745",
-          "y_position" : -450,
-          "ignore_existing" : true,
-          "node_degree" : 12.0,
-          "layer" : "MRI",
-          "shared_name" : "ST111SA",
-          "x_position" : 400,
-          "y0" : 400,
-          "name" : "ST111SA",
-          "SUID" : 3745,
-          "id_original" : "ST111SA",
-          "value" : "ST111SA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 503.79147629164163,
-          "y" : -292.84447524156553
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3743",
-          "y_position" : -401,
-          "ignore_existing" : true,
-          "node_degree" : 10.0,
-          "layer" : "MRI",
-          "shared_name" : "ST111CV",
-          "x_position" : 350,
-          "y0" : 400,
-          "name" : "ST111CV",
-          "SUID" : 3743,
-          "id_original" : "ST111CV",
-          "value" : "ST111CV",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 319.70934502956584,
-          "y" : -275.39634572605917
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3741",
-          "y_position" : -304,
-          "ignore_existing" : true,
-          "node_degree" : 2.0,
-          "layer" : "MRI",
-          "shared_name" : "RHIPPO",
-          "x_position" : 500,
-          "y0" : 400,
-          "name" : "RHIPPO",
-          "SUID" : 3741,
-          "id_original" : "RHIPPO",
-          "value" : "RHIPPO",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 278.5977272393877,
-          "y" : -422.6524701104491
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3739",
-          "y_position" : -559,
-          "ignore_existing" : true,
-          "node_degree" : 14.0,
-          "layer" : "MRI",
-          "shared_name" : "IPCA",
-          "x_position" : 250,
-          "y0" : 400,
-          "name" : "IPCA",
-          "SUID" : 3739,
-          "id_original" : "IPCA",
-          "value" : "IPCA",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 175.51173375639908,
-          "y" : -391.480657940179
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3737",
-          "y_position" : -409,
-          "ignore_existing" : true,
-          "node_degree" : 6.0,
-          "layer" : "MRI",
-          "shared_name" : "TBM_1",
-          "x_position" : 550,
-          "y0" : 400,
-          "name" : "TBM_1",
-          "SUID" : 3737,
-          "id_original" : "TBM_1",
-          "value" : "TBM_1",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 169.32916283284243,
-          "y" : -455.4651436099272
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3735",
-          "y_position" : -416,
-          "ignore_existing" : true,
-          "node_degree" : 7.0,
-          "layer" : "MRI",
-          "shared_name" : "TOTAL_WHITE",
-          "x_position" : 600,
-          "y0" : 400,
-          "name" : "TOTAL\nWHITE",
-          "SUID" : 3735,
-          "id_original" : "TOTAL_WHITE",
-          "value" : "TOTAL_WHITE",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 205.40068150398915,
-          "y" : -541.6457955002104
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3733",
-          "y_position" : -504,
-          "ignore_existing" : true,
-          "node_degree" : 6.0,
-          "layer" : "MRI",
-          "shared_name" : "TOTAL_GRAY",
-          "x_position" : 500,
-          "y0" : 400,
-          "name" : "TOTAL\nGRAY",
-          "SUID" : 3733,
-          "id_original" : "TOTAL_GRAY",
-          "value" : "TOTAL_GRAY",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 289.1707276203299,
-          "y" : -631.0309759457643
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3731",
-          "y_position" : -609,
-          "ignore_existing" : true,
-          "node_degree" : 5.0,
-          "layer" : "MRI",
-          "shared_name" : "R_HIPPO",
-          "x_position" : 550,
-          "y0" : 400,
-          "name" : "R_HIPPO",
-          "SUID" : 3731,
-          "id_original" : "R_HIPPO",
-          "value" : "R_HIPPO",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 592.7833821215472,
-          "y" : -561.7520773899905
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3729",
-          "y_position" : -459,
-          "ignore_existing" : true,
-          "node_degree" : 5.0,
-          "layer" : "MRI",
-          "shared_name" : "L_HIPPO",
-          "x_position" : 550,
-          "y0" : 400,
-          "name" : "L_HIPPO",
-          "SUID" : 3729,
-          "id_original" : "L_HIPPO",
-          "value" : "L_HIPPO",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 518.2886158838116,
-          "y" : -609.784747372401
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3727",
-          "y_position" : -600,
-          "ignore_existing" : true,
-          "node_degree" : 9.0,
-          "layer" : "MRI",
-          "shared_name" : "CEREB_WHITE",
-          "x_position" : 400,
-          "y0" : 400,
-          "name" : "CEREB\nWHITE",
-          "SUID" : 3727,
-          "id_original" : "CEREB_WHITE",
-          "value" : "CEREB_WHITE",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 410.6939663621997,
-          "y" : -589.3353134598876
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3725",
-          "y_position" : -325,
-          "ignore_existing" : true,
-          "node_degree" : 6.0,
-          "layer" : "MRI",
-          "shared_name" : "CEREB_GRAY",
-          "x_position" : 650,
-          "y0" : 400,
-          "name" : "CEREB\nGRAY",
-          "SUID" : 3725,
-          "id_original" : "CEREB_GRAY",
-          "value" : "CEREB_GRAY",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 590.1820585488799,
-          "y" : -512.4230608452066
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3723",
-          "y_position" : -616,
-          "ignore_existing" : true,
-          "node_degree" : 6.0,
-          "layer" : "MRI",
-          "shared_name" : "CEREB_TCB",
-          "x_position" : 600,
-          "y0" : 400,
-          "name" : "CEREB\nTCB",
-          "SUID" : 3723,
-          "id_original" : "CEREB_TCB",
-          "value" : "CEREB_TCB",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 485.00693758642535,
-          "y" : -534.7499864827364
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3721",
-          "y_position" : -486,
-          "ignore_existing" : true,
-          "node_degree" : 15.0,
-          "layer" : "MRI",
-          "shared_name" : "CEREB_TCV",
-          "x_position" : 700,
-          "y0" : 400,
-          "name" : "CEREB_TCV",
-          "SUID" : 3721,
-          "id_original" : "CEREB_TCV",
-          "value" : "CEREB_TCV",
-          "selected" : false
-        },
-        "position" : {
-          "x" : 558.3158249519333,
-          "y" : -447.19017278895825
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3719",
-          "y_position" : -386,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 10.0,
-          "layer" : "PET",
-          "shared_name" : "SROI_FDG",
-          "x_position" : -100,
-          "y0" : 400,
-          "name" : "SROI_FDG",
-          "SUID" : 3719,
-          "id_original" : "SROI_FDG",
-          "value" : "SROI_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -180.98620618726193,
-          "y" : -374.40706891719594
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3717",
-          "y_position" : -425,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 22.0,
-          "layer" : "PET",
-          "shared_name" : "HCI_2014_FDG",
-          "x_position" : -150,
-          "y0" : 400,
-          "name" : "HCI_2014\nFDG",
-          "SUID" : 3717,
-          "id_original" : "HCI_2014_FDG",
-          "value" : "HCI_2014_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -205.4465898514056,
-          "y" : -350.277384637908
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3715",
-          "y_position" : -375,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 11.0,
-          "layer" : "PET",
-          "shared_name" : "PLSFDG01_FDG",
-          "x_position" : -150,
-          "y0" : 400,
-          "name" : "PLSFDG01\nFDG",
-          "SUID" : 3715,
-          "id_original" : "PLSFDG01_FDG",
-          "value" : "PLSFDG01_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -251.42554309027116,
-          "y" : -358.2645170172148
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3713",
-          "y_position" : -366,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 49.0,
-          "layer" : "PET",
-          "shared_name" : "PCA2_FDG",
-          "x_position" : -200,
-          "y0" : 400,
-          "name" : "PCA2_FDG",
-          "SUID" : 3713,
-          "id_original" : "PCA2_FDG",
-          "value" : "PCA2_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -303.37304842185847,
-          "y" : -410.9600122386206
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3711",
-          "y_position" : -354,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 12.0,
-          "layer" : "PET",
-          "shared_name" : "HCI_FDG",
-          "x_position" : -300,
-          "y0" : 400,
-          "name" : "HCI_FDG",
-          "SUID" : 3711,
-          "id_original" : "HCI_FDG",
-          "value" : "HCI_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -345.88281522009976,
-          "y" : -407.96973592553206
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3709",
-          "y_position" : -351,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 4.0,
-          "layer" : "PET",
-          "shared_name" : "RECTUSR02_FDG",
-          "x_position" : -350,
-          "y0" : 400,
-          "name" : "RECTUSR02\nFDG",
-          "SUID" : 3709,
-          "id_original" : "RECTUSR02_FDG",
-          "value" : "RECTUSR02_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -368.97302460340285,
-          "y" : -369.7572521435331
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3707",
-          "y_position" : -400,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 13.0,
-          "layer" : "PET",
-          "shared_name" : "PRECUNR02_FDG",
-          "x_position" : -400,
-          "y0" : 400,
-          "name" : "PRECUNR02\nFDG",
-          "SUID" : 3707,
-          "id_original" : "PRECUNR02_FDG",
-          "value" : "PRECUNR02_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -410.01847889310716,
-          "y" : -394.96193597057106
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3705",
-          "y_position" : -416,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 9.0,
-          "layer" : "PET",
-          "shared_name" : "CINGMIDR02_FDG",
-          "x_position" : -200,
-          "y0" : 400,
-          "name" : "CINGMIDR02\nFDG",
-          "SUID" : 3705,
-          "id_original" : "CINGMIDR02_FDG",
-          "value" : "CINGMIDR02_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -445.18370614108034,
-          "y" : -383.7415523824138
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3703",
-          "y_position" : -501,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 14.0,
-          "layer" : "PET",
-          "shared_name" : "CINGANTR02_FDG",
-          "x_position" : -450,
-          "y0" : 400,
-          "name" : "CINGANTR02\nFDG",
-          "SUID" : 3703,
-          "id_original" : "CINGANTR02_FDG",
-          "value" : "CINGANTR02_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -368.76078249421226,
-          "y" : -488.58465167836215
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3701",
-          "y_position" : -504,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 30.0,
-          "layer" : "PET",
-          "shared_name" : "TMPPOSR02_FDG",
-          "x_position" : -500,
-          "y0" : 400,
-          "name" : "TMPPOSR02\nFDG",
-          "SUID" : 3701,
-          "id_original" : "TMPPOSR02_FDG",
-          "value" : "TMPPOSR02_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -444.9703824534987,
-          "y" : -470.5246224090933
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3699",
-          "y_position" : -509,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 14.0,
-          "layer" : "PET",
-          "shared_name" : "INSULAR02_FDG",
-          "x_position" : -550,
-          "y0" : 400,
-          "name" : "INSULAR02\nFDG",
-          "SUID" : 3699,
-          "id_original" : "INSULAR02_FDG",
-          "value" : "INSULAR02_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -381.2587951950624,
-          "y" : -527.1061700271277
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3697",
-          "y_position" : -416,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 17.0,
-          "layer" : "PET",
-          "shared_name" : "TMPMIDR02_FDG",
-          "x_position" : -600,
-          "y0" : 400,
-          "name" : "TMPMIDR02\nFDG",
-          "SUID" : 3697,
-          "id_original" : "TMPMIDR02_FDG",
-          "value" : "TMPMIDR02_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -466.8427351499287,
-          "y" : -428.00742161351405
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3695",
-          "y_position" : -425,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 7.0,
-          "layer" : "PET",
-          "shared_name" : "PARIINFR02_FDG",
-          "x_position" : -650,
-          "y0" : 400,
-          "name" : "PARIINFR02\nFDG",
-          "SUID" : 3695,
-          "id_original" : "PARIINFR02_FDG",
-          "value" : "PARIINFR02_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -323.2926775336703,
-          "y" : -498.3446735917519
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3693",
-          "y_position" : -436,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 8.0,
-          "layer" : "PET",
-          "shared_name" : "ANGULL02_FDG",
-          "x_position" : -700,
-          "y0" : 400,
-          "name" : "ANGULL02\nFDG",
-          "SUID" : 3693,
-          "id_original" : "ANGULL02_FDG",
-          "value" : "ANGULL02_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -299.9228350124429,
-          "y" : -564.343538721489
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3691",
-          "y_position" : -316,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 1.0,
-          "layer" : "PET",
-          "shared_name" : "ANGULR02_FDG",
-          "x_position" : -600,
-          "y0" : 400,
-          "name" : "ANGULR02\nFDG",
-          "SUID" : 3691,
-          "id_original" : "ANGULR02_FDG",
-          "value" : "ANGULR02_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -204.96338474664512,
-          "y" : -536.1034542770258
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3689",
-          "y_position" : -466,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 9.0,
-          "layer" : "PET",
-          "shared_name" : "FRTSUPR02_FDG",
-          "x_position" : -600,
-          "y0" : 400,
-          "name" : "FRTSUPR02\nFDG",
-          "SUID" : 3689,
-          "id_original" : "FRTSUPR02_FDG",
-          "value" : "FRTSUPR02_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -278.54216543663296,
-          "y" : -487.0050029720384
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3687",
-          "y_position" : -404,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 7.0,
-          "layer" : "PET",
-          "shared_name" : "FRTMIDR02_FDG",
-          "x_position" : -500,
-          "y0" : 400,
-          "name" : "FRTMIDR02\nFDG",
-          "SUID" : 3687,
-          "id_original" : "FRTMIDR02_FDG",
-          "value" : "FRTMIDR02_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -244.4276491480253,
-          "y" : -513.9043054220601
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3685",
-          "y_position" : -301,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 8.0,
-          "layer" : "PET",
-          "shared_name" : "FRTMIDOR02_FDG",
-          "x_position" : -350,
-          "y0" : 400,
-          "name" : "FRTMIDOR02\nFDG",
-          "SUID" : 3685,
-          "id_original" : "FRTMIDOR02_FDG",
-          "value" : "FRTMIDOR02_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -257.9497580675951,
-          "y" : -400.18659393091866
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3683",
-          "y_position" : -436,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 7.0,
-          "layer" : "PET",
-          "shared_name" : "CINGANTL02_FDG",
-          "x_position" : -100,
-          "y0" : 400,
-          "name" : "CINGANTL02\nFDG",
-          "SUID" : 3683,
-          "id_original" : "CINGANTL02_FDG",
-          "value" : "CINGANTL02_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -269.581275335556,
-          "y" : -321.20951201077764
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3681",
-          "y_position" : -325,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 12.0,
-          "layer" : "PET",
-          "shared_name" : "PRECUNL02_FDG",
-          "x_position" : -650,
-          "y0" : 400,
-          "name" : "PRECUNL02\nFDG",
-          "SUID" : 3681,
-          "id_original" : "PRECUNL02_FDG",
-          "value" : "PRECUNL02_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -308.12189769522683,
-          "y" : -327.90441959023576
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3679",
-          "y_position" : -475,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 23.0,
-          "layer" : "PET",
-          "shared_name" : "TMPINFL02_FDG",
-          "x_position" : -150,
-          "y0" : 400,
-          "name" : "TMPINFL02\nFDG",
-          "SUID" : 3679,
-          "id_original" : "TMPINFL02_FDG",
-          "value" : "TMPINFL02_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -342.71817283539167,
-          "y" : -294.80453630635924
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3677",
-          "y_position" : -386,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 15.0,
-          "layer" : "PET",
-          "shared_name" : "OCCMIDL02_FDG",
-          "x_position" : -700,
-          "y0" : 400,
-          "name" : "OCCMIDL02\nFDG",
-          "SUID" : 3677,
-          "id_original" : "OCCMIDL02_FDG",
-          "value" : "OCCMIDL02_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -428.1502965138876,
-          "y" : -308.79705577932384
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3675",
-          "y_position" : -401,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 7.0,
-          "layer" : "PET",
-          "shared_name" : "TMPMIDL02_FDG",
-          "x_position" : -450,
-          "y0" : 400,
-          "name" : "TMPMIDL02\nFDG",
-          "SUID" : 3675,
-          "id_original" : "TMPMIDL02_FDG",
-          "value" : "TMPMIDL02_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -487.72439836183923,
-          "y" : -348.82866175541994
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3673",
-          "y_position" : -450,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 8.0,
-          "layer" : "PET",
-          "shared_name" : "FUSFRML02_FDG",
-          "x_position" : -400,
-          "y0" : 400,
-          "name" : "FUSFRML02\nFDG",
-          "SUID" : 3673,
-          "id_original" : "FUSFRML02_FDG",
-          "value" : "FUSFRML02_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -508.0561246471928,
-          "y" : -441.10157676573965
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3671",
-          "y_position" : -525,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 16.0,
-          "layer" : "PET",
-          "shared_name" : "FRTSMEDL02_FDG",
-          "x_position" : -150,
-          "y0" : 400,
-          "name" : "FRTSMEDL02\nFDG",
-          "SUID" : 3671,
-          "id_original" : "FRTSMEDL02_FDG",
-          "value" : "FRTSMEDL02_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -475.52526581796707,
-          "y" : -545.9446760616881
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3669",
-          "y_position" : -304,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 7.0,
-          "layer" : "PET",
-          "shared_name" : "CINGMIDL02_FDG",
-          "x_position" : -500,
-          "y0" : 400,
-          "name" : "CINGMIDL02\nFDG",
-          "SUID" : 3669,
-          "id_original" : "CINGMIDL02_FDG",
-          "value" : "CINGMIDL02_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -372.781110198746,
-          "y" : -603.6823826482737
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3667",
-          "y_position" : -516,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 5.0,
-          "layer" : "PET",
-          "shared_name" : "CINGPSTL02_FDG",
-          "x_position" : -200,
-          "y0" : 400,
-          "name" : "CINGPSTL02\nFDG",
-          "SUID" : 3667,
-          "id_original" : "CINGPSTL02_FDG",
-          "value" : "CINGPSTL02_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -455.8602182235787,
-          "y" : -508.8999895712591
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3665",
-          "y_position" : -509,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 19.0,
-          "layer" : "PET",
-          "shared_name" : "FRTMIDL02_FDG",
-          "x_position" : -250,
-          "y0" : 400,
-          "name" : "FRTMIDL02\nFDG",
-          "SUID" : 3665,
-          "id_original" : "FRTMIDL02_FDG",
-          "value" : "FRTMIDL02_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -398.29096375290413,
-          "y" : -564.4705084269106
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3663",
-          "y_position" : -475,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 11.0,
-          "layer" : "PET",
-          "shared_name" : "FRTSUPL02_FDG",
-          "x_position" : -650,
-          "y0" : 400,
-          "name" : "FRTSUPL02\nFDG",
-          "SUID" : 3663,
-          "id_original" : "FRTSUPL02_FDG",
-          "value" : "FRTSUPL02_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -286.8231067799202,
-          "y" : -608.371733432647
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3661",
-          "y_position" : -366,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 9.0,
-          "layer" : "PET",
-          "shared_name" : "TMPINFR01_FDG",
-          "x_position" : -600,
-          "y0" : 400,
-          "name" : "TMPINFR01\nFDG",
-          "SUID" : 3661,
-          "id_original" : "TMPINFR01_FDG",
-          "value" : "TMPINFR01_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -225.22146882386892,
-          "y" : -574.1800350338767
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3659",
-          "y_position" : -409,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 10.0,
-          "layer" : "PET",
-          "shared_name" : "PRCUNSR01_FDG",
-          "x_position" : -250,
-          "y0" : 400,
-          "name" : "PRCUNSR01\nFDG",
-          "SUID" : 3659,
-          "id_original" : "PRCUNSR01_FDG",
-          "value" : "PRCUNSR01_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -233.45292414701694,
-          "y" : -322.9543094351438
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3657",
-          "y_position" : -404,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 7.0,
-          "layer" : "PET",
-          "shared_name" : "SUPMRGR01_FDG",
-          "x_position" : -300,
-          "y0" : 400,
-          "name" : "SUPMRGR01\nFDG",
-          "SUID" : 3657,
-          "id_original" : "SUPMRGR01_FDG",
-          "value" : "SUPMRGR01_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -204.27720258604344,
-          "y" : -492.1573657253889
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3655",
-          "y_position" : -401,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 34.0,
-          "layer" : "PET",
-          "shared_name" : "TMPMIDR01_FDG",
-          "x_position" : -350,
-          "y0" : 400,
-          "name" : "TMPMIDR01\nFDG",
-          "SUID" : 3655,
-          "id_original" : "TMPMIDR01_FDG",
-          "value" : "TMPMIDR01_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -182.77963818477667,
-          "y" : -417.65582610632714
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3653",
-          "y_position" : -350,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 13.0,
-          "layer" : "PET",
-          "shared_name" : "PARIINFR01_FDG",
-          "x_position" : -400,
-          "y0" : 400,
-          "name" : "PARIINFR01\nFDG",
-          "SUID" : 3653,
-          "id_original" : "PARIINFR01_FDG",
-          "value" : "PARIINFR01_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -219.66130611206836,
-          "y" : -391.58267766376053
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3651",
-          "y_position" : -351,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 8.0,
-          "layer" : "PET",
-          "shared_name" : "ANGULR01_FDG",
-          "x_position" : -450,
-          "y0" : 400,
-          "name" : "ANGULR01\nFDG",
-          "SUID" : 3651,
-          "id_original" : "ANGULR01_FDG",
-          "value" : "ANGULR01_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -350.82513610195855,
-          "y" : -451.12779854972956
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3649",
-          "y_position" : -451,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 15.0,
-          "layer" : "PET",
-          "shared_name" : "FRTMIDR01_FDG",
-          "x_position" : -350,
-          "y0" : 400,
-          "name" : "FRTMIDR01\nFDG",
-          "SUID" : 3649,
-          "id_original" : "FRTMIDR01_FDG",
-          "value" : "FRTMIDR01_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -328.4030059699315,
-          "y" : -374.86985264165554
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3647",
-          "y_position" : -354,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 11.0,
-          "layer" : "PET",
-          "shared_name" : "FUSFRMR01_FDG",
-          "x_position" : -500,
-          "y0" : 400,
-          "name" : "FUSFRMR01\nFDG",
-          "SUID" : 3647,
-          "id_original" : "FUSFRMR01_FDG",
-          "value" : "FUSFRMR01_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -346.0878603052653,
-          "y" : -336.48527484989836
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3645",
-          "y_position" : -466,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 9.0,
-          "layer" : "PET",
-          "shared_name" : "OCCMIDR01_FDG",
-          "x_position" : -200,
-          "y0" : 400,
-          "name" : "OCCMIDR01\nFDG",
-          "SUID" : 3645,
-          "id_original" : "OCCMIDR01_FDG",
-          "value" : "OCCMIDR01_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -380.10626219141943,
-          "y" : -323.7854719298434
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3643",
-          "y_position" : -500,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 5.0,
-          "layer" : "PET",
-          "shared_name" : "FRTSUPR01_FDG",
-          "x_position" : -400,
-          "y0" : 400,
-          "name" : "FRTSUPR01\nFDG",
-          "SUID" : 3643,
-          "id_original" : "FRTSUPR01_FDG",
-          "value" : "FRTSUPR01_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -410.8194159084565,
-          "y" : -353.2950926120936
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3641",
-          "y_position" : -359,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 9.0,
-          "layer" : "PET",
-          "shared_name" : "PARAHIPR01_FDG",
-          "x_position" : -550,
-          "y0" : 400,
-          "name" : "PARAHIPR01\nFDG",
-          "SUID" : 3641,
-          "id_original" : "PARAHIPR01_FDG",
-          "value" : "PARAHIPR01_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -385.7249943301704,
-          "y" : -424.2587881948946
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3639",
-          "y_position" : -525,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 24.0,
-          "layer" : "PET",
-          "shared_name" : "CINGPSTL01_FDG",
-          "x_position" : -650,
-          "y0" : 400,
-          "name" : "CINGPSTL01\nFDG",
-          "SUID" : 3639,
-          "id_original" : "CINGPSTL01_FDG",
-          "value" : "CINGPSTL01_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -432.98102444775924,
-          "y" : -433.217692635739
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3637",
-          "y_position" : -316,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 9.0,
-          "layer" : "PET",
-          "shared_name" : "PRECUNL01_FDG",
-          "x_position" : -200,
-          "y0" : 400,
-          "name" : "PRECUNL01\nFDG",
-          "SUID" : 3637,
-          "id_original" : "PRECUNL01_FDG",
-          "value" : "PRECUNL01_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -413.64224253254923,
-          "y" : -505.42094045759455
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3635",
-          "y_position" : -451,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 24.0,
-          "layer" : "PET",
-          "shared_name" : "TMPMIDL01_FDG",
-          "x_position" : -450,
-          "y0" : 400,
-          "name" : "TMPMIDL01\nFDG",
-          "SUID" : 3635,
-          "id_original" : "TMPMIDL01_FDG",
-          "value" : "TMPMIDL01_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -311.68260170044863,
-          "y" : -456.02382942572405
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3633",
-          "y_position" : -516,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 51.0,
-          "layer" : "PET",
-          "shared_name" : "SUPMRGL01_FDG",
-          "x_position" : -600,
-          "y0" : 400,
-          "name" : "SUPMRGL01\nFDG",
-          "SUID" : 3633,
-          "id_original" : "SUPMRGL01_FDG",
-          "value" : "SUPMRGL01_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -337.83249149676294,
-          "y" : -536.4059789599369
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3631",
-          "y_position" : -486,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 15.0,
-          "layer" : "PET",
-          "shared_name" : "PARIINFL01_FDG",
-          "x_position" : -100,
-          "y0" : 400,
-          "name" : "PARIINFL01\nFDG",
-          "SUID" : 3631,
-          "id_original" : "PARIINFL01_FDG",
-          "value" : "PARIINFL01_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -359.8448958825927,
-          "y" : -567.7359355088074
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3629",
-          "y_position" : -454,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 9.0,
-          "layer" : "PET",
-          "shared_name" : "ANGULL01_FDG",
-          "x_position" : -300,
-          "y0" : 400,
-          "name" : "ANGULL01\nFDG",
-          "SUID" : 3629,
-          "id_original" : "ANGULL01_FDG",
-          "value" : "ANGULL01_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -252.3686078365127,
-          "y" : -553.6916035799143
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3627",
-          "y_position" : -375,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 11.0,
-          "layer" : "PET",
-          "shared_name" : "OCCMIDL01_FDG",
-          "x_position" : -650,
-          "y0" : 400,
-          "name" : "OCCMIDL01\nFDG",
-          "SUID" : 3627,
-          "id_original" : "OCCMIDL01_FDG",
-          "value" : "OCCMIDL01_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -289.6704795479769,
-          "y" : -529.4996345131833
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3625",
-          "y_position" : -536,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 7.0,
-          "layer" : "PET",
-          "shared_name" : "FUSFRML01_FDG",
-          "x_position" : -700,
-          "y0" : 400,
-          "name" : "FUSFRML01\nFDG",
-          "SUID" : 3625,
-          "id_original" : "FUSFRML01_FDG",
-          "value" : "FUSFRML01_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -273.8043172154372,
-          "y" : -438.9348267525473
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3623",
-          "y_position" : -501,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 11.0,
-          "layer" : "PET",
-          "shared_name" : "PARAHIPL01_FDG",
-          "x_position" : -350,
-          "y0" : 400,
-          "name" : "PARAHIPL01\nFDG",
-          "SUID" : 3623,
-          "id_original" : "PARAHIPL01_FDG",
-          "value" : "PARAHIPL01_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -230.4812768524457,
-          "y" : -432.0122155047337
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3621",
-          "y_position" : -454,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 34.0,
-          "layer" : "PET",
-          "shared_name" : "FRTMIDL01_FDG",
-          "x_position" : -500,
-          "y0" : 400,
-          "name" : "FRTMIDL01\nFDG",
-          "SUID" : 3621,
-          "id_original" : "FRTMIDL01_FDG",
-          "value" : "FRTMIDL01_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -240.82159163751135,
-          "y" : -468.05751155579844
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3619",
-          "y_position" : -459,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 9.0,
-          "layer" : "PET",
-          "shared_name" : "FRTSUPL01_FDG",
-          "x_position" : -250,
-          "y0" : 400,
-          "name" : "FRTSUPL01\nFDG",
-          "SUID" : 3619,
-          "id_original" : "FRTSUPL01_FDG",
-          "value" : "FRTSUPL01_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -290.8868057078499,
-          "y" : -368.8461019527688
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3617",
-          "y_position" : -309,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 7.0,
-          "layer" : "PET",
-          "shared_name" : "HIPPL01_FDG",
-          "x_position" : -550,
-          "y0" : 400,
-          "name" : "HIPPL01\nFDG",
-          "SUID" : 3617,
-          "id_original" : "HIPPL01_FDG",
-          "value" : "HIPPL01_FDG",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -296.4576373919172,
-          "y" : -282.9473052045766
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3615",
-          "y_position" : -304,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 12.0,
-          "layer" : "PET",
-          "shared_name" : "BRAAK56_VOLUME",
-          "x_position" : -300,
-          "y0" : 400,
-          "name" : "BRAAK56\nVOLUME",
-          "SUID" : 3615,
-          "id_original" : "BRAAK56_VOLUME",
-          "value" : "BRAAK56_VOLUME",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -390.29482449965553,
-          "y" : -283.3380701360877
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3613",
-          "y_position" : -536,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 19.0,
-          "layer" : "PET",
-          "shared_name" : "BRAAK56_SUVR",
-          "x_position" : -100,
-          "y0" : 400,
-          "name" : "BRAAK56\nSUVR",
-          "SUID" : 3613,
-          "id_original" : "BRAAK56_SUVR",
-          "value" : "BRAAK56_SUVR",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -456.3962584408899,
-          "y" : -344.2739033838058
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3611",
-          "y_position" : -459,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 7.0,
-          "layer" : "PET",
-          "shared_name" : "META_TEMPORAL_VOLUME",
-          "x_position" : -550,
-          "y0" : 400,
-          "name" : "META\nTEMPORAL\nVOLUME",
-          "SUID" : 3611,
-          "id_original" : "META_TEMPORAL_VOLUME",
-          "value" : "META_TEMPORAL_VOLUME",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -489.5266583910484,
-          "y" : -386.1355915287743
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3609",
-          "y_position" : -409,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 19.0,
-          "layer" : "PET",
-          "shared_name" : "META_TEMPORAL_SUVR",
-          "x_position" : -550,
-          "y0" : 400,
-          "name" : "META\nTEMPORAL\nSUVR",
-          "SUID" : 3609,
-          "id_original" : "META_TEMPORAL_SUVR",
-          "value" : "META_TEMPORAL_SUVR",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -399.516612365119,
-          "y" : -461.29426253737194
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3607",
-          "y_position" : -309,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 6.0,
-          "layer" : "PET",
-          "shared_name" : "BRAAK34_VOLUME",
-          "x_position" : -250,
-          "y0" : 400,
-          "name" : "BRAAK34\nVOLUME",
-          "SUID" : 3607,
-          "id_original" : "BRAAK34_VOLUME",
-          "value" : "BRAAK34_VOLUME",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -437.0234901748588,
-          "y" : -580.528621242493
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3605",
-          "y_position" : -301,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 19.0,
-          "layer" : "PET",
-          "shared_name" : "BRAAK34_SUVR",
-          "x_position" : -450,
-          "y0" : 400,
-          "name" : "BRAAK34\nSUVR",
-          "SUID" : 3605,
-          "id_original" : "BRAAK34_SUVR",
-          "value" : "BRAAK34_SUVR",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -483.54339745353354,
-          "y" : -473.5012233787522
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3603",
-          "y_position" : -300,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 1.0,
-          "layer" : "PET",
-          "shared_name" : "BRAAK1_VOLUME",
-          "x_position" : -400,
-          "y0" : 400,
-          "name" : "BRAAK1\nVOLUME",
-          "SUID" : 3603,
-          "id_original" : "BRAAK1_VOLUME",
-          "value" : "BRAAK1_VOLUME",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -427.45840671146175,
-          "y" : -540.7928050613991
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3601",
-          "y_position" : -486,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 14.0,
-          "layer" : "PET",
-          "shared_name" : "BRAAK1_SUVR",
-          "x_position" : -700,
-          "y0" : 400,
-          "name" : "BRAAK1\nSUVR",
-          "SUID" : 3601,
-          "id_original" : "BRAAK1_SUVR",
-          "value" : "BRAAK1_SUVR",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -325.64468236294175,
-          "y" : -592.0537444968077
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3599",
-          "y_position" : -504,
-          "degree_layout" : 0,
-          "ignore_existing" : true,
-          "node_degree" : 14.0,
-          "layer" : "PET",
-          "shared_name" : "MEAN_METAROI_PONSVERMIS",
-          "x_position" : -300,
-          "y0" : 400,
-          "name" : "MEAN\nMETAROI\nPONSVERMIS",
-          "SUID" : 3599,
-          "id_original" : "MEAN_METAROI_PONSVERMIS",
-          "value" : "MEAN_METAROI_PONSVERMIS",
-          "selected" : false
-        },
-        "position" : {
-          "x" : -263.9379424817826,
-          "y" : -594.4080213879404
-        },
-        "selected" : false
-      }, {
-        "data" : {
-          "id" : "3597",
+          "id" : "4013",
           "y_position" : -4,
           "ignore_existing" : true,
-          "node_degree" : 10.0,
+          "node_degree" : 9.0,
           "layer" : "GENETIC",
           "shared_name" : "PHS",
           "x_position" : -100,
           "y0" : 0,
           "name" : "PHS",
-          "SUID" : 3597,
+          "SUID" : 4013,
           "id_original" : "PHS",
           "value" : "PHS",
           "selected" : false
         },
         "position" : {
-          "x" : -23.025926190159403,
-          "y" : -31.197612689935795
+          "x" : -24.630032820931753,
+          "y" : -185.19184924408103
         },
         "selected" : false
       }, {
         "data" : {
-          "id" : "3595",
+          "id" : "4011",
           "y_position" : 0,
           "ignore_existing" : true,
-          "node_degree" : 7.0,
+          "node_degree" : 6.0,
           "layer" : "GENETIC",
           "shared_name" : "TOMM40_A2",
           "x_position" : 0,
           "y0" : 0,
           "name" : "TOMM40_A2",
-          "SUID" : 3595,
+          "SUID" : 4011,
           "id_original" : "TOMM40_A2",
           "value" : "TOMM40_A2",
           "selected" : false
         },
         "position" : {
-          "x" : 19.64603598448726,
-          "y" : -48.52063068217941
+          "x" : 18.04192935371491,
+          "y" : -202.51486723632462
         },
         "selected" : false
       }, {
         "data" : {
-          "id" : "3593",
+          "id" : "4009",
           "y_position" : -1,
           "ignore_existing" : true,
-          "node_degree" : 5.0,
+          "node_degree" : 9.0,
           "layer" : "GENETIC",
           "shared_name" : "TOMM40_A1",
           "x_position" : -50,
           "y0" : 0,
           "name" : "TOMM40_A1",
-          "SUID" : 3593,
+          "SUID" : 4009,
           "id_original" : "TOMM40_A1",
           "value" : "TOMM40_A1",
           "selected" : false
         },
         "position" : {
-          "x" : 67.67196217464667,
-          "y" : -29.859121686057584
+          "x" : 66.06785554387432,
+          "y" : -183.85335824020282
         },
         "selected" : false
       }, {
         "data" : {
-          "id" : "3591",
+          "id" : "4007",
           "y_position" : -4,
           "ignore_existing" : true,
-          "node_degree" : 12.0,
+          "node_degree" : 11.0,
           "layer" : "GENETIC",
           "shared_name" : "APOE",
           "x_position" : 100,
           "y0" : 0,
           "name" : "APOE",
-          "SUID" : 3591,
+          "SUID" : 4007,
           "id_original" : "APOE",
           "value" : "APOE",
           "selected" : false
         },
         "position" : {
-          "x" : 59.64101615137754,
-          "y" : 16.833333333333343
+          "x" : 58.036909520605185,
+          "y" : -137.1609032208119
         },
         "selected" : false
       }, {
         "data" : {
-          "id" : "3589",
+          "id" : "4005",
           "y_position" : -359,
           "degree_layout" : 3,
           "ignore_existing" : true,
-          "node_degree" : 7.0,
+          "node_degree" : 3.0,
           "layer" : "PET",
           "shared_name" : "MMPLS_FDG",
           "x_position" : -250,
           "y0" : 400,
           "name" : "MMPLS_FDG",
-          "SUID" : 3589,
+          "SUID" : 4005,
           "id_original" : "MMPLS_FDG",
           "value" : "MMPLS_FDG",
           "selected" : false
         },
         "position" : {
-          "x" : -190.30632667924417,
-          "y" : -458.7443330738789
+          "x" : -246.45005875627626,
+          "y" : -495.6387855816429
         },
         "selected" : false
       }, {
         "data" : {
-          "id" : "3587",
+          "id" : "4003",
           "y_position" : -9,
           "ignore_existing" : true,
           "node_degree" : 10.0,
@@ -3897,28 +155,28 @@ var datasets = [
           "x_position" : 150,
           "y0" : 0,
           "name" : "APOE_A2",
-          "SUID" : 3587,
+          "SUID" : 4003,
           "id_original" : "APOE_A2",
           "value" : "APOE_A2",
           "selected" : false
         },
         "position" : {
-          "x" : 18.307544980609066,
-          "y" : -0.6444147752558891
+          "x" : 16.703438349836716,
+          "y" : -154.6386513294011
         },
         "selected" : false
       }, {
         "data" : {
-          "id" : "3585",
+          "id" : "4001",
           "y_position" : -1000,
           "ignore_existing" : true,
-          "node_degree" : 81.0,
+          "node_degree" : 10.0,
           "layer" : "PHENOTYPE",
           "shared_name" : "UW_EF",
           "x_position" : 0,
           "y0" : 1000,
           "name" : "UW_EF",
-          "SUID" : 3585,
+          "SUID" : 4001,
           "id_original" : "UW_EF",
           "value" : "UW_EF",
           "selected" : false
@@ -3930,16 +188,16 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3583",
+          "id" : "3999",
           "y_position" : -1009,
           "ignore_existing" : true,
-          "node_degree" : 76.0,
+          "node_degree" : 11.0,
           "layer" : "PHENOTYPE",
           "shared_name" : "UW_MEM",
           "x_position" : -150,
           "y0" : 1000,
           "name" : "UW_MEM",
-          "SUID" : 3583,
+          "SUID" : 3999,
           "id_original" : "UW_MEM",
           "value" : "UW_MEM",
           "selected" : false
@@ -3951,16 +209,16 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3581",
+          "id" : "3997",
           "y_position" : -1001,
           "ignore_existing" : true,
-          "node_degree" : 118.0,
+          "node_degree" : 9.0,
           "layer" : "PHENOTYPE",
           "shared_name" : "ADAS13",
           "x_position" : 50,
           "y0" : 1000,
           "name" : "ADAS13",
-          "SUID" : 3581,
+          "SUID" : 3997,
           "id_original" : "ADAS13",
           "value" : "ADAS13",
           "selected" : false
@@ -3972,16 +230,16 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3579",
+          "id" : "3995",
           "y_position" : -1025,
           "ignore_existing" : true,
-          "node_degree" : 118.0,
+          "node_degree" : 9.0,
           "layer" : "PHENOTYPE",
           "shared_name" : "ADAS11",
           "x_position" : 250,
           "y0" : 1000,
           "name" : "ADAS11",
-          "SUID" : 3579,
+          "SUID" : 3995,
           "id_original" : "ADAS11",
           "value" : "ADAS11",
           "selected" : false
@@ -3993,16 +251,16 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3577",
+          "id" : "3993",
           "y_position" : -1001,
           "ignore_existing" : true,
-          "node_degree" : 90.0,
+          "node_degree" : 9.0,
           "layer" : "PHENOTYPE",
           "shared_name" : "ADSP_VSP",
           "x_position" : -50,
           "y0" : 1000,
           "name" : "ADSP_VSP",
-          "SUID" : 3577,
+          "SUID" : 3993,
           "id_original" : "ADSP_VSP",
           "value" : "ADSP_VSP",
           "selected" : false
@@ -4014,16 +272,16 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3575",
+          "id" : "3991",
           "y_position" : -1016,
           "ignore_existing" : true,
-          "node_degree" : 80.0,
+          "node_degree" : 8.0,
           "layer" : "PHENOTYPE",
           "shared_name" : "ADSP_LAN",
           "x_position" : 200,
           "y0" : 1000,
           "name" : "ADSP_LAN",
-          "SUID" : 3575,
+          "SUID" : 3991,
           "id_original" : "ADSP_LAN",
           "value" : "ADSP_LAN",
           "selected" : false
@@ -4035,16 +293,16 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3573",
+          "id" : "3989",
           "y_position" : -1004,
           "ignore_existing" : true,
-          "node_degree" : 79.0,
+          "node_degree" : 9.0,
           "layer" : "PHENOTYPE",
           "shared_name" : "ADSP_EXF",
           "x_position" : 100,
           "y0" : 1000,
           "name" : "ADSP_EXF",
-          "SUID" : 3573,
+          "SUID" : 3989,
           "id_original" : "ADSP_EXF",
           "value" : "ADSP_EXF",
           "selected" : false
@@ -4056,16 +314,16 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3571",
+          "id" : "3987",
           "y_position" : -1036,
           "ignore_existing" : true,
-          "node_degree" : 85.0,
+          "node_degree" : 8.0,
           "layer" : "PHENOTYPE",
           "shared_name" : "ADSP_MEM",
           "x_position" : -300,
           "y0" : 1000,
           "name" : "ADSP_MEM",
-          "SUID" : 3571,
+          "SUID" : 3987,
           "id_original" : "ADSP_MEM",
           "value" : "ADSP_MEM",
           "selected" : false
@@ -4077,16 +335,16 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3569",
+          "id" : "3985",
           "y_position" : -1004,
           "ignore_existing" : true,
-          "node_degree" : 114.0,
+          "node_degree" : 9.0,
           "layer" : "PHENOTYPE",
           "shared_name" : "ADSP_DX",
           "x_position" : -100,
           "y0" : 1000,
           "name" : "ADSP_DX",
-          "SUID" : 3569,
+          "SUID" : 3985,
           "id_original" : "ADSP_DX",
           "value" : "ADSP_DX",
           "selected" : false
@@ -4098,16 +356,16 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3567",
+          "id" : "3983",
           "y_position" : -1016,
           "ignore_existing" : true,
-          "node_degree" : 118.0,
+          "node_degree" : 8.0,
           "layer" : "PHENOTYPE",
           "shared_name" : "CDR",
           "x_position" : -200,
           "y0" : 1000,
           "name" : "CDR",
-          "SUID" : 3567,
+          "SUID" : 3983,
           "id_original" : "CDR",
           "value" : "CDR",
           "selected" : false
@@ -4119,58 +377,58 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3565",
+          "id" : "3981",
           "y_position" : -864,
           "ignore_existing" : true,
-          "node_degree" : 65.0,
+          "node_degree" : 16.0,
           "layer" : "RISKFACTORS",
           "shared_name" : "MH7DERM",
           "x_position" : -400,
           "y0" : 800,
           "name" : "MH7DERM",
-          "SUID" : 3565,
+          "SUID" : 3981,
           "id_original" : "MH7DERM",
           "value" : "MH7DERM",
           "selected" : false
         },
         "position" : {
-          "x" : 68.6064143701863,
-          "y" : -874.1021336181293
+          "x" : -5.182490645341627,
+          "y" : -808.3337617564631
         },
         "selected" : false
       }, {
         "data" : {
-          "id" : "3563",
+          "id" : "3979",
           "y_position" : -814,
           "ignore_existing" : true,
-          "node_degree" : 65.0,
+          "node_degree" : 14.0,
           "layer" : "RISKFACTORS",
           "shared_name" : "MH10GAST",
           "x_position" : -400,
           "y0" : 800,
           "name" : "MH10GAST",
-          "SUID" : 3563,
+          "SUID" : 3979,
           "id_original" : "MH10GAST",
           "value" : "MH10GAST",
           "selected" : false
         },
         "position" : {
-          "x" : 161.15601884037682,
-          "y" : -788.5224661512426
+          "x" : 52.73698739973992,
+          "y" : -802.7121658824564
         },
         "selected" : false
       }, {
         "data" : {
-          "id" : "3561",
+          "id" : "3977",
           "y_position" : -1009,
           "ignore_existing" : true,
-          "node_degree" : 84.0,
+          "node_degree" : 10.0,
           "layer" : "PHENOTYPE",
           "shared_name" : "MOCA",
           "x_position" : 150,
           "y0" : 1000,
           "name" : "MOCA",
-          "SUID" : 3561,
+          "SUID" : 3977,
           "id_original" : "MOCA",
           "value" : "MOCA",
           "selected" : false
@@ -4182,37 +440,37 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3559",
+          "id" : "3975",
           "y_position" : -864,
           "ignore_existing" : true,
-          "node_degree" : 64.0,
+          "node_degree" : 17.0,
           "layer" : "RISKFACTORS",
           "shared_name" : "MH13ALLE",
           "x_position" : 400,
           "y0" : 800,
           "name" : "MH13ALLE",
-          "SUID" : 3559,
+          "SUID" : 3975,
           "id_original" : "MH13ALLE",
           "value" : "MH13ALLE",
           "selected" : false
         },
         "position" : {
-          "x" : 128.05613555650018,
-          "y" : -713.6477754936972
+          "x" : 7.61013316799921,
+          "y" : -694.122485763279
         },
         "selected" : false
       }, {
         "data" : {
-          "id" : "3557",
+          "id" : "3973",
           "y_position" : -881,
           "ignore_existing" : true,
-          "node_degree" : 51.0,
+          "node_degree" : 15.0,
           "layer" : "RISKFACTORS",
           "shared_name" : "MH2NEURL",
           "x_position" : -450,
           "y0" : 800,
           "name" : "MH2NEURL",
-          "SUID" : 3557,
+          "SUID" : 3973,
           "id_original" : "MH2NEURL",
           "value" : "MH2NEURL",
           "selected" : false
@@ -4224,121 +482,121 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3555",
+          "id" : "3971",
           "y_position" : -899,
           "ignore_existing" : true,
-          "node_degree" : 27.0,
+          "node_degree" : 18.0,
           "layer" : "RISKFACTORS",
           "shared_name" : "MH16SMOK",
           "x_position" : -350,
           "y0" : 800,
           "name" : "MH16SMOK",
-          "SUID" : 3555,
+          "SUID" : 3971,
           "id_original" : "MH16SMOK",
           "value" : "MH16SMOK",
           "selected" : false
         },
         "position" : {
-          "x" : -9.354078222339005,
-          "y" : -633.1876403817405
+          "x" : -26.999251160834802,
+          "y" : -747.079211166577
         },
         "selected" : false
       }, {
         "data" : {
-          "id" : "3553",
+          "id" : "3969",
           "y_position" : -500,
           "ignore_existing" : true,
-          "node_degree" : 35.0,
+          "node_degree" : 13.0,
           "layer" : "MRI",
           "shared_name" : "TOTAL_CSF",
           "x_position" : 400,
           "y0" : 400,
           "name" : "TOTAL_CSF",
-          "SUID" : 3553,
+          "SUID" : 3969,
           "id_original" : "TOTAL_CSF",
           "value" : "TOTAL_CSF",
           "selected" : false
         },
         "position" : {
-          "x" : 384.5099209448107,
-          "y" : -277.0135006694637
+          "x" : 341.19904191395733,
+          "y" : -522.4418151776326
         },
         "selected" : false
       }, {
         "data" : {
-          "id" : "3551",
+          "id" : "3967",
           "y_position" : -350,
           "ignore_existing" : true,
-          "node_degree" : 34.0,
+          "node_degree" : 13.0,
           "layer" : "MRI",
           "shared_name" : "CEREB_TCC",
           "x_position" : 400,
           "y0" : 400,
           "name" : "CEREB\nTCC",
-          "SUID" : 3551,
+          "SUID" : 3967,
           "id_original" : "CEREB_TCC",
           "value" : "CEREB_TCC",
           "selected" : false
         },
         "position" : {
-          "x" : 273.639662996786,
-          "y" : -323.82200101263874
+          "x" : 289.6807293045095,
+          "y" : -521.1271165976373
         },
         "selected" : false
       }, {
         "data" : {
-          "id" : "3549",
+          "id" : "3965",
           "y_position" : -950,
           "ignore_existing" : true,
-          "node_degree" : 71.0,
+          "node_degree" : 19.0,
           "layer" : "RISKFACTORS",
           "shared_name" : "MH5RESP",
           "x_position" : 500,
           "y0" : 800,
           "name" : "MH5RESP",
-          "SUID" : 3549,
+          "SUID" : 3965,
           "id_original" : "MH5RESP",
           "value" : "MH5RESP",
           "selected" : false
         },
         "position" : {
-          "x" : -77.61209540490934,
-          "y" : -665.9118191139383
+          "x" : -50.34228268177945,
+          "y" : -691.577525206296
         },
         "selected" : false
       }, {
         "data" : {
-          "id" : "3547",
+          "id" : "3963",
           "y_position" : -831,
           "ignore_existing" : true,
-          "node_degree" : 37.0,
+          "node_degree" : 19.0,
           "layer" : "RISKFACTORS",
           "shared_name" : "MH17MALI",
           "x_position" : 450,
           "y0" : 800,
           "name" : "MH17MALI",
-          "SUID" : 3547,
+          "SUID" : 3963,
           "id_original" : "MH17MALI",
           "value" : "MH17MALI",
           "selected" : false
         },
         "position" : {
-          "x" : -117.8387793984814,
-          "y" : -679.1687304063258
+          "x" : -93.16701192473934,
+          "y" : -741.5254996690617
         },
         "selected" : false
       }, {
         "data" : {
-          "id" : "3545",
+          "id" : "3961",
           "y_position" : -1025,
           "ignore_existing" : true,
-          "node_degree" : 89.0,
+          "node_degree" : 8.0,
           "layer" : "PHENOTYPE",
           "shared_name" : "MMSE",
           "x_position" : -250,
           "y0" : 1000,
           "name" : "MMSE",
-          "SUID" : 3545,
+          "SUID" : 3961,
           "id_original" : "MMSE",
           "value" : "MMSE",
           "selected" : false
@@ -4350,58 +608,176 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3543",
+          "id" : "3959",
           "y_position" : -881,
           "ignore_existing" : true,
-          "node_degree" : 60.0,
+          "node_degree" : 19.0,
           "layer" : "RISKFACTORS",
           "shared_name" : "MH3HEAD",
           "x_position" : 450,
           "y0" : 800,
           "name" : "MH3HEAD",
-          "SUID" : 3543,
+          "SUID" : 3959,
           "id_original" : "MH3HEAD",
           "value" : "MH3HEAD",
           "selected" : false
         },
         "position" : {
-          "x" : -112.78880236171999,
-          "y" : -813.8554255168334
+          "x" : -59.85328354623257,
+          "y" : -801.0225724706546
         },
         "selected" : false
       }, {
         "data" : {
-          "id" : "3541",
+          "id" : "3957",
           "y_position" : -1,
           "ignore_existing" : true,
-          "node_degree" : 13.0,
+          "node_degree" : 10.0,
           "layer" : "GENETIC",
           "shared_name" : "APOE_A1",
           "x_position" : 50,
           "y0" : 0,
           "name" : "APOE_A1",
-          "SUID" : 3541,
+          "SUID" : 3957,
           "id_original" : "APOE_A1",
           "value" : "APOE_A1",
           "selected" : false
         },
         "position" : {
-          "x" : -21.687435186281242,
-          "y" : 22.187297348846062
+          "x" : -23.29154181705359,
+          "y" : -131.8069392052992
         },
         "selected" : false
       } ],
       "edges" : [ {
         "data" : {
-          "id" : "4267",
-          "source" : "3589",
-          "target" : "3591",
+          "id" : "52892",
+          "source" : "52822",
+          "target" : "3983",
+          "count" : 1.0,
+          "SUID" : 52892,
+          "source_original" : "CDR",
+          "selected" : false,
+          "target_original" : "PTDOBYY"
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "52877",
+          "source" : "52822",
+          "target" : "3997",
+          "count" : 1.0,
+          "SUID" : 52877,
+          "source_original" : "ADAS13",
+          "selected" : false,
+          "target_original" : "PTDOBYY"
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "52872",
+          "source" : "52822",
+          "target" : "3995",
+          "count" : 1.0,
+          "SUID" : 52872,
+          "source_original" : "ADAS11",
+          "selected" : false,
+          "target_original" : "PTDOBYY"
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "52827",
+          "source" : "52822",
+          "target" : "52549",
+          "count" : 5.0,
+          "SUID" : 52827,
+          "source_original" : "CIR",
+          "selected" : false,
+          "target_original" : "PTDOBYY"
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "52867",
+          "source" : "52549",
+          "target" : "3981",
+          "count" : 10.0,
+          "SUID" : 52867,
+          "source_original" : "MH7DERM",
+          "selected" : false,
+          "target_original" : "CIR"
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "52862",
+          "source" : "52549",
+          "target" : "3965",
+          "count" : 12.0,
+          "SUID" : 52862,
+          "source_original" : "MH5RESP",
+          "selected" : false,
+          "target_original" : "CIR"
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "52857",
+          "source" : "52549",
+          "target" : "3959",
+          "count" : 12.0,
+          "SUID" : 52857,
+          "source_original" : "MH3HEAD",
+          "selected" : false,
+          "target_original" : "CIR"
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "52847",
+          "source" : "52549",
+          "target" : "3963",
+          "count" : 3.0,
+          "SUID" : 52847,
+          "source_original" : "MH17MALI",
+          "selected" : false,
+          "target_original" : "CIR"
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "52842",
+          "source" : "52549",
+          "target" : "3971",
+          "count" : 12.0,
+          "SUID" : 52842,
+          "source_original" : "MH16SMOK",
+          "selected" : false,
+          "target_original" : "CIR"
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "52832",
+          "source" : "52549",
+          "target" : "3979",
+          "count" : 8.0,
+          "SUID" : 52832,
+          "source_original" : "MH10GAST",
+          "selected" : false,
+          "target_original" : "CIR"
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "4683",
+          "source" : "4005",
+          "target" : "4007",
           "shared_name" : "",
-          "shared_interaction" : "",
           "count" : 1.0,
           "name" : "",
-          "interaction" : "",
-          "SUID" : 4267,
+          "SUID" : 4683,
           "source_original" : "MMPLS_FDG",
           "selected" : false,
           "target_original" : "APOE"
@@ -4409,15 +785,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4265",
-          "source" : "3587",
-          "target" : "3589",
+          "id" : "4681",
+          "source" : "4003",
+          "target" : "4005",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 1.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4265,
+          "SUID" : 4681,
           "source_original" : "APOE_A2",
           "selected" : false,
           "target_original" : "MMPLS_FDG"
@@ -4425,15 +801,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4263",
-          "source" : "3583",
-          "target" : "3589",
+          "id" : "4679",
+          "source" : "3999",
+          "target" : "4005",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 2.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4263,
+          "SUID" : 4679,
           "source_original" : "UW_MEM",
           "selected" : false,
           "target_original" : "MMPLS_FDG"
@@ -4441,15 +817,39 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4261",
-          "source" : "3565",
-          "target" : "3597",
+          "id" : "52887",
+          "source" : "3993",
+          "target" : "52822",
+          "count" : 1.0,
+          "SUID" : 52887,
+          "source_original" : "ADSP_VSP",
+          "selected" : false,
+          "target_original" : "PTDOBYY"
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "52882",
+          "source" : "3985",
+          "target" : "52822",
+          "count" : 1.0,
+          "SUID" : 52882,
+          "source_original" : "ADSP_DX",
+          "selected" : false,
+          "target_original" : "PTDOBYY"
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "4677",
+          "source" : "3981",
+          "target" : "4013",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 10.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4261,
+          "SUID" : 4677,
           "source_original" : "MH7DERM",
           "selected" : false,
           "target_original" : "PHS"
@@ -4457,15 +857,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4259",
-          "source" : "3565",
-          "target" : "3593",
+          "id" : "4675",
+          "source" : "3981",
+          "target" : "4009",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 10.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4259,
+          "SUID" : 4675,
           "source_original" : "MH7DERM",
           "selected" : false,
           "target_original" : "TOMM40_A1"
@@ -4473,15 +873,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4257",
-          "source" : "3565",
-          "target" : "3591",
+          "id" : "4673",
+          "source" : "3981",
+          "target" : "4007",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 10.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4257,
+          "SUID" : 4673,
           "source_original" : "MH7DERM",
           "selected" : false,
           "target_original" : "APOE"
@@ -4489,15 +889,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4255",
-          "source" : "3565",
-          "target" : "3587",
+          "id" : "4671",
+          "source" : "3981",
+          "target" : "4003",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 10.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4255,
+          "SUID" : 4671,
           "source_original" : "MH7DERM",
           "selected" : false,
           "target_original" : "APOE_A2"
@@ -4505,15 +905,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4253",
-          "source" : "3565",
-          "target" : "3585",
+          "id" : "4669",
+          "source" : "3981",
+          "target" : "4001",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 6.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4253,
+          "SUID" : 4669,
           "source_original" : "MH7DERM",
           "selected" : false,
           "target_original" : "UW_EF"
@@ -4521,15 +921,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4251",
-          "source" : "3565",
-          "target" : "3583",
+          "id" : "4667",
+          "source" : "3981",
+          "target" : "3999",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 6.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4251,
+          "SUID" : 4667,
           "source_original" : "MH7DERM",
           "selected" : false,
           "target_original" : "UW_MEM"
@@ -4537,15 +937,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4249",
-          "source" : "3565",
-          "target" : "3581",
+          "id" : "4665",
+          "source" : "3981",
+          "target" : "3997",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 6.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4249,
+          "SUID" : 4665,
           "source_original" : "MH7DERM",
           "selected" : false,
           "target_original" : "ADAS13"
@@ -4553,15 +953,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4247",
-          "source" : "3565",
-          "target" : "3579",
+          "id" : "4663",
+          "source" : "3981",
+          "target" : "3995",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 6.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4247,
+          "SUID" : 4663,
           "source_original" : "MH7DERM",
           "selected" : false,
           "target_original" : "ADAS11"
@@ -4569,15 +969,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4245",
-          "source" : "3565",
-          "target" : "3575",
+          "id" : "4661",
+          "source" : "3981",
+          "target" : "3991",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 6.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4245,
+          "SUID" : 4661,
           "source_original" : "MH7DERM",
           "selected" : false,
           "target_original" : "ADSP_LAN"
@@ -4585,15 +985,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4243",
-          "source" : "3565",
-          "target" : "3573",
+          "id" : "4659",
+          "source" : "3981",
+          "target" : "3989",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 6.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4243,
+          "SUID" : 4659,
           "source_original" : "MH7DERM",
           "selected" : false,
           "target_original" : "ADSP_EXF"
@@ -4601,15 +1001,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4241",
-          "source" : "3565",
-          "target" : "3571",
+          "id" : "4657",
+          "source" : "3981",
+          "target" : "3987",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 6.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4241,
+          "SUID" : 4657,
           "source_original" : "MH7DERM",
           "selected" : false,
           "target_original" : "ADSP_MEM"
@@ -4617,15 +1017,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4239",
-          "source" : "3565",
-          "target" : "3569",
+          "id" : "4655",
+          "source" : "3981",
+          "target" : "3985",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 6.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4239,
+          "SUID" : 4655,
           "source_original" : "MH7DERM",
           "selected" : false,
           "target_original" : "ADSP_DX"
@@ -4633,15 +1033,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4237",
-          "source" : "3565",
-          "target" : "3567",
+          "id" : "4653",
+          "source" : "3981",
+          "target" : "3983",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 6.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4237,
+          "SUID" : 4653,
           "source_original" : "MH7DERM",
           "selected" : false,
           "target_original" : "CDR"
@@ -4649,15 +1049,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4235",
-          "source" : "3563",
-          "target" : "3597",
+          "id" : "4651",
+          "source" : "3979",
+          "target" : "4013",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 8.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4235,
+          "SUID" : 4651,
           "source_original" : "MH10GAST",
           "selected" : false,
           "target_original" : "PHS"
@@ -4665,15 +1065,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4233",
-          "source" : "3563",
-          "target" : "3593",
+          "id" : "4649",
+          "source" : "3979",
+          "target" : "4009",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 8.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4233,
+          "SUID" : 4649,
           "source_original" : "MH10GAST",
           "selected" : false,
           "target_original" : "TOMM40_A1"
@@ -4681,15 +1081,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4231",
-          "source" : "3563",
-          "target" : "3591",
+          "id" : "4647",
+          "source" : "3979",
+          "target" : "4007",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 8.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4231,
+          "SUID" : 4647,
           "source_original" : "MH10GAST",
           "selected" : false,
           "target_original" : "APOE"
@@ -4697,15 +1097,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4229",
-          "source" : "3563",
-          "target" : "3587",
+          "id" : "4645",
+          "source" : "3979",
+          "target" : "4003",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 8.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4229,
+          "SUID" : 4645,
           "source_original" : "MH10GAST",
           "selected" : false,
           "target_original" : "APOE_A2"
@@ -4713,15 +1113,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4227",
-          "source" : "3563",
-          "target" : "3585",
+          "id" : "4643",
+          "source" : "3979",
+          "target" : "4001",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 6.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4227,
+          "SUID" : 4643,
           "source_original" : "MH10GAST",
           "selected" : false,
           "target_original" : "UW_EF"
@@ -4729,15 +1129,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4225",
-          "source" : "3563",
-          "target" : "3583",
+          "id" : "4641",
+          "source" : "3979",
+          "target" : "3999",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 6.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4225,
+          "SUID" : 4641,
           "source_original" : "MH10GAST",
           "selected" : false,
           "target_original" : "UW_MEM"
@@ -4745,15 +1145,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4223",
-          "source" : "3563",
-          "target" : "3581",
+          "id" : "4639",
+          "source" : "3979",
+          "target" : "3997",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 6.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4223,
+          "SUID" : 4639,
           "source_original" : "MH10GAST",
           "selected" : false,
           "target_original" : "ADAS13"
@@ -4761,15 +1161,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4221",
-          "source" : "3563",
-          "target" : "3579",
+          "id" : "4637",
+          "source" : "3979",
+          "target" : "3995",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 6.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4221,
+          "SUID" : 4637,
           "source_original" : "MH10GAST",
           "selected" : false,
           "target_original" : "ADAS11"
@@ -4777,15 +1177,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4219",
-          "source" : "3563",
-          "target" : "3575",
+          "id" : "4635",
+          "source" : "3979",
+          "target" : "3991",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 6.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4219,
+          "SUID" : 4635,
           "source_original" : "MH10GAST",
           "selected" : false,
           "target_original" : "ADSP_LAN"
@@ -4793,15 +1193,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4217",
-          "source" : "3563",
-          "target" : "3569",
+          "id" : "4633",
+          "source" : "3979",
+          "target" : "3985",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 6.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4217,
+          "SUID" : 4633,
           "source_original" : "MH10GAST",
           "selected" : false,
           "target_original" : "ADSP_DX"
@@ -4809,15 +1209,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4215",
-          "source" : "3563",
-          "target" : "3567",
+          "id" : "4631",
+          "source" : "3979",
+          "target" : "3983",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 6.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4215,
+          "SUID" : 4631,
           "source_original" : "MH10GAST",
           "selected" : false,
           "target_original" : "CDR"
@@ -4825,15 +1225,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4213",
-          "source" : "3561",
-          "target" : "3565",
+          "id" : "4629",
+          "source" : "3977",
+          "target" : "3981",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 6.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4213,
+          "SUID" : 4629,
           "source_original" : "MOCA",
           "selected" : false,
           "target_original" : "MH7DERM"
@@ -4841,15 +1241,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4211",
-          "source" : "3561",
-          "target" : "3563",
+          "id" : "4627",
+          "source" : "3977",
+          "target" : "3979",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 6.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4211,
+          "SUID" : 4627,
           "source_original" : "MOCA",
           "selected" : false,
           "target_original" : "MH10GAST"
@@ -4857,15 +1257,27 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4209",
-          "source" : "3559",
-          "target" : "3597",
+          "id" : "52837",
+          "source" : "3975",
+          "target" : "52549",
+          "count" : 2.0,
+          "SUID" : 52837,
+          "source_original" : "MH13ALLE",
+          "selected" : false,
+          "target_original" : "CIR"
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "4625",
+          "source" : "3975",
+          "target" : "4013",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 9.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4209,
+          "SUID" : 4625,
           "source_original" : "MH13ALLE",
           "selected" : false,
           "target_original" : "PHS"
@@ -4873,15 +1285,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4207",
-          "source" : "3559",
-          "target" : "3595",
+          "id" : "4623",
+          "source" : "3975",
+          "target" : "4011",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 2.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4207,
+          "SUID" : 4623,
           "source_original" : "MH13ALLE",
           "selected" : false,
           "target_original" : "TOMM40_A2"
@@ -4889,15 +1301,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4205",
-          "source" : "3559",
-          "target" : "3561",
+          "id" : "4621",
+          "source" : "3975",
+          "target" : "3977",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 4.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4205,
+          "SUID" : 4621,
           "source_original" : "MH13ALLE",
           "selected" : false,
           "target_original" : "MOCA"
@@ -4905,15 +1317,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4203",
-          "source" : "3559",
-          "target" : "3593",
+          "id" : "4619",
+          "source" : "3975",
+          "target" : "4009",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 10.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4203,
+          "SUID" : 4619,
           "source_original" : "MH13ALLE",
           "selected" : false,
           "target_original" : "TOMM40_A1"
@@ -4921,15 +1333,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4201",
-          "source" : "3559",
-          "target" : "3585",
+          "id" : "4617",
+          "source" : "3975",
+          "target" : "4001",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 2.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4201,
+          "SUID" : 4617,
           "source_original" : "MH13ALLE",
           "selected" : false,
           "target_original" : "UW_EF"
@@ -4937,15 +1349,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4199",
-          "source" : "3559",
-          "target" : "3583",
+          "id" : "4615",
+          "source" : "3975",
+          "target" : "3999",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 3.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4199,
+          "SUID" : 4615,
           "source_original" : "MH13ALLE",
           "selected" : false,
           "target_original" : "UW_MEM"
@@ -4953,15 +1365,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4197",
-          "source" : "3559",
-          "target" : "3573",
+          "id" : "4613",
+          "source" : "3975",
+          "target" : "3989",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 3.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4197,
+          "SUID" : 4613,
           "source_original" : "MH13ALLE",
           "selected" : false,
           "target_original" : "ADSP_EXF"
@@ -4969,15 +1381,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4195",
-          "source" : "3559",
-          "target" : "3591",
+          "id" : "4611",
+          "source" : "3975",
+          "target" : "4007",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 9.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4195,
+          "SUID" : 4611,
           "source_original" : "MH13ALLE",
           "selected" : false,
           "target_original" : "APOE"
@@ -4985,15 +1397,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4193",
-          "source" : "3559",
-          "target" : "3569",
+          "id" : "4609",
+          "source" : "3975",
+          "target" : "3985",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 4.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4193,
+          "SUID" : 4609,
           "source_original" : "MH13ALLE",
           "selected" : false,
           "target_original" : "ADSP_DX"
@@ -5001,15 +1413,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4191",
-          "source" : "3559",
-          "target" : "3587",
+          "id" : "4607",
+          "source" : "3975",
+          "target" : "4003",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 6.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4191,
+          "SUID" : 4607,
           "source_original" : "MH13ALLE",
           "selected" : false,
           "target_original" : "APOE_A2"
@@ -5017,15 +1429,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4189",
-          "source" : "3559",
-          "target" : "3581",
+          "id" : "4605",
+          "source" : "3975",
+          "target" : "3997",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 5.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4189,
+          "SUID" : 4605,
           "source_original" : "MH13ALLE",
           "selected" : false,
           "target_original" : "ADAS13"
@@ -5033,15 +1445,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4187",
-          "source" : "3559",
-          "target" : "3579",
+          "id" : "4603",
+          "source" : "3975",
+          "target" : "3995",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 5.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4187,
+          "SUID" : 4603,
           "source_original" : "MH13ALLE",
           "selected" : false,
           "target_original" : "ADAS11"
@@ -5049,15 +1461,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4185",
-          "source" : "3559",
-          "target" : "3577",
+          "id" : "4601",
+          "source" : "3975",
+          "target" : "3993",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 5.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4185,
+          "SUID" : 4601,
           "source_original" : "MH13ALLE",
           "selected" : false,
           "target_original" : "ADSP_VSP"
@@ -5065,15 +1477,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4183",
-          "source" : "3559",
-          "target" : "3567",
+          "id" : "4599",
+          "source" : "3975",
+          "target" : "3983",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 6.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4183,
+          "SUID" : 4599,
           "source_original" : "MH13ALLE",
           "selected" : false,
           "target_original" : "CDR"
@@ -5081,15 +1493,27 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4181",
-          "source" : "3557",
-          "target" : "3585",
+          "id" : "52852",
+          "source" : "3973",
+          "target" : "52549",
+          "count" : 7.0,
+          "SUID" : 52852,
+          "source_original" : "MH2NEURL",
+          "selected" : false,
+          "target_original" : "CIR"
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "4597",
+          "source" : "3973",
+          "target" : "4001",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 2.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4181,
+          "SUID" : 4597,
           "source_original" : "MH2NEURL",
           "selected" : false,
           "target_original" : "UW_EF"
@@ -5097,15 +1521,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4179",
-          "source" : "3557",
-          "target" : "3583",
+          "id" : "4595",
+          "source" : "3973",
+          "target" : "3999",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 2.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4179,
+          "SUID" : 4595,
           "source_original" : "MH2NEURL",
           "selected" : false,
           "target_original" : "UW_MEM"
@@ -5113,15 +1537,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4177",
-          "source" : "3557",
-          "target" : "3595",
+          "id" : "4593",
+          "source" : "3973",
+          "target" : "4011",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 10.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4177,
+          "SUID" : 4593,
           "source_original" : "MH2NEURL",
           "selected" : false,
           "target_original" : "TOMM40_A2"
@@ -5129,15 +1553,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4175",
-          "source" : "3557",
-          "target" : "3591",
+          "id" : "4591",
+          "source" : "3973",
+          "target" : "4007",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 1.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4175,
+          "SUID" : 4591,
           "source_original" : "MH2NEURL",
           "selected" : false,
           "target_original" : "APOE"
@@ -5145,15 +1569,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4173",
-          "source" : "3557",
-          "target" : "3577",
+          "id" : "4589",
+          "source" : "3973",
+          "target" : "3993",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 4.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4173,
+          "SUID" : 4589,
           "source_original" : "MH2NEURL",
           "selected" : false,
           "target_original" : "ADSP_VSP"
@@ -5161,15 +1585,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4171",
-          "source" : "3557",
-          "target" : "3573",
+          "id" : "4587",
+          "source" : "3973",
+          "target" : "3989",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 3.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4171,
+          "SUID" : 4587,
           "source_original" : "MH2NEURL",
           "selected" : false,
           "target_original" : "ADSP_EXF"
@@ -5177,15 +1601,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4169",
-          "source" : "3557",
-          "target" : "3587",
+          "id" : "4585",
+          "source" : "3973",
+          "target" : "4003",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 7.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4169,
+          "SUID" : 4585,
           "source_original" : "MH2NEURL",
           "selected" : false,
           "target_original" : "APOE_A2"
@@ -5193,15 +1617,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4167",
-          "source" : "3557",
-          "target" : "3581",
+          "id" : "4583",
+          "source" : "3973",
+          "target" : "3997",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 3.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4167,
+          "SUID" : 4583,
           "source_original" : "MH2NEURL",
           "selected" : false,
           "target_original" : "ADAS13"
@@ -5209,15 +1633,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4165",
-          "source" : "3557",
-          "target" : "3579",
+          "id" : "4581",
+          "source" : "3973",
+          "target" : "3995",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 3.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4165,
+          "SUID" : 4581,
           "source_original" : "MH2NEURL",
           "selected" : false,
           "target_original" : "ADAS11"
@@ -5225,15 +1649,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4163",
-          "source" : "3557",
-          "target" : "3571",
+          "id" : "4579",
+          "source" : "3973",
+          "target" : "3987",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 4.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4163,
+          "SUID" : 4579,
           "source_original" : "MH2NEURL",
           "selected" : false,
           "target_original" : "ADSP_MEM"
@@ -5241,15 +1665,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4161",
-          "source" : "3557",
-          "target" : "3569",
+          "id" : "4577",
+          "source" : "3973",
+          "target" : "3985",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 3.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4161,
+          "SUID" : 4577,
           "source_original" : "MH2NEURL",
           "selected" : false,
           "target_original" : "ADSP_DX"
@@ -5257,15 +1681,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4159",
-          "source" : "3557",
-          "target" : "3561",
+          "id" : "4575",
+          "source" : "3973",
+          "target" : "3977",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 3.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4159,
+          "SUID" : 4575,
           "source_original" : "MH2NEURL",
           "selected" : false,
           "target_original" : "MOCA"
@@ -5273,15 +1697,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4157",
-          "source" : "3555",
-          "target" : "3597",
+          "id" : "4573",
+          "source" : "3971",
+          "target" : "4013",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 12.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4157,
+          "SUID" : 4573,
           "source_original" : "MH16SMOK",
           "selected" : false,
           "target_original" : "PHS"
@@ -5289,15 +1713,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4155",
-          "source" : "3555",
-          "target" : "3583",
+          "id" : "4571",
+          "source" : "3971",
+          "target" : "3999",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 3.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4155,
+          "SUID" : 4571,
           "source_original" : "MH16SMOK",
           "selected" : false,
           "target_original" : "UW_MEM"
@@ -5305,15 +1729,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4153",
-          "source" : "3555",
-          "target" : "3561",
+          "id" : "4569",
+          "source" : "3971",
+          "target" : "3977",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 3.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4153,
+          "SUID" : 4569,
           "source_original" : "MH16SMOK",
           "selected" : false,
           "target_original" : "MOCA"
@@ -5321,15 +1745,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4151",
-          "source" : "3555",
-          "target" : "3595",
+          "id" : "4567",
+          "source" : "3971",
+          "target" : "4011",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 12.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4151,
+          "SUID" : 4567,
           "source_original" : "MH16SMOK",
           "selected" : false,
           "target_original" : "TOMM40_A2"
@@ -5337,15 +1761,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4149",
-          "source" : "3555",
-          "target" : "3575",
+          "id" : "4565",
+          "source" : "3971",
+          "target" : "3991",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 4.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4149,
+          "SUID" : 4565,
           "source_original" : "MH16SMOK",
           "selected" : false,
           "target_original" : "ADSP_LAN"
@@ -5353,15 +1777,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4147",
-          "source" : "3555",
-          "target" : "3593",
+          "id" : "4563",
+          "source" : "3971",
+          "target" : "4009",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 5.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4147,
+          "SUID" : 4563,
           "source_original" : "MH16SMOK",
           "selected" : false,
           "target_original" : "TOMM40_A1"
@@ -5369,15 +1793,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4145",
-          "source" : "3555",
-          "target" : "3591",
+          "id" : "4561",
+          "source" : "3971",
+          "target" : "4007",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 1.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4145,
+          "SUID" : 4561,
           "source_original" : "MH16SMOK",
           "selected" : false,
           "target_original" : "APOE"
@@ -5385,15 +1809,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4143",
-          "source" : "3555",
-          "target" : "3585",
+          "id" : "4559",
+          "source" : "3971",
+          "target" : "4001",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 4.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4143,
+          "SUID" : 4559,
           "source_original" : "MH16SMOK",
           "selected" : false,
           "target_original" : "UW_EF"
@@ -5401,15 +1825,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4141",
-          "source" : "3555",
-          "target" : "3581",
+          "id" : "4557",
+          "source" : "3971",
+          "target" : "3997",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 5.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4141,
+          "SUID" : 4557,
           "source_original" : "MH16SMOK",
           "selected" : false,
           "target_original" : "ADAS13"
@@ -5417,15 +1841,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4139",
-          "source" : "3555",
-          "target" : "3579",
+          "id" : "4555",
+          "source" : "3971",
+          "target" : "3995",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 5.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4139,
+          "SUID" : 4555,
           "source_original" : "MH16SMOK",
           "selected" : false,
           "target_original" : "ADAS11"
@@ -5433,15 +1857,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4137",
-          "source" : "3555",
-          "target" : "3577",
+          "id" : "4553",
+          "source" : "3971",
+          "target" : "3993",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 5.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4137,
+          "SUID" : 4553,
           "source_original" : "MH16SMOK",
           "selected" : false,
           "target_original" : "ADSP_VSP"
@@ -5449,15 +1873,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4135",
-          "source" : "3555",
-          "target" : "3573",
+          "id" : "4551",
+          "source" : "3971",
+          "target" : "3989",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 4.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4135,
+          "SUID" : 4551,
           "source_original" : "MH16SMOK",
           "selected" : false,
           "target_original" : "ADSP_EXF"
@@ -5465,15 +1889,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4133",
-          "source" : "3555",
-          "target" : "3571",
+          "id" : "4549",
+          "source" : "3971",
+          "target" : "3987",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 4.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4133,
+          "SUID" : 4549,
           "source_original" : "MH16SMOK",
           "selected" : false,
           "target_original" : "ADSP_MEM"
@@ -5481,15 +1905,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4131",
-          "source" : "3555",
-          "target" : "3569",
+          "id" : "4547",
+          "source" : "3971",
+          "target" : "3985",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 4.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4131,
+          "SUID" : 4547,
           "source_original" : "MH16SMOK",
           "selected" : false,
           "target_original" : "ADSP_DX"
@@ -5497,15 +1921,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4129",
-          "source" : "3555",
-          "target" : "3567",
+          "id" : "4545",
+          "source" : "3971",
+          "target" : "3983",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 4.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4129,
+          "SUID" : 4545,
           "source_original" : "MH16SMOK",
           "selected" : false,
           "target_original" : "CDR"
@@ -5513,15 +1937,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4127",
-          "source" : "3553",
-          "target" : "3597",
+          "id" : "4543",
+          "source" : "3969",
+          "target" : "4013",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 8.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4127,
+          "SUID" : 4543,
           "source_original" : "TOTAL_CSF",
           "selected" : false,
           "target_original" : "PHS"
@@ -5529,15 +1953,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4125",
-          "source" : "3553",
-          "target" : "3593",
+          "id" : "4541",
+          "source" : "3969",
+          "target" : "4009",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 8.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4125,
+          "SUID" : 4541,
           "source_original" : "TOTAL_CSF",
           "selected" : false,
           "target_original" : "TOMM40_A1"
@@ -5545,15 +1969,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4123",
-          "source" : "3553",
-          "target" : "3591",
+          "id" : "4539",
+          "source" : "3969",
+          "target" : "4007",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 8.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4123,
+          "SUID" : 4539,
           "source_original" : "TOTAL_CSF",
           "selected" : false,
           "target_original" : "APOE"
@@ -5561,15 +1985,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4121",
-          "source" : "3553",
-          "target" : "3587",
+          "id" : "4537",
+          "source" : "3969",
+          "target" : "4003",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 8.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4121,
+          "SUID" : 4537,
           "source_original" : "TOTAL_CSF",
           "selected" : false,
           "target_original" : "APOE_A2"
@@ -5577,15 +2001,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4119",
-          "source" : "3553",
-          "target" : "3585",
+          "id" : "4535",
+          "source" : "3969",
+          "target" : "4001",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 5.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4119,
+          "SUID" : 4535,
           "source_original" : "TOTAL_CSF",
           "selected" : false,
           "target_original" : "UW_EF"
@@ -5593,15 +2017,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4117",
-          "source" : "3553",
-          "target" : "3583",
+          "id" : "4533",
+          "source" : "3969",
+          "target" : "3999",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 5.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4117,
+          "SUID" : 4533,
           "source_original" : "TOTAL_CSF",
           "selected" : false,
           "target_original" : "UW_MEM"
@@ -5609,15 +2033,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4115",
-          "source" : "3553",
-          "target" : "3577",
+          "id" : "4531",
+          "source" : "3969",
+          "target" : "3993",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 5.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4115,
+          "SUID" : 4531,
           "source_original" : "TOTAL_CSF",
           "selected" : false,
           "target_original" : "ADSP_VSP"
@@ -5625,15 +2049,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4113",
-          "source" : "3553",
-          "target" : "3575",
+          "id" : "4529",
+          "source" : "3969",
+          "target" : "3991",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 5.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4113,
+          "SUID" : 4529,
           "source_original" : "TOTAL_CSF",
           "selected" : false,
           "target_original" : "ADSP_LAN"
@@ -5641,15 +2065,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4111",
-          "source" : "3553",
-          "target" : "3573",
+          "id" : "4527",
+          "source" : "3969",
+          "target" : "3989",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 5.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4111,
+          "SUID" : 4527,
           "source_original" : "TOTAL_CSF",
           "selected" : false,
           "target_original" : "ADSP_EXF"
@@ -5657,15 +2081,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4109",
-          "source" : "3553",
-          "target" : "3571",
+          "id" : "4525",
+          "source" : "3969",
+          "target" : "3987",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 5.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4109,
+          "SUID" : 4525,
           "source_original" : "TOTAL_CSF",
           "selected" : false,
           "target_original" : "ADSP_MEM"
@@ -5673,15 +2097,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4107",
-          "source" : "3553",
-          "target" : "3561",
+          "id" : "4523",
+          "source" : "3969",
+          "target" : "3977",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 5.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4107,
+          "SUID" : 4523,
           "source_original" : "TOTAL_CSF",
           "selected" : false,
           "target_original" : "MOCA"
@@ -5689,15 +2113,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4105",
-          "source" : "3551",
-          "target" : "3597",
+          "id" : "4521",
+          "source" : "3967",
+          "target" : "4013",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 8.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4105,
+          "SUID" : 4521,
           "source_original" : "CEREB_TCC",
           "selected" : false,
           "target_original" : "PHS"
@@ -5705,15 +2129,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4103",
-          "source" : "3551",
-          "target" : "3593",
+          "id" : "4519",
+          "source" : "3967",
+          "target" : "4009",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 8.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4103,
+          "SUID" : 4519,
           "source_original" : "CEREB_TCC",
           "selected" : false,
           "target_original" : "TOMM40_A1"
@@ -5721,15 +2145,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4101",
-          "source" : "3551",
-          "target" : "3591",
+          "id" : "4517",
+          "source" : "3967",
+          "target" : "4007",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 8.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4101,
+          "SUID" : 4517,
           "source_original" : "CEREB_TCC",
           "selected" : false,
           "target_original" : "APOE"
@@ -5737,15 +2161,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4099",
-          "source" : "3551",
-          "target" : "3587",
+          "id" : "4515",
+          "source" : "3967",
+          "target" : "4003",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 8.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4099,
+          "SUID" : 4515,
           "source_original" : "CEREB_TCC",
           "selected" : false,
           "target_original" : "APOE_A2"
@@ -5753,15 +2177,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4097",
-          "source" : "3551",
-          "target" : "3585",
+          "id" : "4513",
+          "source" : "3967",
+          "target" : "4001",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 5.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4097,
+          "SUID" : 4513,
           "source_original" : "CEREB_TCC",
           "selected" : false,
           "target_original" : "UW_EF"
@@ -5769,15 +2193,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4095",
-          "source" : "3551",
-          "target" : "3583",
+          "id" : "4511",
+          "source" : "3967",
+          "target" : "3999",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 5.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4095,
+          "SUID" : 4511,
           "source_original" : "CEREB_TCC",
           "selected" : false,
           "target_original" : "UW_MEM"
@@ -5785,15 +2209,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4093",
-          "source" : "3551",
-          "target" : "3577",
+          "id" : "4509",
+          "source" : "3967",
+          "target" : "3993",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 5.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4093,
+          "SUID" : 4509,
           "source_original" : "CEREB_TCC",
           "selected" : false,
           "target_original" : "ADSP_VSP"
@@ -5801,15 +2225,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4091",
-          "source" : "3551",
-          "target" : "3575",
+          "id" : "4507",
+          "source" : "3967",
+          "target" : "3991",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 5.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4091,
+          "SUID" : 4507,
           "source_original" : "CEREB_TCC",
           "selected" : false,
           "target_original" : "ADSP_LAN"
@@ -5817,15 +2241,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4089",
-          "source" : "3551",
-          "target" : "3573",
+          "id" : "4505",
+          "source" : "3967",
+          "target" : "3989",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 5.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4089,
+          "SUID" : 4505,
           "source_original" : "CEREB_TCC",
           "selected" : false,
           "target_original" : "ADSP_EXF"
@@ -5833,15 +2257,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4087",
-          "source" : "3551",
-          "target" : "3571",
+          "id" : "4503",
+          "source" : "3967",
+          "target" : "3987",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 5.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4087,
+          "SUID" : 4503,
           "source_original" : "CEREB_TCC",
           "selected" : false,
           "target_original" : "ADSP_MEM"
@@ -5849,15 +2273,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4085",
-          "source" : "3551",
-          "target" : "3561",
+          "id" : "4501",
+          "source" : "3967",
+          "target" : "3977",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 5.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4085,
+          "SUID" : 4501,
           "source_original" : "CEREB_TCC",
           "selected" : false,
           "target_original" : "MOCA"
@@ -5865,15 +2289,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4083",
-          "source" : "3549",
-          "target" : "3597",
+          "id" : "4499",
+          "source" : "3965",
+          "target" : "4013",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 12.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4083,
+          "SUID" : 4499,
           "source_original" : "MH5RESP",
           "selected" : false,
           "target_original" : "PHS"
@@ -5881,15 +2305,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4081",
-          "source" : "3549",
-          "target" : "3595",
+          "id" : "4497",
+          "source" : "3965",
+          "target" : "4011",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 12.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4081,
+          "SUID" : 4497,
           "source_original" : "MH5RESP",
           "selected" : false,
           "target_original" : "TOMM40_A2"
@@ -5897,15 +2321,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4079",
-          "source" : "3549",
-          "target" : "3593",
+          "id" : "4495",
+          "source" : "3965",
+          "target" : "4009",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 12.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4079,
+          "SUID" : 4495,
           "source_original" : "MH5RESP",
           "selected" : false,
           "target_original" : "TOMM40_A1"
@@ -5913,15 +2337,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4077",
-          "source" : "3549",
-          "target" : "3591",
+          "id" : "4493",
+          "source" : "3965",
+          "target" : "4007",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 12.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4077,
+          "SUID" : 4493,
           "source_original" : "MH5RESP",
           "selected" : false,
           "target_original" : "APOE"
@@ -5929,15 +2353,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4075",
-          "source" : "3549",
-          "target" : "3587",
+          "id" : "4491",
+          "source" : "3965",
+          "target" : "4003",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 12.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4075,
+          "SUID" : 4491,
           "source_original" : "MH5RESP",
           "selected" : false,
           "target_original" : "APOE_A2"
@@ -5945,15 +2369,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4073",
-          "source" : "3549",
-          "target" : "3585",
+          "id" : "4489",
+          "source" : "3965",
+          "target" : "4001",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 7.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4073,
+          "SUID" : 4489,
           "source_original" : "MH5RESP",
           "selected" : false,
           "target_original" : "UW_EF"
@@ -5961,15 +2385,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4071",
-          "source" : "3549",
-          "target" : "3583",
+          "id" : "4487",
+          "source" : "3965",
+          "target" : "3999",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 7.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4071,
+          "SUID" : 4487,
           "source_original" : "MH5RESP",
           "selected" : false,
           "target_original" : "UW_MEM"
@@ -5977,15 +2401,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4069",
-          "source" : "3549",
-          "target" : "3581",
+          "id" : "4485",
+          "source" : "3965",
+          "target" : "3997",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 7.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4069,
+          "SUID" : 4485,
           "source_original" : "MH5RESP",
           "selected" : false,
           "target_original" : "ADAS13"
@@ -5993,15 +2417,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4067",
-          "source" : "3549",
-          "target" : "3579",
+          "id" : "4483",
+          "source" : "3965",
+          "target" : "3995",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 7.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4067,
+          "SUID" : 4483,
           "source_original" : "MH5RESP",
           "selected" : false,
           "target_original" : "ADAS11"
@@ -6009,15 +2433,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4065",
-          "source" : "3549",
-          "target" : "3577",
+          "id" : "4481",
+          "source" : "3965",
+          "target" : "3993",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 7.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4065,
+          "SUID" : 4481,
           "source_original" : "MH5RESP",
           "selected" : false,
           "target_original" : "ADSP_VSP"
@@ -6025,15 +2449,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4063",
-          "source" : "3549",
-          "target" : "3575",
+          "id" : "4479",
+          "source" : "3965",
+          "target" : "3991",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 7.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4063,
+          "SUID" : 4479,
           "source_original" : "MH5RESP",
           "selected" : false,
           "target_original" : "ADSP_LAN"
@@ -6041,15 +2465,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4061",
-          "source" : "3549",
-          "target" : "3573",
+          "id" : "4477",
+          "source" : "3965",
+          "target" : "3989",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 7.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4061,
+          "SUID" : 4477,
           "source_original" : "MH5RESP",
           "selected" : false,
           "target_original" : "ADSP_EXF"
@@ -6057,15 +2481,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4059",
-          "source" : "3549",
-          "target" : "3571",
+          "id" : "4475",
+          "source" : "3965",
+          "target" : "3987",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 7.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4059,
+          "SUID" : 4475,
           "source_original" : "MH5RESP",
           "selected" : false,
           "target_original" : "ADSP_MEM"
@@ -6073,15 +2497,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4057",
-          "source" : "3549",
-          "target" : "3569",
+          "id" : "4473",
+          "source" : "3965",
+          "target" : "3985",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 7.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4057,
+          "SUID" : 4473,
           "source_original" : "MH5RESP",
           "selected" : false,
           "target_original" : "ADSP_DX"
@@ -6089,15 +2513,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4055",
-          "source" : "3549",
-          "target" : "3567",
+          "id" : "4471",
+          "source" : "3965",
+          "target" : "3983",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 7.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4055,
+          "SUID" : 4471,
           "source_original" : "MH5RESP",
           "selected" : false,
           "target_original" : "CDR"
@@ -6105,15 +2529,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4053",
-          "source" : "3549",
-          "target" : "3561",
+          "id" : "4469",
+          "source" : "3965",
+          "target" : "3977",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 7.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4053,
+          "SUID" : 4469,
           "source_original" : "MH5RESP",
           "selected" : false,
           "target_original" : "MOCA"
@@ -6121,15 +2545,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4051",
-          "source" : "3547",
-          "target" : "3597",
+          "id" : "4467",
+          "source" : "3963",
+          "target" : "4013",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 12.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4051,
+          "SUID" : 4467,
           "source_original" : "MH17MALI",
           "selected" : false,
           "target_original" : "PHS"
@@ -6137,15 +2561,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4049",
-          "source" : "3547",
-          "target" : "3595",
+          "id" : "4465",
+          "source" : "3963",
+          "target" : "4011",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 12.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4049,
+          "SUID" : 4465,
           "source_original" : "MH17MALI",
           "selected" : false,
           "target_original" : "TOMM40_A2"
@@ -6153,15 +2577,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4047",
-          "source" : "3547",
-          "target" : "3593",
+          "id" : "4463",
+          "source" : "3963",
+          "target" : "4009",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 7.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4047,
+          "SUID" : 4463,
           "source_original" : "MH17MALI",
           "selected" : false,
           "target_original" : "TOMM40_A1"
@@ -6169,15 +2593,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4045",
-          "source" : "3547",
-          "target" : "3591",
+          "id" : "4461",
+          "source" : "3963",
+          "target" : "4007",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 12.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4045,
+          "SUID" : 4461,
           "source_original" : "MH17MALI",
           "selected" : false,
           "target_original" : "APOE"
@@ -6185,15 +2609,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4043",
-          "source" : "3547",
-          "target" : "3587",
+          "id" : "4459",
+          "source" : "3963",
+          "target" : "4003",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 12.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4043,
+          "SUID" : 4459,
           "source_original" : "MH17MALI",
           "selected" : false,
           "target_original" : "APOE_A2"
@@ -6201,15 +2625,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4041",
-          "source" : "3547",
-          "target" : "3585",
+          "id" : "4457",
+          "source" : "3963",
+          "target" : "4001",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 5.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4041,
+          "SUID" : 4457,
           "source_original" : "MH17MALI",
           "selected" : false,
           "target_original" : "UW_EF"
@@ -6217,15 +2641,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4039",
-          "source" : "3547",
-          "target" : "3583",
+          "id" : "4455",
+          "source" : "3963",
+          "target" : "3999",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 5.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4039,
+          "SUID" : 4455,
           "source_original" : "MH17MALI",
           "selected" : false,
           "target_original" : "UW_MEM"
@@ -6233,15 +2657,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4037",
-          "source" : "3547",
-          "target" : "3581",
+          "id" : "4453",
+          "source" : "3963",
+          "target" : "3997",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 6.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4037,
+          "SUID" : 4453,
           "source_original" : "MH17MALI",
           "selected" : false,
           "target_original" : "ADAS13"
@@ -6249,15 +2673,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4035",
-          "source" : "3547",
-          "target" : "3579",
+          "id" : "4451",
+          "source" : "3963",
+          "target" : "3995",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 6.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4035,
+          "SUID" : 4451,
           "source_original" : "MH17MALI",
           "selected" : false,
           "target_original" : "ADAS11"
@@ -6265,15 +2689,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4033",
-          "source" : "3547",
-          "target" : "3577",
+          "id" : "4449",
+          "source" : "3963",
+          "target" : "3993",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 6.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4033,
+          "SUID" : 4449,
           "source_original" : "MH17MALI",
           "selected" : false,
           "target_original" : "ADSP_VSP"
@@ -6281,15 +2705,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4031",
-          "source" : "3547",
-          "target" : "3575",
+          "id" : "4447",
+          "source" : "3963",
+          "target" : "3991",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 5.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4031,
+          "SUID" : 4447,
           "source_original" : "MH17MALI",
           "selected" : false,
           "target_original" : "ADSP_LAN"
@@ -6297,15 +2721,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4029",
-          "source" : "3547",
-          "target" : "3573",
+          "id" : "4445",
+          "source" : "3963",
+          "target" : "3989",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 5.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4029,
+          "SUID" : 4445,
           "source_original" : "MH17MALI",
           "selected" : false,
           "target_original" : "ADSP_EXF"
@@ -6313,15 +2737,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4027",
-          "source" : "3547",
-          "target" : "3571",
+          "id" : "4443",
+          "source" : "3963",
+          "target" : "3987",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 7.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4027,
+          "SUID" : 4443,
           "source_original" : "MH17MALI",
           "selected" : false,
           "target_original" : "ADSP_MEM"
@@ -6329,15 +2753,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4025",
-          "source" : "3547",
-          "target" : "3569",
+          "id" : "4441",
+          "source" : "3963",
+          "target" : "3985",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 6.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4025,
+          "SUID" : 4441,
           "source_original" : "MH17MALI",
           "selected" : false,
           "target_original" : "ADSP_DX"
@@ -6345,15 +2769,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4023",
-          "source" : "3547",
-          "target" : "3567",
+          "id" : "4439",
+          "source" : "3963",
+          "target" : "3983",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 6.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4023,
+          "SUID" : 4439,
           "source_original" : "MH17MALI",
           "selected" : false,
           "target_original" : "CDR"
@@ -6361,15 +2785,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4021",
-          "source" : "3547",
-          "target" : "3561",
+          "id" : "4437",
+          "source" : "3963",
+          "target" : "3977",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 6.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4021,
+          "SUID" : 4437,
           "source_original" : "MH17MALI",
           "selected" : false,
           "target_original" : "MOCA"
@@ -6377,15 +2801,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4019",
-          "source" : "3545",
-          "target" : "3559",
+          "id" : "4435",
+          "source" : "3961",
+          "target" : "3975",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 6.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4019,
+          "SUID" : 4435,
           "source_original" : "MMSE",
           "selected" : false,
           "target_original" : "MH13ALLE"
@@ -6393,15 +2817,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4017",
-          "source" : "3545",
-          "target" : "3557",
+          "id" : "4433",
+          "source" : "3961",
+          "target" : "3973",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 4.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4017,
+          "SUID" : 4433,
           "source_original" : "MMSE",
           "selected" : false,
           "target_original" : "MH2NEURL"
@@ -6409,15 +2833,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4015",
-          "source" : "3545",
-          "target" : "3555",
+          "id" : "4431",
+          "source" : "3961",
+          "target" : "3971",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 6.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4015,
+          "SUID" : 4431,
           "source_original" : "MMSE",
           "selected" : false,
           "target_original" : "MH16SMOK"
@@ -6425,15 +2849,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4013",
-          "source" : "3545",
-          "target" : "3553",
+          "id" : "4429",
+          "source" : "3961",
+          "target" : "3969",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 5.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4013,
+          "SUID" : 4429,
           "source_original" : "MMSE",
           "selected" : false,
           "target_original" : "TOTAL_CSF"
@@ -6441,15 +2865,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4011",
-          "source" : "3545",
-          "target" : "3551",
+          "id" : "4427",
+          "source" : "3961",
+          "target" : "3967",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 5.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4011,
+          "SUID" : 4427,
           "source_original" : "MMSE",
           "selected" : false,
           "target_original" : "CEREB_TCC"
@@ -6457,15 +2881,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4009",
-          "source" : "3545",
-          "target" : "3549",
+          "id" : "4425",
+          "source" : "3961",
+          "target" : "3965",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 7.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4009,
+          "SUID" : 4425,
           "source_original" : "MMSE",
           "selected" : false,
           "target_original" : "MH5RESP"
@@ -6473,15 +2897,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4007",
-          "source" : "3545",
-          "target" : "3547",
+          "id" : "4423",
+          "source" : "3961",
+          "target" : "3963",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 7.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4007,
+          "SUID" : 4423,
           "source_original" : "MMSE",
           "selected" : false,
           "target_original" : "MH17MALI"
@@ -6489,15 +2913,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4005",
-          "source" : "3543",
-          "target" : "3597",
+          "id" : "4421",
+          "source" : "3959",
+          "target" : "4013",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 12.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4005,
+          "SUID" : 4421,
           "source_original" : "MH3HEAD",
           "selected" : false,
           "target_original" : "PHS"
@@ -6505,15 +2929,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4003",
-          "source" : "3543",
-          "target" : "3595",
+          "id" : "4419",
+          "source" : "3959",
+          "target" : "4011",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 12.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4003,
+          "SUID" : 4419,
           "source_original" : "MH3HEAD",
           "selected" : false,
           "target_original" : "TOMM40_A2"
@@ -6521,15 +2945,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "4001",
-          "source" : "3543",
-          "target" : "3593",
+          "id" : "4417",
+          "source" : "3959",
+          "target" : "4009",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 11.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 4001,
+          "SUID" : 4417,
           "source_original" : "MH3HEAD",
           "selected" : false,
           "target_original" : "TOMM40_A1"
@@ -6537,15 +2961,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3999",
-          "source" : "3543",
-          "target" : "3591",
+          "id" : "4415",
+          "source" : "3959",
+          "target" : "4007",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 12.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 3999,
+          "SUID" : 4415,
           "source_original" : "MH3HEAD",
           "selected" : false,
           "target_original" : "APOE"
@@ -6553,15 +2977,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3997",
-          "source" : "3543",
-          "target" : "3587",
+          "id" : "4413",
+          "source" : "3959",
+          "target" : "4003",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 12.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 3997,
+          "SUID" : 4413,
           "source_original" : "MH3HEAD",
           "selected" : false,
           "target_original" : "APOE_A2"
@@ -6569,15 +2993,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3995",
-          "source" : "3543",
-          "target" : "3585",
+          "id" : "4411",
+          "source" : "3959",
+          "target" : "4001",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 6.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 3995,
+          "SUID" : 4411,
           "source_original" : "MH3HEAD",
           "selected" : false,
           "target_original" : "UW_EF"
@@ -6585,15 +3009,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3993",
-          "source" : "3543",
-          "target" : "3583",
+          "id" : "4409",
+          "source" : "3959",
+          "target" : "3999",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 7.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 3993,
+          "SUID" : 4409,
           "source_original" : "MH3HEAD",
           "selected" : false,
           "target_original" : "UW_MEM"
@@ -6601,15 +3025,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3991",
-          "source" : "3543",
-          "target" : "3581",
+          "id" : "4407",
+          "source" : "3959",
+          "target" : "3997",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 7.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 3991,
+          "SUID" : 4407,
           "source_original" : "MH3HEAD",
           "selected" : false,
           "target_original" : "ADAS13"
@@ -6617,15 +3041,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3989",
-          "source" : "3543",
-          "target" : "3579",
+          "id" : "4405",
+          "source" : "3959",
+          "target" : "3995",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 7.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 3989,
+          "SUID" : 4405,
           "source_original" : "MH3HEAD",
           "selected" : false,
           "target_original" : "ADAS11"
@@ -6633,15 +3057,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3987",
-          "source" : "3543",
-          "target" : "3577",
+          "id" : "4403",
+          "source" : "3959",
+          "target" : "3993",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 7.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 3987,
+          "SUID" : 4403,
           "source_original" : "MH3HEAD",
           "selected" : false,
           "target_original" : "ADSP_VSP"
@@ -6649,15 +3073,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3985",
-          "source" : "3543",
-          "target" : "3575",
+          "id" : "4401",
+          "source" : "3959",
+          "target" : "3991",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 7.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 3985,
+          "SUID" : 4401,
           "source_original" : "MH3HEAD",
           "selected" : false,
           "target_original" : "ADSP_LAN"
@@ -6665,15 +3089,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3983",
-          "source" : "3543",
-          "target" : "3573",
+          "id" : "4399",
+          "source" : "3959",
+          "target" : "3989",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 7.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 3983,
+          "SUID" : 4399,
           "source_original" : "MH3HEAD",
           "selected" : false,
           "target_original" : "ADSP_EXF"
@@ -6681,15 +3105,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3981",
-          "source" : "3543",
-          "target" : "3571",
+          "id" : "4397",
+          "source" : "3959",
+          "target" : "3987",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 7.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 3981,
+          "SUID" : 4397,
           "source_original" : "MH3HEAD",
           "selected" : false,
           "target_original" : "ADSP_MEM"
@@ -6697,15 +3121,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3979",
-          "source" : "3543",
-          "target" : "3569",
+          "id" : "4395",
+          "source" : "3959",
+          "target" : "3985",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 7.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 3979,
+          "SUID" : 4395,
           "source_original" : "MH3HEAD",
           "selected" : false,
           "target_original" : "ADSP_DX"
@@ -6713,15 +3137,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3977",
-          "source" : "3543",
-          "target" : "3567",
+          "id" : "4393",
+          "source" : "3959",
+          "target" : "3983",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 7.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 3977,
+          "SUID" : 4393,
           "source_original" : "MH3HEAD",
           "selected" : false,
           "target_original" : "CDR"
@@ -6729,15 +3153,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3975",
-          "source" : "3543",
-          "target" : "3561",
+          "id" : "4391",
+          "source" : "3959",
+          "target" : "3977",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 7.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 3975,
+          "SUID" : 4391,
           "source_original" : "MH3HEAD",
           "selected" : false,
           "target_original" : "MOCA"
@@ -6745,15 +3169,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3973",
-          "source" : "3543",
-          "target" : "3545",
+          "id" : "4389",
+          "source" : "3959",
+          "target" : "3961",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 7.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 3973,
+          "SUID" : 4389,
           "source_original" : "MH3HEAD",
           "selected" : false,
           "target_original" : "MMSE"
@@ -6761,15 +3185,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3971",
-          "source" : "3541",
-          "target" : "3565",
+          "id" : "4387",
+          "source" : "3957",
+          "target" : "3981",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 10.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 3971,
+          "SUID" : 4387,
           "source_original" : "APOE_A1",
           "selected" : false,
           "target_original" : "MH7DERM"
@@ -6777,15 +3201,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3969",
-          "source" : "3541",
-          "target" : "3563",
+          "id" : "4385",
+          "source" : "3957",
+          "target" : "3979",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 8.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 3969,
+          "SUID" : 4385,
           "source_original" : "APOE_A1",
           "selected" : false,
           "target_original" : "MH10GAST"
@@ -6793,15 +3217,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3967",
-          "source" : "3541",
-          "target" : "3559",
+          "id" : "4383",
+          "source" : "3957",
+          "target" : "3975",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 5.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 3967,
+          "SUID" : 4383,
           "source_original" : "APOE_A1",
           "selected" : false,
           "target_original" : "MH13ALLE"
@@ -6809,15 +3233,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3965",
-          "source" : "3541",
-          "target" : "3557",
+          "id" : "4381",
+          "source" : "3957",
+          "target" : "3973",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 6.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 3965,
+          "SUID" : 4381,
           "source_original" : "APOE_A1",
           "selected" : false,
           "target_original" : "MH2NEURL"
@@ -6825,15 +3249,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3963",
-          "source" : "3541",
-          "target" : "3555",
+          "id" : "4379",
+          "source" : "3957",
+          "target" : "3971",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 9.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 3963,
+          "SUID" : 4379,
           "source_original" : "APOE_A1",
           "selected" : false,
           "target_original" : "MH16SMOK"
@@ -6841,15 +3265,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3961",
-          "source" : "3541",
-          "target" : "3553",
+          "id" : "4377",
+          "source" : "3957",
+          "target" : "3969",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 8.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 3961,
+          "SUID" : 4377,
           "source_original" : "APOE_A1",
           "selected" : false,
           "target_original" : "TOTAL_CSF"
@@ -6857,15 +3281,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3959",
-          "source" : "3541",
-          "target" : "3551",
+          "id" : "4375",
+          "source" : "3957",
+          "target" : "3967",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 8.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 3959,
+          "SUID" : 4375,
           "source_original" : "APOE_A1",
           "selected" : false,
           "target_original" : "CEREB_TCC"
@@ -6873,15 +3297,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3957",
-          "source" : "3541",
-          "target" : "3549",
+          "id" : "4373",
+          "source" : "3957",
+          "target" : "3965",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 12.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 3957,
+          "SUID" : 4373,
           "source_original" : "APOE_A1",
           "selected" : false,
           "target_original" : "MH5RESP"
@@ -6889,15 +3313,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3955",
-          "source" : "3541",
-          "target" : "3547",
+          "id" : "4371",
+          "source" : "3957",
+          "target" : "3963",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 12.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 3955,
+          "SUID" : 4371,
           "source_original" : "APOE_A1",
           "selected" : false,
           "target_original" : "MH17MALI"
@@ -6905,15 +3329,15 @@ var datasets = [
         "selected" : false
       }, {
         "data" : {
-          "id" : "3953",
-          "source" : "3541",
-          "target" : "3543",
+          "id" : "4369",
+          "source" : "3957",
+          "target" : "3959",
           "shared_name" : "",
           "shared_interaction" : "",
           "count" : 12.0,
           "name" : "",
           "interaction" : "",
-          "SUID" : 3953,
+          "SUID" : 4369,
           "source_original" : "APOE_A1",
           "selected" : false,
           "target_original" : "MH3HEAD"
@@ -6932,20 +3356,20 @@ var datasets = [
           "background-color" : function(ele) {
             var layer = ele.data('layer');
             if (layer === 'GENETIC'){
-              var node_degree = ele.data('node_degree')/13;
-              var baseColor = [164, 48, 182];
+              var node_degree = ele.data('node_degree')/11;
+              var baseColor = [144, 28, 162];
             } else if (layer === 'PET') {
-              var node_degree = ele.data('node_degree')/51;
+              var node_degree = ele.data('node_degree')/3;
               var baseColor = [180, 0, 0];
             } else if (layer === 'MRI') {
-              var node_degree = ele.data('node_degree')/35;
-              var baseColor = [255, 128, 0];
+              var node_degree = ele.data('node_degree')/13;
+              var baseColor = [5, 68, 70];
             } else if (layer === 'RISKFACTORS') {
-              var node_degree = ele.data('node_degree')/71;
-              var baseColor = [159, 162, 54];
+              var node_degree = ele.data('node_degree')/19;
+              var baseColor = [109, 112, 4];
             } else if (layer == 'PHENOTYPE') {
-              var node_degree = ele.data('node_degree')/118;
-              var baseColor = [47, 47, 180];
+              var node_degree = ele.data('node_degree')/11;
+              var baseColor = [87, 87, 220];
             }
             var colorValue = Math.floor((1-node_degree) * 255);
             // Crea el gradiente de color utilizando el valor de color calculado
@@ -7006,6 +3430,7 @@ var datasets = [
         "selector" : "edge",
         "css" : {
           "text-opacity" : 1.0,
+          // "line-color": "rgb(0,0,0)",
           "line-color" : function(ele) {
             var weight = ele.data('count')/12;
             var colorValue = Math.round(255 * (1-weight));
@@ -7014,6 +3439,7 @@ var datasets = [
             return 'rgb(' + colorValue + ',' + colorValue + ',' + colorValue + ')';
           },
           "font-size" : 10,
+          // "color": "rgb(0,0,0)",
           "color" : function(ele) {
             var weight = ele.data('count')/12;
             var colorValue = Math.round(255 * (1-weight));
@@ -7021,7 +3447,11 @@ var datasets = [
             colorValue = Math.min(255, colorValue);
             return 'rgb(' + colorValue + ',' + colorValue + ',' + colorValue + ')';
           },
-          "opacity" : 1.0,
+          // "opacity": 1.0,
+          "opacity" : function(ele) {
+            var weight = ele.data('count')/12;
+            return 5*weight;
+          },
           "target-arrow-shape" : "none",
           "source-arrow-shape" : "none",
           "source-arrow-color" : "rgb(0,0,0)",
@@ -7029,10 +3459,7 @@ var datasets = [
           "font-family" : "system-ui",
           "font-weight" : "normal",
           "content" : "",
-          "width" : function(ele) {
-            var weight = ele.data('count')/12;
-            return 5*weight;
-          },
+          "width" : 1.0,
           "line-style" : "solid",
           "curve-style": "unbundled-bezier",
           "control-point-distances": [60, -60],
@@ -26954,22 +23381,23 @@ var datasets = [
             var layer = ele.data('layer');
             if (layer === 'GENETIC'){
               var node_degree = ele.data('node_degree')/11;
-              var baseColor = [164, 48, 182];
+              var baseColor = [144, 28, 162];
             } else if (layer === 'MOLECULAR') {
               var node_degree = ele.data('node_degree')/38;
-              var baseColor = [47, 180, 47];
+              var baseColor = [7, 140, 7];
             } else if (layer === 'PET') {
               var node_degree = ele.data('node_degree')/27;
               var baseColor = [180, 0, 0];
             } else if (layer === 'MRI') {
               var node_degree = ele.data('node_degree')/15;
-              var baseColor = [255, 128, 0];
+              // var baseColor = [255, 128, 0];
+              var baseColor = [5, 68, 70];
             } else if (layer === 'RISKFACTORS') {
               var node_degree = ele.data('node_degree')/20;
-              var baseColor = [159, 162, 54];
+              var baseColor = [109, 112, 4];
             } else if (layer == 'PHENOTYPE') {
               var node_degree = ele.data('node_degree')/80;
-              var baseColor = [47, 47, 180];
+              var baseColor = [87, 87, 220];
             }
             var colorValue = Math.floor((1-node_degree) * 255);
             // Crea el gradiente de color utilizando el valor de color calculado
@@ -60094,22 +56522,22 @@ var datasets = [
             var layer = ele.data('layer');
             if (layer === 'GENETIC'){
               var node_degree = ele.data('node_degree')/13;
-              var baseColor = [164, 48, 182];
+              var baseColor = [144, 28, 162];
             } else if (layer === 'MOLECULAR') {
               var node_degree = ele.data('node_degree')/39;
-              var baseColor = [47, 180, 47];
+              var baseColor = [7, 140, 7];
             } else if (layer === 'PET') {
               var node_degree = ele.data('node_degree')/51;
               var baseColor = [180, 0, 0];
             } else if (layer === 'MRI') {
               var node_degree = ele.data('node_degree')/35;
-              var baseColor = [255, 128, 0];
+              var baseColor = [5, 68, 70];
             } else if (layer === 'RISKFACTORS') {
               var node_degree = ele.data('node_degree')/71;
-              var baseColor = [159, 162, 54];
+              var baseColor = [109, 112, 4];
             } else if (layer == 'PHENOTYPE') {
               var node_degree = ele.data('node_degree')/118;
-              var baseColor = [47, 47, 180];
+              var baseColor = [87, 87, 220];
             }
             var colorValue = Math.floor((1-node_degree) * 255);
             // Crea el gradiente de color utilizando el valor de color calculado
@@ -90818,22 +87246,22 @@ var datasets = [
             var layer = ele.data('layer');
             if (layer === 'GENETIC'){
               var node_degree = ele.data('node_degree')/10;
-              var baseColor = [164, 48, 182];
+              var baseColor = [144, 28, 162];
             } else if (layer === 'MOLECULAR') {
               var node_degree = ele.data('node_degree')/8;
-              var baseColor = [47, 180, 47];
+              var baseColor = [7, 140, 7];
             } else if (layer === 'PET') {
               var node_degree = ele.data('node_degree')/76;
               var baseColor = [180, 0, 0];
             } else if (layer === 'MRI') {
               var node_degree = ele.data('node_degree')/95;
-              var baseColor = [255, 128, 0];
+              var baseColor = [5, 68, 70];
             } else if (layer === 'RISKFACTORS') {
               var node_degree = ele.data('node_degree')/106;
-              var baseColor = [159, 162, 54];
+              var baseColor = [109, 112, 4];
             } else if (layer == 'PHENOTYPE') {
               var node_degree = ele.data('node_degree')/81;
-              var baseColor = [47, 47, 180];
+              var baseColor = [87, 87, 220];
             }
             var colorValue = Math.floor((1-node_degree) * 255);
             // Crea el gradiente de color utilizando el valor de color calculado
@@ -118286,22 +114714,22 @@ var datasets = [
             var layer = ele.data('layer');
             if (layer === 'GENETIC'){
               var node_degree = ele.data('node_degree')/14;
-              var baseColor = [164, 48, 182];
+              var baseColor = [144, 28, 162];
             } else if (layer === 'MOLECULAR') {
               var node_degree = ele.data('node_degree')/13;
-              var baseColor = [47, 180, 47];
+              var baseColor = [7, 140, 7];
             } else if (layer === 'PET') {
               var node_degree = ele.data('node_degree')/35;
               var baseColor = [180, 0, 0];
             } else if (layer === 'MRI') {
               var node_degree = ele.data('node_degree')/46;
-              var baseColor = [255, 128, 0];
+              var baseColor = [5, 68, 70];
             } else if (layer === 'RISKFACTORS') {
               var node_degree = ele.data('node_degree')/60;
-              var baseColor = [159, 162, 54];
+              var baseColor = [109, 112, 4];
             } else if (layer == 'PHENOTYPE') {
               var node_degree = ele.data('node_degree')/100;
-              var baseColor = [47, 47, 180];
+              var baseColor = [87, 87, 220];
             }
             var colorValue = Math.floor((1-node_degree) * 255);
             // Crea el gradiente de color utilizando el valor de color calculado
