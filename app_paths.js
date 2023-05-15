@@ -254,7 +254,7 @@ var datasets = [
         "data" : {
           "id" : "51407",
           "shared_name" : "Node 18",
-          "name" : "5%\n\n\n\n0%",
+          "name" : "15%\n\n\n\n0%",
           "SUID" : 51407,
           "layer" : "no",
           "selected" : false
@@ -268,7 +268,7 @@ var datasets = [
         "data" : {
           "id" : "51402",
           "shared_name" : "Node 17",
-          "name" : "5%\n\n\n\n0%",
+          "name" : "8%\n\n\n\n0%",
           "SUID" : 51402,
           "layer" : "no",
           "selected" : false
@@ -282,7 +282,7 @@ var datasets = [
         "data" : {
           "id" : "51397",
           "shared_name" : "Node 16",
-          "name" : "8%\n\n\n\n0%",
+          "name" : "0,4%\n\n\n\n0%",
           "SUID" : 51397,
           "layer" : "no",
           "selected" : false
@@ -352,7 +352,7 @@ var datasets = [
         "data" : {
           "id" : "51353",
           "shared_name" : "Node 8",
-          "name" : "2%\n\n\n\n0%",
+          "name" : "17%\n\n\n\n0%",
           "SUID" : 51353,
           "layer" : "no",
           "selected" : false
