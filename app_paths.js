@@ -4,6 +4,463 @@ var datasets = [
     {
       "nodes" : [ {
         "data" : {
+          "id" : "2995",
+          "shared_name" : "Node 1",
+          "ignore_existing" : true,
+          "name" : "PHS\nAPOE_A1\nAPOE_A2\nAPOE\nTOMM40_A1",
+          "node_degree" : 0.0,
+          "SUID" : 2995,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 592.4859807849956,
+          "y" : -184.53448867777132
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2991",
+          "shared_name" : "Node 3",
+          "ignore_existing" : true,
+          "name" : "91\n90\n84\n82\n79",
+          "node_degree" : 0.0,
+          "SUID" : 2991,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 820.759951165248,
+          "y" : -183.111759839154146
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2989",
+          "shared_name" : "Node 4",
+          "ignore_existing" : true,
+          "name" : "# paths",
+          "node_degree" : 0.0,
+          "SUID" : 2989,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 816.9282722467146,
+          "y" : -955.9456803058044
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2985",
+          "shared_name" : "Node 6",
+          "ignore_existing" : true,
+          "name" : "MMPLS_FDG",
+          "node_degree" : 0.0,
+          "SUID" : 2985,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 593.2606250028203,
+          "y" : -350.16072228692735
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2983",
+          "shared_name" : "Node 7",
+          "ignore_existing" : true,
+          "name" : "2",
+          "node_degree" : 0.0,
+          "SUID" : 2983,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 818.0510800597058,
+          "y" : -350.97687789575764
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2981",
+          "shared_name" : "Node 8",
+          "ignore_existing" : true,
+          "name" : "CEREB_TCC\nTOTAL_CSF",
+          "node_degree" : 0.0,
+          "SUID" : 2981,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 591.1207562229728,
+          "y" : -511.7595613365754
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2979",
+          "shared_name" : "Node 9",
+          "ignore_existing" : true,
+          "name" : "40\n40",
+          "node_degree" : 0.0,
+          "SUID" : 2979,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 819.220585076299,
+          "y" : -512.4589702698006
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2977",
+          "shared_name" : "Node 10",
+          "ignore_existing" : true,
+          "name" : "MH5RESP\nMH3HEAD\nMH17MALI\nMH7DERM\nMH16SMOK",
+          "node_degree" : 0.0,
+          "SUID" : 2977,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 589.3632804106982,
+          "y" : -679.0031282864512
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2975",
+          "shared_name" : "Node 11",
+          "ignore_existing" : true,
+          "name" : "84\n83\n70\n60\n51",
+          "node_degree" : 0.0,
+          "SUID" : 2975,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 819.1204450373662,
+          "y" : -678.9899169485827
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2973",
+          "shared_name" : "Node 12",
+          "ignore_existing" : true,
+          "name" : "52\n51\n48\n47\n46",
+          "node_degree" : 0.0,
+          "SUID" : 2973,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 815.8760236451826,
+          "y" : -836.0944269638782
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2971",
+          "shared_name" : "Node 13",
+          "ignore_existing" : true,
+          "name" : "MOCA\nUW_MEM\nUW_EF\nMMSE\nADAS11",
+          "node_degree" : 0.0,
+          "SUID" : 2971,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 588.3956305228991,
+          "y" : -835.1657560958116
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2969",
+          "shared_name" : "Node 14",
+          "ignore_existing" : true,
+          "name" : "Top nodes",
+          "node_degree" : 0.0,
+          "SUID" : 2969,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 587.6842603887482,
+          "y" : -954.3981248018365
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2967",
+          "shared_name" : "Node 15",
+          "ignore_existing" : true,
+          "name" : "Total # of paths: 557",
+          "node_degree" : 0.0,
+          "SUID" : 2967,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 590.6133357753203,
+          "y" : -1049.7885978653132
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51412",
+          "shared_name" : "Node 19",
+          "name" : "10%\n\n\n\n0%",
+          "SUID" : 51412,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -351.4161207538432,
+          "y" : -844.5321131409835
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51407",
+          "shared_name" : "Node 18",
+          "name" : "5%\n\n\n\n0%",
+          "SUID" : 51407,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -349.0793902873993,
+          "y" : -686.7012308964784
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51402",
+          "shared_name" : "Node 17",
+          "name" : "5%\n\n\n\n0%",
+          "SUID" : 51402,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -347.9978904129662,
+          "y" : -528.007396739966
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51397",
+          "shared_name" : "Node 16",
+          "name" : "8%\n\n\n\n0%",
+          "SUID" : 51397,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -346.0448250704791,
+          "y" : -366.1918010289627
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51382",
+          "shared_name" : "Node 13",
+          "name" : "Phenotype",
+          "SUID" : 51382,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -387.7420129776001,
+          "y" : -915.3146133422852
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51377",
+          "shared_name" : "Node 12",
+          "name" : "Risk Factors",
+          "SUID" : 51377,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -386.6305985450745,
+          "y" : -757.4089405536652
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51372",
+          "shared_name" : "Node 11",
+          "name" : "MRI",
+          "SUID" : 51372,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -390.9580383300781,
+          "y" : -599.2985424995422
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51367",
+          "shared_name" : "Node 10",
+          "name" : "PET",
+          "SUID" : 51367,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -389.9255971908569,
+          "y" : -438.4668321609497
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51353",
+          "shared_name" : "Node 8",
+          "name" : "2%\n\n\n\n0%",
+          "SUID" : 51353,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -340.9136845750946,
+          "y" : -206.971474647521973
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51348",
+          "shared_name" : "Node 7",
+          "name" : "Genetic",
+          "SUID" : 51348,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -376.569212656732,
+          "y" : -279.12761080919799
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51343",
+          "shared_name" : "Node 6", // barra phenotype
+          "SUID" : 51343,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -393.391839829807,
+          "y" : -844.1286528390694
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51338",
+          "shared_name" : "Node 5", // barra pet
+          "SUID" : 51338,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -389.4319158250333,
+          "y" : -364.72342942740414
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51328",
+          "shared_name" : "Node 3", // barra genetic
+          "SUID" : 51328,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -388.4828812356708,
+          "y" : -206.284221739671107
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51323",
+          "shared_name" : "Node 2", // barra risk factors
+          "SUID" : 51323,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -390.962909030682,
+          "y" : -684.7688399082768
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51318",
+          "shared_name" : "Node 1", // barra mri
+          "SUID" : 51318,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -389.9048965370573,
+          "y" : -526.8062095825741
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "3348",
+          "shared_name" : "Node 1",
+          "ignore_existing" : true,
+          "name" : "% of total paths",
+          "node_degree" : 0.0,
+          "SUID" : 3348,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -382.3628384871968,
+          "y" : -981.7029656464146
+        },
+        "selected" : false
+      }, {
+        "data" : {
           "id" : "52822",
           "ignore_existing" : true,
           "node_degree" : 6.0,
@@ -3355,35 +3812,39 @@ var datasets = [
           "background-opacity" : 1.0,
           "background-color" : function(ele) {
             var layer = ele.data('layer');
-            if (layer === 'GENETIC'){
-              var node_degree = ele.data('node_degree')/11;
-              var baseColor = [144, 28, 162];
-            } else if (layer === 'PET') {
-              var node_degree = ele.data('node_degree')/3;
-              var baseColor = [180, 0, 0];
-            } else if (layer === 'MRI') {
-              var node_degree = ele.data('node_degree')/13;
-              var baseColor = [5, 68, 70];
-            } else if (layer === 'RISKFACTORS') {
-              var node_degree = ele.data('node_degree')/19;
-              var baseColor = [109, 112, 4];
-            } else if (layer == 'PHENOTYPE') {
-              var node_degree = ele.data('node_degree')/11;
-              var baseColor = [87, 87, 220];
+            if (layer !== 'no'){
+              if (layer === 'GENETIC'){
+                var node_degree = ele.data('node_degree')/11;
+                var baseColor = [144, 28, 162];
+              } else if (layer === 'PET') {
+                var node_degree = ele.data('node_degree')/3;
+                var baseColor = [180, 0, 0];
+              } else if (layer === 'MRI') {
+                var node_degree = ele.data('node_degree')/13;
+                var baseColor = [5, 68, 70];
+              } else if (layer === 'RISKFACTORS') {
+                var node_degree = ele.data('node_degree')/19;
+                var baseColor = [109, 112, 4];
+              } else if (layer == 'PHENOTYPE') {
+                var node_degree = ele.data('node_degree')/11;
+                var baseColor = [87, 87, 220];
+              }
+              var colorValue = Math.floor((1-node_degree) * 255);
+              // Crea el gradiente de color utilizando el valor de color calculado
+              var redValue = baseColor[0] + colorValue;
+              var greenValue = baseColor[1] + colorValue;
+              var blueValue = baseColor[2] + colorValue;
+              // Asegura que los valores RGB estén dentro del rango válido de 0 a 255
+              redValue = Math.max(0, redValue);
+              greenValue = Math.max(0, greenValue);
+              blueValue = Math.max(0, blueValue);
+              redValue = Math.min(255, redValue);
+              greenValue = Math.min(255, greenValue);
+              blueValue = Math.min(255, blueValue);
+              return 'rgb(' + redValue + ',' + greenValue + ',' + blueValue + ')';
+            } else {
+              return 'rgb(255,255,255)';
             }
-            var colorValue = Math.floor((1-node_degree) * 255);
-            // Crea el gradiente de color utilizando el valor de color calculado
-            var redValue = baseColor[0] + colorValue;
-            var greenValue = baseColor[1] + colorValue;
-            var blueValue = baseColor[2] + colorValue;
-            // Asegura que los valores RGB estén dentro del rango válido de 0 a 255
-            redValue = Math.max(0, redValue);
-            greenValue = Math.max(0, greenValue);
-            blueValue = Math.max(0, blueValue);
-            redValue = Math.min(255, redValue);
-            greenValue = Math.min(255, greenValue);
-            blueValue = Math.min(255, blueValue);
-            return 'rgb(' + redValue + ',' + greenValue + ',' + blueValue + ')';
           },
           "font-size" : 7,
           "font-family" : "sans-serif",
@@ -3420,6 +3881,145 @@ var datasets = [
             }
           },
           "content" : "data(name)"
+        }
+      }, {
+        "selector" : "node[ id = '51328' ]",
+        "css" : {
+          'background-gradient-stop-colors': 'rgb(144,28,162) rgb(255,255,255)',
+          'background-gradient-direction': 'to-bottom',
+          'background-fill': 'linear-gradient',
+          "width" : 30.0,
+          "shape" : "rectangle",
+          "height" : 100.0
+        }
+      }, {
+        "selector" : "node[ id = '51392' ], node[ id = '51397' ], node[ id = '51402' ], node[ id = '51407' ], node[ id = '51412' ], node[ id = '51353' ]",
+        "css" : {
+          "background-color" : "rgb(255,255,255)",
+          "border-color" : "rgb(255,255,255)",
+          "shape" : "rectangle",
+          "font-size" : 20,
+          "font-weight" : "normal",
+          "height" : 100.0
+        }
+      }, {
+        "selector" : "node[ id = '2977' ], node[ id = '2981' ], node[ id = '2985' ], node[ id = '2971' ], node[ id = '2993' ], node[ id = '2995' ]",
+        "css" : {
+          "background-color" : "rgb(255,255,255)",
+          "width" : 350.0,
+          "shape" : "rectangle",
+          "font-size" : 20,
+          "font-weight" : "normal",
+          "height" : 150.0,
+          "border-color" : "rgb(37,37,37)"
+        }
+      }, {
+        "selector" : "node[ id = '51362' ], node[ id = '51367' ], node[ id = '51372' ], node[ id = '51377' ], node[ id = '51348' ], node[ id = '51382' ]",
+        "css" : {
+          "background-color" : "rgb(255,255,255)",
+          "border-color" : "rgb(255,255,255)",
+          "width" : 120.0,
+          "shape" : "rectangle",
+          "font-size" : 20,
+          "font-weight" : "normal",
+          "text-max-width": 300.0,
+          "height" : 40.0
+        }
+      }, {
+        "selector" : "node[ id = '2979' ], node[ id = '2983' ], node[ id = '2987' ], node[ id = '2991' ], node[ id = '2973' ], node[ id = '2975' ]",
+        "css" : {
+          "background-color" : "rgb(255,255,255)",
+          "width" : 80.0,
+          "shape" : "rectangle",
+          "font-size" : 20,
+          "font-weight" : "normal",
+          "text-max-width": 300.0,
+          "height" : 150.0,
+          "border-color" : "rgb(37,37,37)"
+        }
+      }, {
+        "selector" : "node[ id = '51333' ]",
+        "css" : {
+          'background-gradient-stop-colors': 'rgb(7,140,7) rgb(255,255,255)',
+          'background-gradient-direction': 'to-bottom',
+          'background-fill': 'linear-gradient',
+          "width" : 30.0,
+          "shape" : "rectangle",
+          "height" : 100.0
+        }
+      }, {
+        "selector" : "node[ id = '51338' ]",
+        "css" : {
+          'background-gradient-stop-colors': 'rgb(180,0,0) rgb(255,255,255)',
+          'background-gradient-direction': 'to-bottom',
+          'background-fill': 'linear-gradient',
+          "width" : 30.0,
+          "shape" : "rectangle",
+          "height" : 100.0
+        }
+      }, {
+        "selector" : "node[ id = '2989' ]",
+        "css" : {
+          "background-color" : "rgb(255,255,255)",
+          "width" : 80.0,
+          "shape" : "rectangle",
+          "font-size" : 20,
+          "font-weight" : "normal",
+          "text-max-width": 300.0,
+          "border-color" : "rgb(37,37,37)"
+        }
+      }, {
+        "selector" : "node[ id = '51343' ]",
+        "css" : {
+          'background-gradient-stop-colors': 'rgb(87,87,220) rgb(255,255,255)',
+          'background-gradient-direction': 'to-bottom',
+          'background-fill': 'linear-gradient',
+          "width" : 30.0,
+          "shape" : "rectangle",
+          "height" : 100.0
+        }
+      }, {
+        "selector" : "node[ id = '3348' ]",
+        "css" : {
+          "background-color" : "rgb(255,255,255)",
+          "width" : 150.0,
+          "shape" : "rectangle",
+          "font-size" : 20,
+          "font-weight" : "normal",
+          "text-max-width": 300.0,
+          "height" : 40.0,
+          "border-color" : "rgb(37,37,37)"
+        }
+      }, {
+        "selector" : "node[ id = '51318' ]",
+        "css" : {
+          'background-gradient-stop-colors': 'rgb(5,68,70) rgb(255,255,255)',
+          'background-gradient-direction': 'to-bottom',
+          'background-fill': 'linear-gradient',
+          "width" : 30.0,
+          "shape" : "rectangle",
+          "height" : 100.0
+        }
+      }, {
+        "selector" : "node[ id = '2967' ], node[ id = '2969' ]",
+        "css" : {
+          "background-color" : "rgb(255,255,255)",
+          "width" : 300.0,
+          "shape" : "rectangle",
+          "font-size" : 20,
+          "font-weight" : "normal",
+          "text-max-width": 300.0,
+          "border-color" : "rgb(37,37,37)"
+        }
+      }, {
+        "selector" : "node[ id = '51323' ]",
+        "css" : {
+          'background-gradient-stop-colors': 'rgb(109,112,4) rgb(255,255,255)',
+          'background-gradient-direction': 'to-bottom',
+          'background-fill': 'linear-gradient',
+          "width" : 30.0,
+          "shape" : "rectangle",
+          "height" : 100.0
         }
       }, {
         "selector" : "node:selected",
@@ -3475,6 +4075,540 @@ var datasets = [
     // From MOLECULAR
     {
       "nodes" : [ {
+        "data" : {
+          "id" : "2995",
+          "shared_name" : "Node 1",
+          "ignore_existing" : true,
+          "name" : "APOE_A2\nAPOE\nCIR\nPHS\nAPOE_A1",
+          "node_degree" : 0.0,
+          "SUID" : 2995,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 792.4859807849956,
+          "y" : -34.53448867777132
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2993",
+          "shared_name" : "Node 2",
+          "ignore_existing" : true,
+          "name" : "TL\nTS_RATIO_ADJ\nTS_RATIO\nBACE\nAPP",
+          "node_degree" : 0.0,
+          "SUID" : 2993,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 793.5645229406231,
+          "y" : -197.268726112144
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2991",
+          "shared_name" : "Node 3",
+          "ignore_existing" : true,
+          "name" : "22\n15\n6\n5\n1",
+          "node_degree" : 0.0,
+          "SUID" : 2991,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 1020.759951165248,
+          "y" : -33.111759839154146
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2989",
+          "shared_name" : "Node 4",
+          "ignore_existing" : true,
+          "name" : "# paths",
+          "node_degree" : 0.0,
+          "SUID" : 2989,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 1016.9282722467146,
+          "y" : -965.9456803058044
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2987",
+          "shared_name" : "Node 5",
+          "ignore_existing" : true,
+          "name" : "282\n208\n132\n125\n102",
+          "node_degree" : 0.0,
+          "SUID" : 2987,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 1021.289071734176,
+          "y" : -199.9891488410311
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2985",
+          "shared_name" : "Node 6",
+          "ignore_existing" : true,
+          "name" : "OCCMIDL02_FDG\nTMPINFL02_FDG\nFRTMIDL01_FDG\nOCCMIDR01_FDG\nTMPINFR01_FDG",
+          "node_degree" : 0.0,
+          "SUID" : 2985,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 793.2606250028203,
+          "y" : -360.16072228692735
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2983",
+          "shared_name" : "Node 7",
+          "ignore_existing" : true,
+          "name" : "105\n100\n94\n92\n86",
+          "node_degree" : 0.0,
+          "SUID" : 2983,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 1018.0510800597058,
+          "y" : -362.97687789575764
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2981",
+          "shared_name" : "Node 8",
+          "ignore_existing" : true,
+          "name" : "CEREB_TCC\nTOTAL_CSF\nST118TS\nIPCA\nST99TS",
+          "node_degree" : 0.0,
+          "SUID" : 2981,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 791.1207562229728,
+          "y" : -521.7595613365754
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2979",
+          "shared_name" : "Node 9",
+          "ignore_existing" : true,
+          "name" : "64\n46\n33\n30\n22",
+          "node_degree" : 0.0,
+          "SUID" : 2979,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 1019.220585076299,
+          "y" : -522.4589702698006
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2977",
+          "shared_name" : "Node 10",
+          "ignore_existing" : true,
+          "name" : "MH5RESP\nMH7DERM\nMH3HEAD\nMH17MALI\nMH16SMOK",
+          "node_degree" : 0.0,
+          "SUID" : 2977,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 789.3632804106982,
+          "y" : -679.0031282864512
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2975",
+          "shared_name" : "Node 11",
+          "ignore_existing" : true,
+          "name" : "72\n70\n63\n61\n59",
+          "node_degree" : 0.0,
+          "SUID" : 2975,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 1019.1204450373662,
+          "y" : -678.9899169485827
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2973",
+          "shared_name" : "Node 12",
+          "ignore_existing" : true,
+          "name" : "144\n138\n137\n135\n132",
+          "node_degree" : 0.0,
+          "SUID" : 2973,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 1015.8760236451826,
+          "y" : -836.0944269638782
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2971",
+          "shared_name" : "Node 13",
+          "ignore_existing" : true,
+          "name" : "ADAS13\nMOCA\nADAS11\nUW_MEM\nCDR",
+          "node_degree" : 0.0,
+          "SUID" : 2971,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 788.3956305228991,
+          "y" : -835.1657560958116
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2969",
+          "shared_name" : "Node 14",
+          "ignore_existing" : true,
+          "name" : "Top nodes",
+          "node_degree" : 0.0,
+          "SUID" : 2969,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 787.6842603887482,
+          "y" : -964.3981248018365
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2967",
+          "shared_name" : "Node 15",
+          "ignore_existing" : true,
+          "name" : "Total # of paths: 1473",
+          "node_degree" : 0.0,
+          "SUID" : 2967,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 790.6133357753203,
+          "y" : -1049.7885978653132
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51412",
+          "shared_name" : "Node 19",
+          "name" : "10%\n\n\n\n0%",
+          "SUID" : 51412,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -451.4161207538432,
+          "y" : -784.5321131409835
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51407",
+          "shared_name" : "Node 18",
+          "name" : "5%\n\n\n\n0%",
+          "SUID" : 51407,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -449.0793902873993,
+          "y" : -636.7012308964784
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51402",
+          "shared_name" : "Node 17",
+          "name" : "5%\n\n\n\n0%",
+          "SUID" : 51402,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -447.9978904129662,
+          "y" : -488.007396739966
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51397",
+          "shared_name" : "Node 16",
+          "name" : "8%\n\n\n\n0%",
+          "SUID" : 51397,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -446.0448250704791,
+          "y" : -336.1918010289627
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51392",
+          "shared_name" : "Node 15",
+          "name" : "20%\n\n\n\n0%",
+          "SUID" : 51392,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -439.6713485717773,
+          "y" : -178.2783900096498
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51382",
+          "shared_name" : "Node 13",
+          "name" : "Phenotype",
+          "SUID" : 51382,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -487.7420129776001,
+          "y" : -855.3146133422852
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51377",
+          "shared_name" : "Node 12",
+          "name" : "Risk Factors",
+          "SUID" : 51377,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -486.6305985450745,
+          "y" : -707.4089405536652
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51372",
+          "shared_name" : "Node 11",
+          "name" : "MRI",
+          "SUID" : 51372,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -490.9580383300781,
+          "y" : -559.2985424995422
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51367",
+          "shared_name" : "Node 10",
+          "name" : "PET",
+          "SUID" : 51367,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -489.9255971908569,
+          "y" : -408.4668321609497
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51362",
+          "shared_name" : "Node 9",
+          "name" : "Molecular",
+          "SUID" : 51362,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -486.3392695112967,
+          "y" : -249.09656653166445
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51353",
+          "shared_name" : "Node 8",
+          "name" : "2%\n\n\n\n0%",
+          "SUID" : 51353,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -440.9136845750946,
+          "y" : -26.971474647521973
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51348",
+          "shared_name" : "Node 7",
+          "name" : "Genetic",
+          "SUID" : 51348,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -476.569212656732,
+          "y" : -99.12761080919799
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51343",
+          "shared_name" : "Node 6",
+          "SUID" : 51343,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -493.391839829807,
+          "y" : -784.1286528390694
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51338",
+          "shared_name" : "Node 5",
+          "SUID" : 51338,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -489.4319158250333,
+          "y" : -334.72342942740414
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51333",
+          "shared_name" : "Node 4",
+          "SUID" : 51333,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -488.17858288652,
+          "y" : -177.21188632995853
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51328",
+          "shared_name" : "Node 3",
+          "SUID" : 51328,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -488.4828812356708,
+          "y" : -26.284221739671107
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51323",
+          "shared_name" : "Node 2",
+          "SUID" : 51323,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -490.962909030682,
+          "y" : -634.7688399082768
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51318",
+          "shared_name" : "Node 1",
+          "SUID" : 51318,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -489.9048965370573,
+          "y" : -486.8062095825741
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "3348",
+          "shared_name" : "Node 1",
+          "ignore_existing" : true,
+          "name" : "% of total paths",
+          "node_degree" : 0.0,
+          "SUID" : 3348,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -482.3628384871968,
+          "y" : -941.7029656464146
+        },
+        "selected" : false
+      }, {
         "data" : {
           "id" : "8709",
           "shared_name" : "FRTMIDL02_FDG",
@@ -23379,39 +24513,43 @@ var datasets = [
           "background-opacity" : 1.0,
           "background-color" : function(ele) {
             var layer = ele.data('layer');
-            if (layer === 'GENETIC'){
-              var node_degree = ele.data('node_degree')/11;
-              var baseColor = [144, 28, 162];
-            } else if (layer === 'MOLECULAR') {
-              var node_degree = ele.data('node_degree')/38;
-              var baseColor = [7, 140, 7];
-            } else if (layer === 'PET') {
-              var node_degree = ele.data('node_degree')/27;
-              var baseColor = [180, 0, 0];
-            } else if (layer === 'MRI') {
-              var node_degree = ele.data('node_degree')/15;
-              // var baseColor = [255, 128, 0];
-              var baseColor = [5, 68, 70];
-            } else if (layer === 'RISKFACTORS') {
-              var node_degree = ele.data('node_degree')/20;
-              var baseColor = [109, 112, 4];
-            } else if (layer == 'PHENOTYPE') {
-              var node_degree = ele.data('node_degree')/80;
-              var baseColor = [87, 87, 220];
+            if (layer !== 'no'){
+              if (layer === 'GENETIC'){
+                var node_degree = ele.data('node_degree')/11;
+                var baseColor = [144, 28, 162];
+              } else if (layer === 'MOLECULAR') {
+                var node_degree = ele.data('node_degree')/38;
+                var baseColor = [7, 140, 7];
+              } else if (layer === 'PET') {
+                var node_degree = ele.data('node_degree')/27;
+                var baseColor = [180, 0, 0];
+              } else if (layer === 'MRI') {
+                var node_degree = ele.data('node_degree')/15;
+                // var baseColor = [255, 128, 0];
+                var baseColor = [5, 68, 70];
+              } else if (layer === 'RISKFACTORS') {
+                var node_degree = ele.data('node_degree')/20;
+                var baseColor = [109, 112, 4];
+              } else if (layer == 'PHENOTYPE') {
+                var node_degree = ele.data('node_degree')/80;
+                var baseColor = [87, 87, 220];
+              }
+              var colorValue = Math.floor((1-node_degree) * 255);
+              // Crea el gradiente de color utilizando el valor de color calculado
+              var redValue = baseColor[0] + colorValue;
+              var greenValue = baseColor[1] + colorValue;
+              var blueValue = baseColor[2] + colorValue;
+              // Asegura que los valores RGB estén dentro del rango válido de 0 a 255
+              redValue = Math.max(0, redValue);
+              greenValue = Math.max(0, greenValue);
+              blueValue = Math.max(0, blueValue);
+              redValue = Math.min(255, redValue);
+              greenValue = Math.min(255, greenValue);
+              blueValue = Math.min(255, blueValue);
+              return 'rgb(' + redValue + ',' + greenValue + ',' + blueValue + ')';
+            } else {
+              return 'rgb(255,255,255)';
             }
-            var colorValue = Math.floor((1-node_degree) * 255);
-            // Crea el gradiente de color utilizando el valor de color calculado
-            var redValue = baseColor[0] + colorValue;
-            var greenValue = baseColor[1] + colorValue;
-            var blueValue = baseColor[2] + colorValue;
-            // Asegura que los valores RGB estén dentro del rango válido de 0 a 255
-            redValue = Math.max(0, redValue);
-            greenValue = Math.max(0, greenValue);
-            blueValue = Math.max(0, blueValue);
-            redValue = Math.min(255, redValue);
-            greenValue = Math.min(255, greenValue);
-            blueValue = Math.min(255, blueValue);
-            return 'rgb(' + redValue + ',' + greenValue + ',' + blueValue + ')';
           },
           "font-size" : 7,
           "font-family" : "sans-serif",
@@ -23448,6 +24586,145 @@ var datasets = [
             }
           },
           "content" : "data(name)"
+        }
+      }, {
+        "selector" : "node[ id = '51328' ]",
+        "css" : {
+          'background-gradient-stop-colors': 'rgb(144,28,162) rgb(255,255,255)',
+          'background-gradient-direction': 'to-bottom',
+          'background-fill': 'linear-gradient',
+          "width" : 30.0,
+          "shape" : "rectangle",
+          "height" : 100.0
+        }
+      }, {
+        "selector" : "node[ id = '51392' ], node[ id = '51397' ], node[ id = '51402' ], node[ id = '51407' ], node[ id = '51412' ], node[ id = '51353' ]",
+        "css" : {
+          "background-color" : "rgb(255,255,255)",
+          "border-color" : "rgb(255,255,255)",
+          "shape" : "rectangle",
+          "font-size" : 20,
+          "font-weight" : "normal",
+          "height" : 100.0
+        }
+      }, {
+        "selector" : "node[ id = '2977' ], node[ id = '2981' ], node[ id = '2985' ], node[ id = '2971' ], node[ id = '2993' ], node[ id = '2995' ]",
+        "css" : {
+          "background-color" : "rgb(255,255,255)",
+          "width" : 350.0,
+          "shape" : "rectangle",
+          "font-size" : 20,
+          "font-weight" : "normal",
+          "height" : 150.0,
+          "border-color" : "rgb(37,37,37)"
+        }
+      }, {
+        "selector" : "node[ id = '51362' ], node[ id = '51367' ], node[ id = '51372' ], node[ id = '51377' ], node[ id = '51348' ], node[ id = '51382' ]",
+        "css" : {
+          "background-color" : "rgb(255,255,255)",
+          "border-color" : "rgb(255,255,255)",
+          "width" : 120.0,
+          "shape" : "rectangle",
+          "font-size" : 20,
+          "font-weight" : "normal",
+          "text-max-width": 300.0,
+          "height" : 40.0
+        }
+      }, {
+        "selector" : "node[ id = '2979' ], node[ id = '2983' ], node[ id = '2987' ], node[ id = '2991' ], node[ id = '2973' ], node[ id = '2975' ]",
+        "css" : {
+          "background-color" : "rgb(255,255,255)",
+          "width" : 80.0,
+          "shape" : "rectangle",
+          "font-size" : 20,
+          "font-weight" : "normal",
+          "text-max-width": 300.0,
+          "height" : 150.0,
+          "border-color" : "rgb(37,37,37)"
+        }
+      }, {
+        "selector" : "node[ id = '51333' ]",
+        "css" : {
+          'background-gradient-stop-colors': 'rgb(7,140,7) rgb(255,255,255)',
+          'background-gradient-direction': 'to-bottom',
+          'background-fill': 'linear-gradient',
+          "width" : 30.0,
+          "shape" : "rectangle",
+          "height" : 100.0
+        }
+      }, {
+        "selector" : "node[ id = '51338' ]",
+        "css" : {
+          'background-gradient-stop-colors': 'rgb(180,0,0) rgb(255,255,255)',
+          'background-gradient-direction': 'to-bottom',
+          'background-fill': 'linear-gradient',
+          "width" : 30.0,
+          "shape" : "rectangle",
+          "height" : 100.0
+        }
+      }, {
+        "selector" : "node[ id = '2989' ]",
+        "css" : {
+          "background-color" : "rgb(255,255,255)",
+          "width" : 80.0,
+          "shape" : "rectangle",
+          "font-size" : 20,
+          "font-weight" : "normal",
+          "text-max-width": 300.0,
+          "border-color" : "rgb(37,37,37)"
+        }
+      }, {
+        "selector" : "node[ id = '51343' ]",
+        "css" : {
+          'background-gradient-stop-colors': 'rgb(87,87,220) rgb(255,255,255)',
+          'background-gradient-direction': 'to-bottom',
+          'background-fill': 'linear-gradient',
+          "width" : 30.0,
+          "shape" : "rectangle",
+          "height" : 100.0
+        }
+      }, {
+        "selector" : "node[ id = '3348' ]",
+        "css" : {
+          "background-color" : "rgb(255,255,255)",
+          "width" : 150.0,
+          "shape" : "rectangle",
+          "font-size" : 20,
+          "font-weight" : "normal",
+          "text-max-width": 300.0,
+          "height" : 40.0,
+          "border-color" : "rgb(37,37,37)"
+        }
+      }, {
+        "selector" : "node[ id = '51318' ]",
+        "css" : {
+          'background-gradient-stop-colors': 'rgb(5,68,70) rgb(255,255,255)',
+          'background-gradient-direction': 'to-bottom',
+          'background-fill': 'linear-gradient',
+          "width" : 30.0,
+          "shape" : "rectangle",
+          "height" : 100.0
+        }
+      }, {
+        "selector" : "node[ id = '2967' ], node[ id = '2969' ]",
+        "css" : {
+          "background-color" : "rgb(255,255,255)",
+          "width" : 300.0,
+          "shape" : "rectangle",
+          "font-size" : 20,
+          "font-weight" : "normal",
+          "text-max-width": 300.0,
+          "border-color" : "rgb(37,37,37)"
+        }
+      }, {
+        "selector" : "node[ id = '51323' ]",
+        "css" : {
+          'background-gradient-stop-colors': 'rgb(109,112,4) rgb(255,255,255)',
+          'background-gradient-direction': 'to-bottom',
+          'background-fill': 'linear-gradient',
+          "width" : 30.0,
+          "shape" : "rectangle",
+          "height" : 100.0
         }
       }, {
         "selector" : "node:selected",
@@ -23773,7 +25050,7 @@ var datasets = [
         "data" : {
           "id" : "51412",
           "shared_name" : "Node 19",
-          "name" : "9%\n\n\n0%",
+          "name" : "9%\n\n\n\n0%",
           "SUID" : 51412,
           "layer" : "no",
           "selected" : false
@@ -23787,7 +25064,7 @@ var datasets = [
         "data" : {
           "id" : "51407",
           "shared_name" : "Node 18",
-          "name" : "13%\n\n\n0%",
+          "name" : "13%\n\n\n\n0%",
           "SUID" : 51407,
           "layer" : "no",
           "selected" : false
@@ -23801,7 +25078,7 @@ var datasets = [
         "data" : {
           "id" : "51402",
           "shared_name" : "Node 17",
-          "name" : "5%\n\n\n0%",
+          "name" : "5%\n\n\n\n0%",
           "SUID" : 51402,
           "layer" : "no",
           "selected" : false
@@ -23815,7 +25092,7 @@ var datasets = [
         "data" : {
           "id" : "51397",
           "shared_name" : "Node 16",
-          "name" : "8%\n\n\n0%",
+          "name" : "8%\n\n\n\n0%",
           "SUID" : 51397,
           "layer" : "no",
           "selected" : false
@@ -23829,7 +25106,7 @@ var datasets = [
         "data" : {
           "id" : "51392",
           "shared_name" : "Node 15",
-          "name" : "3%\n\n\n0%",
+          "name" : "3%\n\n\n\n0%",
           "SUID" : 51392,
           "layer" : "no",
           "selected" : false
@@ -23913,7 +25190,7 @@ var datasets = [
         "data" : {
           "id" : "51353",
           "shared_name" : "Node 8",
-          "name" : "0,4%\n\n\n0%",
+          "name" : "0,4%\n\n\n\n0%",
           "SUID" : 51353,
           "layer" : "no",
           "selected" : false
@@ -57320,7 +58597,7 @@ var datasets = [
         "data" : {
           "id" : "51412",
           "shared_name" : "Node 19",
-          "name" : "10%\n\n\n0%",
+          "name" : "10%\n\n\n\n0%",
           "SUID" : 51412,
           "layer" : "no",
           "selected" : false
@@ -57334,7 +58611,7 @@ var datasets = [
         "data" : {
           "id" : "51407",
           "shared_name" : "Node 18",
-          "name" : "15%\n\n\n0%",
+          "name" : "15%\n\n\n\n0%",
           "SUID" : 51407,
           "layer" : "no",
           "selected" : false
@@ -57348,7 +58625,7 @@ var datasets = [
         "data" : {
           "id" : "51402",
           "shared_name" : "Node 17",
-          "name" : "12%\n\n\n0%",
+          "name" : "12%\n\n\n\n0%",
           "SUID" : 51402,
           "layer" : "no",
           "selected" : false
@@ -57362,7 +58639,7 @@ var datasets = [
         "data" : {
           "id" : "51397",
           "shared_name" : "Node 16",
-          "name" : "8%\n\n\n0%",
+          "name" : "8%\n\n\n\n0%",
           "SUID" : 51397,
           "layer" : "no",
           "selected" : false
@@ -57376,7 +58653,7 @@ var datasets = [
         "data" : {
           "id" : "51392",
           "shared_name" : "Node 15",
-          "name" : "0,15%\n\n\n0%",
+          "name" : "0,15%\n\n\n\n0%",
           "SUID" : 51392,
           "layer" : "no",
           "selected" : false
@@ -57460,7 +58737,7 @@ var datasets = [
         "data" : {
           "id" : "51353",
           "shared_name" : "Node 8",
-          "name" : "0,3%\n\n\n0%",
+          "name" : "0,3%\n\n\n\n0%",
           "SUID" : 51353,
           "layer" : "no",
           "selected" : false
@@ -88991,7 +90268,7 @@ var datasets = [
         "data" : {
           "id" : "51412",
           "shared_name" : "Node 19",
-          "name" : "11%\n\n\n0%",
+          "name" : "11%\n\n\n\n0%",
           "SUID" : 51412,
           "layer" : "no",
           "selected" : false
@@ -89005,7 +90282,7 @@ var datasets = [
         "data" : {
           "id" : "51407",
           "shared_name" : "Node 18",
-          "name" : "15%\n\n\n0%",
+          "name" : "15%\n\n\n\n0%",
           "SUID" : 51407,
           "layer" : "no",
           "selected" : false
@@ -89019,7 +90296,7 @@ var datasets = [
         "data" : {
           "id" : "51402",
           "shared_name" : "Node 17",
-          "name" : "8%\n\n\n0%",
+          "name" : "8%\n\n\n\n0%",
           "SUID" : 51402,
           "layer" : "no",
           "selected" : false
@@ -89033,7 +90310,7 @@ var datasets = [
         "data" : {
           "id" : "51397",
           "shared_name" : "Node 16",
-          "name" : "4%\n\n\n0%",
+          "name" : "4%\n\n\n\n0%",
           "SUID" : 51397,
           "layer" : "no",
           "selected" : false
@@ -89047,7 +90324,7 @@ var datasets = [
         "data" : {
           "id" : "51392",
           "shared_name" : "Node 15",
-          "name" : "2%\n\n\n0%",
+          "name" : "2%\n\n\n\n0%",
           "SUID" : 51392,
           "layer" : "no",
           "selected" : false
@@ -89131,7 +90408,7 @@ var datasets = [
         "data" : {
           "id" : "51353",
           "shared_name" : "Node 8",
-          "name" : "0,7%\n\n\n0%",
+          "name" : "0,7%\n\n\n\n0%",
           "SUID" : 51353,
           "layer" : "no",
           "selected" : false
