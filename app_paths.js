@@ -23501,6 +23501,540 @@ var datasets = [
     {
       "nodes" : [ {
         "data" : {
+          "id" : "2995",
+          "shared_name" : "Node 1",
+          "ignore_existing" : true,
+          "name" : "APOE\nAPOE_A1\nPHS\nAPOE_A2\nTOMM40_A2",
+          "node_degree" : 0.0,
+          "SUID" : 2995,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 832.4859807849956,
+          "y" : -34.53448867777132
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2993",
+          "shared_name" : "Node 2",
+          "ignore_existing" : true,
+          "name" : "BACE\nUPKelec_PTAU\nEUR_AB42/40\nUPK_PTAU\nUPKelec_TAU",
+          "node_degree" : 0.0,
+          "SUID" : 2993,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 833.5645229406231,
+          "y" : -197.268726112144
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2991",
+          "shared_name" : "Node 3",
+          "ignore_existing" : true,
+          "name" : "18\n17\n11\n9\n6",
+          "node_degree" : 0.0,
+          "SUID" : 2991,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 1060.759951165248,
+          "y" : -33.111759839154146
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2989",
+          "shared_name" : "Node 4",
+          "ignore_existing" : true,
+          "name" : "# paths",
+          "node_degree" : 0.0,
+          "SUID" : 2989,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 1056.9282722467146,
+          "y" : -965.9456803058044
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2987",
+          "shared_name" : "Node 5",
+          "ignore_existing" : true,
+          "name" : "117\n36\n35\n22\n18",
+          "node_degree" : 0.0,
+          "SUID" : 2987,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 1061.289071734176,
+          "y" : -199.9891488410311
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2985",
+          "shared_name" : "Node 6",
+          "ignore_existing" : true,
+          "name" : "SUPMRGL01_FDG\nPCA2_FDG\nFRTMIDL01_FDG\nTMPPOSR02_FDG\nTMPMIDR01_FDG",
+          "node_degree" : 0.0,
+          "SUID" : 2985,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 833.2606250028203,
+          "y" : -360.16072228692735
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2983",
+          "shared_name" : "Node 7",
+          "ignore_existing" : true,
+          "name" : "349\n280\n176\n152\n143",
+          "node_degree" : 0.0,
+          "SUID" : 2983,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 1058.0510800597058,
+          "y" : -362.97687789575764
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2981",
+          "shared_name" : "Node 8",
+          "ignore_existing" : true,
+          "name" : "TOTAL_CSF\nCEREB_TCC\nIPCA\nST56SA\nCEREB_TCV",
+          "node_degree" : 0.0,
+          "SUID" : 2981,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 831.1207562229728,
+          "y" : -521.7595613365754
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2979",
+          "shared_name" : "Node 9",
+          "ignore_existing" : true,
+          "name" : "214\n195\n36\n23\n22",
+          "node_degree" : 0.0,
+          "SUID" : 2979,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 1059.220585076299,
+          "y" : -522.4589702698006
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2977",
+          "shared_name" : "Node 10",
+          "ignore_existing" : true,
+          "name" : "MH5RESP\nMH7DERM\nMH3HEAD\nMH13ALLE\nMH10GAST",
+          "node_degree" : 0.0,
+          "SUID" : 2977,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 829.3632804106982,
+          "y" : -679.0031282864512
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2975",
+          "shared_name" : "Node 11",
+          "ignore_existing" : true,
+          "name" : "595\n479\n424\n413\n407",
+          "node_degree" : 0.0,
+          "SUID" : 2975,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 1059.1204450373662,
+          "y" : -678.9899169485827
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2973",
+          "shared_name" : "Node 12",
+          "ignore_existing" : true,
+          "name" : "440\n439\n429\n424\n422",
+          "node_degree" : 0.0,
+          "SUID" : 2973,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 1055.8760236451826,
+          "y" : -836.0944269638782
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2971",
+          "shared_name" : "Node 13",
+          "ignore_existing" : true,
+          "name" : "ADSP_LAN\nUW_EF\nADAS13\nADAS11\nADSP_EXF",
+          "node_degree" : 0.0,
+          "SUID" : 2971,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 828.3956305228991,
+          "y" : -835.1657560958116
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2969",
+          "shared_name" : "Node 14",
+          "ignore_existing" : true,
+          "name" : "Top nodes",
+          "node_degree" : 0.0,
+          "SUID" : 2969,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 827.6842603887482,
+          "y" : -964.3981248018365
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2967",
+          "shared_name" : "Node 15",
+          "ignore_existing" : true,
+          "name" : "Total # of paths: 4860",
+          "node_degree" : 0.0,
+          "SUID" : 2967,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : 830.6133357753203,
+          "y" : -1049.7885978653132
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51412",
+          "shared_name" : "Node 19",
+          "name" : "9%\n\n\n0%",
+          "SUID" : 51412,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -651.4161207538432,
+          "y" : -784.5321131409835
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51407",
+          "shared_name" : "Node 18",
+          "name" : "13%\n\n\n0%",
+          "SUID" : 51407,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -649.0793902873993,
+          "y" : -636.7012308964784
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51402",
+          "shared_name" : "Node 17",
+          "name" : "5%\n\n\n0%",
+          "SUID" : 51402,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -647.9978904129662,
+          "y" : -488.007396739966
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51397",
+          "shared_name" : "Node 16",
+          "name" : "8%\n\n\n0%",
+          "SUID" : 51397,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -646.0448250704791,
+          "y" : -336.1918010289627
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51392",
+          "shared_name" : "Node 15",
+          "name" : "3%\n\n\n0%",
+          "SUID" : 51392,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -639.6713485717773,
+          "y" : -178.2783900096498
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51382",
+          "shared_name" : "Node 13",
+          "name" : "Phenotype",
+          "SUID" : 51382,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -687.7420129776001,
+          "y" : -855.3146133422852
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51377",
+          "shared_name" : "Node 12",
+          "name" : "Risk Factors",
+          "SUID" : 51377,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -686.6305985450745,
+          "y" : -707.4089405536652
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51372",
+          "shared_name" : "Node 11",
+          "name" : "MRI",
+          "SUID" : 51372,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -690.9580383300781,
+          "y" : -559.2985424995422
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51367",
+          "shared_name" : "Node 10",
+          "name" : "PET",
+          "SUID" : 51367,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -689.9255971908569,
+          "y" : -408.4668321609497
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51362",
+          "shared_name" : "Node 9",
+          "name" : "Molecular",
+          "SUID" : 51362,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -686.3392695112967,
+          "y" : -249.09656653166445
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51353",
+          "shared_name" : "Node 8",
+          "name" : "0,4%\n\n\n0%",
+          "SUID" : 51353,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -640.9136845750946,
+          "y" : -26.971474647521973
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51348",
+          "shared_name" : "Node 7",
+          "name" : "Genetic",
+          "SUID" : 51348,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -676.569212656732,
+          "y" : -99.12761080919799
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51343",
+          "shared_name" : "Node 6",
+          "SUID" : 51343,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -693.391839829807,
+          "y" : -784.1286528390694
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51338",
+          "shared_name" : "Node 5",
+          "SUID" : 51338,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -689.4319158250333,
+          "y" : -334.72342942740414
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51333",
+          "shared_name" : "Node 4",
+          "SUID" : 51333,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -688.17858288652,
+          "y" : -177.21188632995853
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51328",
+          "shared_name" : "Node 3",
+          "SUID" : 51328,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -688.4828812356708,
+          "y" : -26.284221739671107
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51323",
+          "shared_name" : "Node 2",
+          "SUID" : 51323,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -690.962909030682,
+          "y" : -634.7688399082768
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "51318",
+          "shared_name" : "Node 1",
+          "SUID" : 51318,
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -689.9048965370573,
+          "y" : -486.8062095825741
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "3348",
+          "shared_name" : "Node 1",
+          "ignore_existing" : true,
+          "name" : "% of total paths",
+          "node_degree" : 0.0,
+          "SUID" : 3348,
+          "id_original" : "",
+          "value" : "",
+          "layer" : "no",
+          "selected" : false
+        },
+        "position" : {
+          "x" : -682.3628384871968,
+          "y" : -941.7029656464146
+        },
+        "selected" : false
+      }, {
+        "data" : {
           "id" : "4775",
           "shared_name" : "ST118SA",
           "y_position" : -575,
@@ -56520,38 +57054,42 @@ var datasets = [
           "background-opacity" : 1.0,
           "background-color" : function(ele) {
             var layer = ele.data('layer');
-            if (layer === 'GENETIC'){
-              var node_degree = ele.data('node_degree')/13;
-              var baseColor = [144, 28, 162];
-            } else if (layer === 'MOLECULAR') {
-              var node_degree = ele.data('node_degree')/39;
-              var baseColor = [7, 140, 7];
-            } else if (layer === 'PET') {
-              var node_degree = ele.data('node_degree')/51;
-              var baseColor = [180, 0, 0];
-            } else if (layer === 'MRI') {
-              var node_degree = ele.data('node_degree')/35;
-              var baseColor = [5, 68, 70];
-            } else if (layer === 'RISKFACTORS') {
-              var node_degree = ele.data('node_degree')/71;
-              var baseColor = [109, 112, 4];
-            } else if (layer == 'PHENOTYPE') {
-              var node_degree = ele.data('node_degree')/118;
-              var baseColor = [87, 87, 220];
+            if (layer !== 'no'){
+              if (layer === 'GENETIC'){
+                var node_degree = ele.data('node_degree')/13;
+                var baseColor = [144, 28, 162];
+              } else if (layer === 'MOLECULAR') {
+                var node_degree = ele.data('node_degree')/39;
+                var baseColor = [7, 140, 7];
+              } else if (layer === 'PET') {
+                var node_degree = ele.data('node_degree')/51;
+                var baseColor = [180, 0, 0];
+              } else if (layer === 'MRI') {
+                var node_degree = ele.data('node_degree')/35;
+                var baseColor = [5, 68, 70];
+              } else if (layer === 'RISKFACTORS') {
+                var node_degree = ele.data('node_degree')/71;
+                var baseColor = [109, 112, 4];
+              } else if (layer == 'PHENOTYPE') {
+                var node_degree = ele.data('node_degree')/118;
+                var baseColor = [87, 87, 220];
+              }
+              var colorValue = Math.floor((1-node_degree) * 255);
+              // Crea el gradiente de color utilizando el valor de color calculado
+              var redValue = baseColor[0] + colorValue;
+              var greenValue = baseColor[1] + colorValue;
+              var blueValue = baseColor[2] + colorValue;
+              // Asegura que los valores RGB estén dentro del rango válido de 0 a 255
+              redValue = Math.max(0, redValue);
+              greenValue = Math.max(0, greenValue);
+              blueValue = Math.max(0, blueValue);
+              redValue = Math.min(255, redValue);
+              greenValue = Math.min(255, greenValue);
+              blueValue = Math.min(255, blueValue);
+              return 'rgb(' + redValue + ',' + greenValue + ',' + blueValue + ')';
+            } else {
+              return 'rgb(255,255,255)';
             }
-            var colorValue = Math.floor((1-node_degree) * 255);
-            // Crea el gradiente de color utilizando el valor de color calculado
-            var redValue = baseColor[0] + colorValue;
-            var greenValue = baseColor[1] + colorValue;
-            var blueValue = baseColor[2] + colorValue;
-            // Asegura que los valores RGB estén dentro del rango válido de 0 a 255
-            redValue = Math.max(0, redValue);
-            greenValue = Math.max(0, greenValue);
-            blueValue = Math.max(0, blueValue);
-            redValue = Math.min(255, redValue);
-            greenValue = Math.min(255, greenValue);
-            blueValue = Math.min(255, blueValue);
-            return 'rgb(' + redValue + ',' + greenValue + ',' + blueValue + ')';
           },
           "font-size" : 7,
           "font-family" : "sans-serif",
@@ -56588,6 +57126,145 @@ var datasets = [
             }
           },
           "content" : "data(name)"
+        }
+      }, {
+        "selector" : "node[ id = '51328' ]",
+        "css" : {
+          'background-gradient-stop-colors': 'rgb(144,28,162) rgb(255,255,255)',
+          'background-gradient-direction': 'to-bottom',
+          'background-fill': 'linear-gradient',
+          "width" : 30.0,
+          "shape" : "rectangle",
+          "height" : 100.0
+        }
+      }, {
+        "selector" : "node[ id = '51392' ], node[ id = '51397' ], node[ id = '51402' ], node[ id = '51407' ], node[ id = '51412' ], node[ id = '51353' ]",
+        "css" : {
+          "background-color" : "rgb(255,255,255)",
+          "border-color" : "rgb(255,255,255)",
+          "shape" : "rectangle",
+          "font-size" : 20,
+          "font-weight" : "normal",
+          "height" : 100.0
+        }
+      }, {
+        "selector" : "node[ id = '2977' ], node[ id = '2981' ], node[ id = '2985' ], node[ id = '2971' ], node[ id = '2993' ], node[ id = '2995' ]",
+        "css" : {
+          "background-color" : "rgb(255,255,255)",
+          "width" : 350.0,
+          "shape" : "rectangle",
+          "font-size" : 20,
+          "font-weight" : "normal",
+          "height" : 150.0,
+          "border-color" : "rgb(37,37,37)"
+        }
+      }, {
+        "selector" : "node[ id = '51362' ], node[ id = '51367' ], node[ id = '51372' ], node[ id = '51377' ], node[ id = '51348' ], node[ id = '51382' ]",
+        "css" : {
+          "background-color" : "rgb(255,255,255)",
+          "border-color" : "rgb(255,255,255)",
+          "width" : 120.0,
+          "shape" : "rectangle",
+          "font-size" : 20,
+          "font-weight" : "normal",
+          "text-max-width": 300.0,
+          "height" : 40.0
+        }
+      }, {
+        "selector" : "node[ id = '2979' ], node[ id = '2983' ], node[ id = '2987' ], node[ id = '2991' ], node[ id = '2973' ], node[ id = '2975' ]",
+        "css" : {
+          "background-color" : "rgb(255,255,255)",
+          "width" : 80.0,
+          "shape" : "rectangle",
+          "font-size" : 20,
+          "font-weight" : "normal",
+          "text-max-width": 300.0,
+          "height" : 150.0,
+          "border-color" : "rgb(37,37,37)"
+        }
+      }, {
+        "selector" : "node[ id = '51333' ]",
+        "css" : {
+          'background-gradient-stop-colors': 'rgb(7,140,7) rgb(255,255,255)',
+          'background-gradient-direction': 'to-bottom',
+          'background-fill': 'linear-gradient',
+          "width" : 30.0,
+          "shape" : "rectangle",
+          "height" : 100.0
+        }
+      }, {
+        "selector" : "node[ id = '51338' ]",
+        "css" : {
+          'background-gradient-stop-colors': 'rgb(180,0,0) rgb(255,255,255)',
+          'background-gradient-direction': 'to-bottom',
+          'background-fill': 'linear-gradient',
+          "width" : 30.0,
+          "shape" : "rectangle",
+          "height" : 100.0
+        }
+      }, {
+        "selector" : "node[ id = '2989' ]",
+        "css" : {
+          "background-color" : "rgb(255,255,255)",
+          "width" : 80.0,
+          "shape" : "rectangle",
+          "font-size" : 20,
+          "font-weight" : "normal",
+          "text-max-width": 300.0,
+          "border-color" : "rgb(37,37,37)"
+        }
+      }, {
+        "selector" : "node[ id = '51343' ]",
+        "css" : {
+          'background-gradient-stop-colors': 'rgb(87,87,220) rgb(255,255,255)',
+          'background-gradient-direction': 'to-bottom',
+          'background-fill': 'linear-gradient',
+          "width" : 30.0,
+          "shape" : "rectangle",
+          "height" : 100.0
+        }
+      }, {
+        "selector" : "node[ id = '3348' ]",
+        "css" : {
+          "background-color" : "rgb(255,255,255)",
+          "width" : 150.0,
+          "shape" : "rectangle",
+          "font-size" : 20,
+          "font-weight" : "normal",
+          "text-max-width": 300.0,
+          "height" : 40.0,
+          "border-color" : "rgb(37,37,37)"
+        }
+      }, {
+        "selector" : "node[ id = '51318' ]",
+        "css" : {
+          'background-gradient-stop-colors': 'rgb(5,68,70) rgb(255,255,255)',
+          'background-gradient-direction': 'to-bottom',
+          'background-fill': 'linear-gradient',
+          "width" : 30.0,
+          "shape" : "rectangle",
+          "height" : 100.0
+        }
+      }, {
+        "selector" : "node[ id = '2967' ], node[ id = '2969' ]",
+        "css" : {
+          "background-color" : "rgb(255,255,255)",
+          "width" : 300.0,
+          "shape" : "rectangle",
+          "font-size" : 20,
+          "font-weight" : "normal",
+          "text-max-width": 300.0,
+          "border-color" : "rgb(37,37,37)"
+        }
+      }, {
+        "selector" : "node[ id = '51323' ]",
+        "css" : {
+          'background-gradient-stop-colors': 'rgb(109,112,4) rgb(255,255,255)',
+          'background-gradient-direction': 'to-bottom',
+          'background-fill': 'linear-gradient',
+          "width" : 30.0,
+          "shape" : "rectangle",
+          "height" : 100.0
         }
       }, {
         "selector" : "node:selected",
