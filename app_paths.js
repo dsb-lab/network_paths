@@ -3888,6 +3888,7 @@ var datasets = [
           'background-gradient-stop-colors': 'rgb(144,28,162) rgb(255,255,255)',
           'background-gradient-direction': 'to-bottom',
           'background-fill': 'linear-gradient',
+          "border-color" : "rgb(255,255,255)",
           "width" : 30.0,
           "shape" : "rectangle",
           "height" : 100.0
@@ -3943,6 +3944,7 @@ var datasets = [
           'background-gradient-stop-colors': 'rgb(7,140,7) rgb(255,255,255)',
           'background-gradient-direction': 'to-bottom',
           'background-fill': 'linear-gradient',
+          "border-color" : "rgb(255,255,255)",
           "width" : 30.0,
           "shape" : "rectangle",
           "height" : 100.0
@@ -3953,6 +3955,7 @@ var datasets = [
           'background-gradient-stop-colors': 'rgb(180,0,0) rgb(255,255,255)',
           'background-gradient-direction': 'to-bottom',
           'background-fill': 'linear-gradient',
+          "border-color" : "rgb(255,255,255)",
           "width" : 30.0,
           "shape" : "rectangle",
           "height" : 100.0
@@ -3974,6 +3977,7 @@ var datasets = [
           'background-gradient-stop-colors': 'rgb(87,87,220) rgb(255,255,255)',
           'background-gradient-direction': 'to-bottom',
           'background-fill': 'linear-gradient',
+          "border-color" : "rgb(255,255,255)",
           "width" : 30.0,
           "shape" : "rectangle",
           "height" : 100.0
@@ -3996,6 +4000,7 @@ var datasets = [
           'background-gradient-stop-colors': 'rgb(5,68,70) rgb(255,255,255)',
           'background-gradient-direction': 'to-bottom',
           'background-fill': 'linear-gradient',
+          "border-color" : "rgb(255,255,255)",
           "width" : 30.0,
           "shape" : "rectangle",
           "height" : 100.0
@@ -4017,6 +4022,7 @@ var datasets = [
           'background-gradient-stop-colors': 'rgb(109,112,4) rgb(255,255,255)',
           'background-gradient-direction': 'to-bottom',
           'background-fill': 'linear-gradient',
+          "border-color" : "rgb(255,255,255)",
           "width" : 30.0,
           "shape" : "rectangle",
           "height" : 100.0
@@ -24593,6 +24599,7 @@ var datasets = [
           'background-gradient-stop-colors': 'rgb(144,28,162) rgb(255,255,255)',
           'background-gradient-direction': 'to-bottom',
           'background-fill': 'linear-gradient',
+          "border-color" : "rgb(255,255,255)",
           "width" : 30.0,
           "shape" : "rectangle",
           "height" : 100.0
@@ -24648,6 +24655,7 @@ var datasets = [
           'background-gradient-stop-colors': 'rgb(7,140,7) rgb(255,255,255)',
           'background-gradient-direction': 'to-bottom',
           'background-fill': 'linear-gradient',
+          "border-color" : "rgb(255,255,255)",
           "width" : 30.0,
           "shape" : "rectangle",
           "height" : 100.0
@@ -24658,6 +24666,7 @@ var datasets = [
           'background-gradient-stop-colors': 'rgb(180,0,0) rgb(255,255,255)',
           'background-gradient-direction': 'to-bottom',
           'background-fill': 'linear-gradient',
+          "border-color" : "rgb(255,255,255)",
           "width" : 30.0,
           "shape" : "rectangle",
           "height" : 100.0
@@ -24679,6 +24688,7 @@ var datasets = [
           'background-gradient-stop-colors': 'rgb(87,87,220) rgb(255,255,255)',
           'background-gradient-direction': 'to-bottom',
           'background-fill': 'linear-gradient',
+          "border-color" : "rgb(255,255,255)",
           "width" : 30.0,
           "shape" : "rectangle",
           "height" : 100.0
@@ -24701,6 +24711,7 @@ var datasets = [
           'background-gradient-stop-colors': 'rgb(5,68,70) rgb(255,255,255)',
           'background-gradient-direction': 'to-bottom',
           'background-fill': 'linear-gradient',
+          "border-color" : "rgb(255,255,255)",
           "width" : 30.0,
           "shape" : "rectangle",
           "height" : 100.0
@@ -24722,6 +24733,7 @@ var datasets = [
           'background-gradient-stop-colors': 'rgb(109,112,4) rgb(255,255,255)',
           'background-gradient-direction': 'to-bottom',
           'background-fill': 'linear-gradient',
+          "border-color" : "rgb(255,255,255)",
           "width" : 30.0,
           "shape" : "rectangle",
           "height" : 100.0
@@ -58410,6 +58422,7 @@ var datasets = [
           'background-gradient-stop-colors': 'rgb(144,28,162) rgb(255,255,255)',
           'background-gradient-direction': 'to-bottom',
           'background-fill': 'linear-gradient',
+          "border-color" : "rgb(255,255,255)",
           "width" : 30.0,
           "shape" : "rectangle",
           "height" : 100.0
@@ -58465,6 +58478,7 @@ var datasets = [
           'background-gradient-stop-colors': 'rgb(7,140,7) rgb(255,255,255)',
           'background-gradient-direction': 'to-bottom',
           'background-fill': 'linear-gradient',
+          "border-color" : "rgb(255,255,255)",
           "width" : 30.0,
           "shape" : "rectangle",
           "height" : 100.0
@@ -58475,6 +58489,7 @@ var datasets = [
           'background-gradient-stop-colors': 'rgb(180,0,0) rgb(255,255,255)',
           'background-gradient-direction': 'to-bottom',
           'background-fill': 'linear-gradient',
+          "border-color" : "rgb(255,255,255)",
           "width" : 30.0,
           "shape" : "rectangle",
           "height" : 100.0
@@ -58496,6 +58511,7 @@ var datasets = [
           'background-gradient-stop-colors': 'rgb(87,87,220) rgb(255,255,255)',
           'background-gradient-direction': 'to-bottom',
           'background-fill': 'linear-gradient',
+          "border-color" : "rgb(255,255,255)",
           "width" : 30.0,
           "shape" : "rectangle",
           "height" : 100.0
@@ -58518,6 +58534,7 @@ var datasets = [
           'background-gradient-stop-colors': 'rgb(5,68,70) rgb(255,255,255)',
           'background-gradient-direction': 'to-bottom',
           'background-fill': 'linear-gradient',
+          "border-color" : "rgb(255,255,255)",
           "width" : 30.0,
           "shape" : "rectangle",
           "height" : 100.0
@@ -58539,6 +58556,7 @@ var datasets = [
           'background-gradient-stop-colors': 'rgb(109,112,4) rgb(255,255,255)',
           'background-gradient-direction': 'to-bottom',
           'background-fill': 'linear-gradient',
+          "border-color" : "rgb(255,255,255)",
           "width" : 30.0,
           "shape" : "rectangle",
           "height" : 100.0
@@ -89811,6 +89829,7 @@ var datasets = [
           'background-gradient-stop-colors': 'rgb(144,28,162) rgb(255,255,255)',
           'background-gradient-direction': 'to-bottom',
           'background-fill': 'linear-gradient',
+          "border-color" : "rgb(255,255,255)",
           "width" : 30.0,
           "shape" : "rectangle",
           "height" : 100.0
@@ -89866,6 +89885,7 @@ var datasets = [
           'background-gradient-stop-colors': 'rgb(7,140,7) rgb(255,255,255)',
           'background-gradient-direction': 'to-bottom',
           'background-fill': 'linear-gradient',
+          "border-color" : "rgb(255,255,255)",
           "width" : 30.0,
           "shape" : "rectangle",
           "height" : 100.0
@@ -89876,6 +89896,7 @@ var datasets = [
           'background-gradient-stop-colors': 'rgb(180,0,0) rgb(255,255,255)',
           'background-gradient-direction': 'to-bottom',
           'background-fill': 'linear-gradient',
+          "border-color" : "rgb(255,255,255)",
           "width" : 30.0,
           "shape" : "rectangle",
           "height" : 100.0
@@ -89897,6 +89918,7 @@ var datasets = [
           'background-gradient-stop-colors': 'rgb(87,87,220) rgb(255,255,255)',
           'background-gradient-direction': 'to-bottom',
           'background-fill': 'linear-gradient',
+          "border-color" : "rgb(255,255,255)",
           "width" : 30.0,
           "shape" : "rectangle",
           "height" : 100.0
@@ -89919,6 +89941,7 @@ var datasets = [
           'background-gradient-stop-colors': 'rgb(5,68,70) rgb(255,255,255)',
           'background-gradient-direction': 'to-bottom',
           'background-fill': 'linear-gradient',
+          "border-color" : "rgb(255,255,255)",
           "width" : 30.0,
           "shape" : "rectangle",
           "height" : 100.0
@@ -89940,6 +89963,7 @@ var datasets = [
           'background-gradient-stop-colors': 'rgb(109,112,4) rgb(255,255,255)',
           'background-gradient-direction': 'to-bottom',
           'background-fill': 'linear-gradient',
+          "border-color" : "rgb(255,255,255)",
           "width" : 30.0,
           "shape" : "rectangle",
           "height" : 100.0
@@ -117956,6 +117980,7 @@ var datasets = [
           'background-gradient-stop-colors': 'rgb(144,28,162) rgb(255,255,255)',
           'background-gradient-direction': 'to-bottom',
           'background-fill': 'linear-gradient',
+          "border-color" : "rgb(255,255,255)",
           "width" : 30.0,
           "shape" : "rectangle",
           "height" : 100.0
@@ -118011,6 +118036,7 @@ var datasets = [
           'background-gradient-stop-colors': 'rgb(7,140,7) rgb(255,255,255)',
           'background-gradient-direction': 'to-bottom',
           'background-fill': 'linear-gradient',
+          "border-color" : "rgb(255,255,255)",
           "width" : 30.0,
           "shape" : "rectangle",
           "height" : 100.0
@@ -118021,6 +118047,7 @@ var datasets = [
           'background-gradient-stop-colors': 'rgb(180,0,0) rgb(255,255,255)',
           'background-gradient-direction': 'to-bottom',
           'background-fill': 'linear-gradient',
+          "border-color" : "rgb(255,255,255)",
           "width" : 30.0,
           "shape" : "rectangle",
           "height" : 100.0
@@ -118042,6 +118069,7 @@ var datasets = [
           'background-gradient-stop-colors': 'rgb(87,87,220) rgb(255,255,255)',
           'background-gradient-direction': 'to-bottom',
           'background-fill': 'linear-gradient',
+          "border-color" : "rgb(255,255,255)",
           "width" : 30.0,
           "shape" : "rectangle",
           "height" : 100.0
@@ -118064,6 +118092,7 @@ var datasets = [
           'background-gradient-stop-colors': 'rgb(5,68,70) rgb(255,255,255)',
           'background-gradient-direction': 'to-bottom',
           'background-fill': 'linear-gradient',
+          "border-color" : "rgb(255,255,255)",
           "width" : 30.0,
           "shape" : "rectangle",
           "height" : 100.0
@@ -118085,6 +118114,7 @@ var datasets = [
           'background-gradient-stop-colors': 'rgb(109,112,4) rgb(255,255,255)',
           'background-gradient-direction': 'to-bottom',
           'background-fill': 'linear-gradient',
+          "border-color" : "rgb(255,255,255)",
           "width" : 30.0,
           "shape" : "rectangle",
           "height" : 100.0
@@ -118157,7 +118187,7 @@ var getSvgUrl = function(cy) {
 
 var saveAsPng = function(cy, filename) {
   var pngContent = cy.png({
-    scale: 10, // increase the scale to double the resolution
+    scale: 2, // increase the scale to double the resolution
     full: true // capture the full viewport
   });
   var blob = dataURLtoBlob(pngContent);
