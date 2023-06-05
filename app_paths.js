@@ -4054,10 +4054,6 @@ var datasets = [
             return 'rgb(' + colorValue + ',' + colorValue + ',' + colorValue + ')';
           },
           "opacity": 1.0,
-          // "opacity" : function(ele) {
-          //   var weight = ele.data('count')/12;
-          //   return 5*weight;
-          // },
           "target-arrow-shape" : "none",
           "source-arrow-shape" : "none",
           "source-arrow-color" : "rgb(0,0,0)",
@@ -4065,7 +4061,10 @@ var datasets = [
           "font-family" : "system-ui",
           "font-weight" : "normal",
           "content" : "",
-          "width" : 1.0,
+          "width" : function(ele) {
+            var weight = ele.data('count')/24;
+            return 10*weight;
+          },
           "line-style" : "solid",
           "curve-style": "unbundled-bezier",
           "control-point-distances": [60, -60],
@@ -24771,7 +24770,7 @@ var datasets = [
           "font-weight" : "normal",
           "content" : "",
           "width" : function(ele) {
-            var weight = ele.data('count')/105;
+            var weight = ele.data('count')/100;
             return 10*weight;
           },
           "line-style" : "solid",
@@ -90002,7 +90001,7 @@ var datasets = [
           "content" : "",
           "width" : function(ele) {
             var weight = ele.data('count')/120;
-            return 7*weight;
+            return 9*weight;
           },
           "line-style" : "solid",
           "curve-style": "unbundled-bezier",
